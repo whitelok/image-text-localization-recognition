@@ -51,18 +51,18 @@
 - [`Synthetic Word Dataset (Oxford, VGG)`](http://www.robots.ox.ac.uk/~vgg/data/text/)   `2014`
  - 9 million images covering 90k English words
  - Task: text recognition, segmantation
- - [`download`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
+ - [`下载`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
 
 - [`IIIT 5K-Words`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html)   `2012`
  - 5000 images from Scene Texts and born-digital (2k training and 3k testing images)
  - Each image is a cropped word image of scene text with case-insensitive labels
  - Task: text recognition
- - [`download`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K-Word_V3.0.tar.gz)
+ - [`下载`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K-Word_V3.0.tar.gz)
 
 - [`StanfordSynth(Stanford, AI Group)`](http://cs.stanford.edu/people/twangcat/#research)   `2012`
  - Small single-character images of 62 characters (0-9, a-z, A-Z)
  - Task: text recognition
- - [`download`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/syntheticData.tar)
+ - [`下载`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/syntheticData.tar)
 
 - [`MSRA Text Detection 500 Database (MSRA-TD500)`](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500))   `2012`
  - 500 natural images(resolutions of the images vary from 1296x864 to 1920x1280)
