@@ -99,7 +99,7 @@
 ## 在线识别服务
 
 | 名称 | 描述 |
-|---|---|----
+|---|----
 |[Online OCR](https://www.onlineocr.net/)| 有API，免费 |
 |[Free OCR](http://www.free-ocr.com/)| 有API，免费 |
 |[New OCR](http://www.newocr.com/)| 有API，免费 |
