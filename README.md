@@ -99,7 +99,7 @@ A curated list of resources dedicated to scene text localization and recognition
 ## Online OCR Service
 
 | Name | Description |
-|---|---|----
+|---|----
 |[Online OCR](https://www.onlineocr.net/)| API，free |
 |[Free OCR](http://www.free-ocr.com/)| API，free |
 |[New OCR](http://www.newocr.com/)| API，free |
