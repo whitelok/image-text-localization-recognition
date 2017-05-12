@@ -96,7 +96,16 @@
 |[ICDAR 2005](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2005_Robust_Reading_Competitions)| 1001 training images and 489 testing images |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.academia.edu/download/30700479/10.1.1.96.4332.pdf)|
 |[ICDAR 2003](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2003_Robust_Reading_Competitions)| 181 training images and 251 testing images(word level and character level) |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3461&rep=rep1&type=pdf)|
 
+## 在线识别服务
 
+| 名称 | 描述 |
+|---|---|----
+|[Online OCR](https://www.onlineocr.net/)| 有API，免费 |
+|[Free OCR](http://www.free-ocr.com/)| 有API，免费 |
+|[New OCR](http://www.newocr.com/)| 有API，免费 |
+|[ABBYY FineReader Online](https://finereaderonline.com)| 无API，收费 |
+|[在线超级转换工具](http://www.wdku.net/)| 无API，免费 |
+|[在线中文识别](http://chongdata.com/ocr/)| 有API，免费 |
 
 ## 相关博客
 
