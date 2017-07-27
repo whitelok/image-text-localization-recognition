@@ -25,6 +25,7 @@
 - [2014-NIPS][TR] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`paper`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`model`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
 
 #### Shenzhen Institutes of Advanced Technology
+- [2016-ECCV][STL] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`paper`](https://arxiv.org/abs/1609.03605) [`code`](https://github.com/tianzhi0549/CTPN)
 - [2016-arXiv][STL] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network [`paper`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][STL] Reading Scene Text in Deep Convolutional Sequences [`paper`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][STL] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`paper`](http://whuang.org/papers/the2016_tip.pdf)
@@ -42,7 +43,7 @@
 - [2017-CVPR][STL] Detecting Oriented Text in Natural Images by Linking Segments [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2016-CVPR][TR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-CVPR][STL] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github`](https://github.com/bgshih/crnn)
+- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
 
 #### Universitat Autònoma de Barcelona
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)

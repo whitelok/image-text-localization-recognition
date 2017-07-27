@@ -25,6 +25,7 @@
 - [2014-NIPS][文字识别] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`主页`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`模型`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
 
 #### 中国科学院深圳先进技术研究院
+- [2016-ECCV][位置感知] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`论文`](https://arxiv.org/abs/1609.03605) [`代码`](https://github.com/tianzhi0549/CTPN)
 - [2016-arXiv][位置感知] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
  [`论文`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][位置感知] Reading Scene Text in Deep Convolutional Sequences [`论文`](http://whuang.org/papers/phe2016_aaai.pdf)
@@ -43,7 +44,7 @@
 - [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2016-CVPR][文字识别] Robust scene text recognition with automatic rectification [`论文`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github  代码`](https://github.com/bgshih/crnn)
+- [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github 代码`](https://github.com/bgshih/crnn)
 
 #### 巴塞罗那自治大学
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
