@@ -49,6 +49,7 @@
 
 #### 巴塞罗那自治大学
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
+- [2016-arXiv][位置感知] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`论文`](https://arxiv.org/pdf/1604.02619.pdf) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
@@ -82,6 +83,9 @@
 
 #### 法国高等信息工程师学院
 - [2016-IJDAR][位置感知] TextCatcher: a method to detect curved and challenging text in natural scenes [`论文`](https://link.springer.com/article/10.1007/s10032-016-0264-4)
+
+#### 布拉格捷克理工大学
+- [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 
 ## 2. 训练数据集合
 
