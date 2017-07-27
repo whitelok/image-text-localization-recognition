@@ -8,7 +8,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-## Papers & Code
+## 1. Papers & Code
 
 ### Overview
 - [2016-TIP] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`paper`](http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=7452620&icp=false)
@@ -70,7 +70,7 @@
 
 
 
-## Datasets
+## 2. Datasets
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
  - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
  - Task: text location and recognition

@@ -8,7 +8,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-## 论文和代码
+## 1. 论文和代码
 
 ### 综述型论文
 - [2016-TIP] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
@@ -71,7 +71,7 @@
 
 
 
-## 训练数据集合
+## 2. 训练数据集合
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
  - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
  - Task: text location and recognition
