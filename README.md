@@ -36,24 +36,24 @@
 ### Fudan University
 - [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`paper`](https://arxiv.org/abs/1703.01086)
 
-### HUST
-- [2017-CVPR] Detecting Oriented Text in Natural Images by Linking Segments [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
-- [2016-CVPR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
-- [2016-CVPR] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-CoRR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github`](https://github.com/bgshih/crnn)
+### Huazhong University of Science and Technology
+- [2017-CVPR][STL] Detecting Oriented Text in Natural Images by Linking Segments [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
+- [2016-CVPR][TR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
+- [2016-CVPR][STL] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
+- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github`](https://github.com/bgshih/crnn)
 
 ### Universitat Autònoma de Barcelona
-- [2017-arXiv] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
+- [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
 
 ### Stanford University
-- [2012-ICPR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN Dataset`](http://ufldl.stanford.edu/housenumbers/)
-- [2012-PhD Thesis] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
+- [2012-ICPR][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN Dataset`](http://ufldl.stanford.edu/housenumbers/)
+- [2012-PhD Thesis][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
 
 ### Seoul National University
-[2017-AAAI] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`paper`](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [`code`](https://github.com/cmkang/CTSN)
+[2017-AAAI][STL][TR] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`paper`](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [`code`](https://github.com/cmkang/CTSN)
 
 ### Megvii Technology Inc: Face++
-- [2017-CVPR] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
+- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
 
 ### Others
 - [2017-arXiv] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`paper`](https://arxiv.org/abs/1703.08289)
