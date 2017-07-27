@@ -155,14 +155,20 @@
 用途: 文本感知
 
 #### [`Street View Text (SVT)`](http://tc11.cvc.uab.es/datasets/SVT_1)   `2010`
- - 350 high resolution images (average size 1260 × 860) (100 images for training and 250 images for testing)
- - Only word level bounding boxes are provided with case-insensitive labels
- - Task: text location
+
+350高分辨率图片 (平均尺寸为 1260 × 860) (100 用于训练 and 250 用于测试)
+
+提供文本区域坐标以及其文本相应的字符
+
+用途: 文本感知
 
 #### [`KAIST Scene_Text Database`](http://www.iapr-tc11.org/mediawiki/index.php/KAIST_Scene_Text_Database)   `2010`
- - 3000 images of indoor and outdoor scenes containing text
- - Korean, English (Number), and Mixed (Korean + English + Number)
- - Task: text location, segmantation and recognition
+
+3000包含文本的室内室外场景图片
+
+包含韩文，英文，数字及其三者混合
+
+用途: 文本感知，识别，分割
 
 #### [`Chars74k`](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/)   `2009`
 
@@ -176,11 +182,11 @@
 
 |数据集| 描述 | 相应论文 |
 |---|---|----
-|[ICDAR 2015](http://rrc.cvc.uab.es/)| 1000 training images and 500 testing images|`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://rrc.cvc.uab.es/files/Robust-Reading-Competition-Karatzas.pdf)|
-|[ICDAR 2013](http://dagdata.cvc.uab.es/icdar2013competition/)| 229 training images and 233 testing images |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://dagdata.cvc.uab.es/icdar2013competition/files/icdar2013_competition_report.pdf)|
-|[ICDAR 2011](http://robustreading.opendfki.de/trac/)| 229 training images and 255 testing images |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.iapr-tc11.org/archive/icdar2011/fileup/PDF/4520b491.pdf)|
-|[ICDAR 2005](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2005_Robust_Reading_Competitions)| 1001 training images and 489 testing images |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.academia.edu/download/30700479/10.1.1.96.4332.pdf)|
-|[ICDAR 2003](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2003_Robust_Reading_Competitions)| 181 training images and 251 testing images(word level and character level) |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3461&rep=rep1&type=pdf)|
+|[ICDAR 2015](http://rrc.cvc.uab.es/)| 1000张训练图片和500测试图片|`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://rrc.cvc.uab.es/files/Robust-Reading-Competition-Karatzas.pdf)|
+|[ICDAR 2013](http://dagdata.cvc.uab.es/icdar2013competition/)| 229张训练图片和233张测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://dagdata.cvc.uab.es/icdar2013competition/files/icdar2013_competition_report.pdf)|
+|[ICDAR 2011](http://robustreading.opendfki.de/trac/)| 229张训练图片和255张测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.iapr-tc11.org/archive/icdar2011/fileup/PDF/4520b491.pdf)|
+|[ICDAR 2005](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2005_Robust_Reading_Competitions)| 1001张训练图片和489张测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.academia.edu/download/30700479/10.1.1.96.4332.pdf)|
+|[ICDAR 2003](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2003_Robust_Reading_Competitions)| 181张训练图片和251张测试图片(包含词以及字符层级标记) |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3461&rep=rep1&type=pdf)|
 
 
 
