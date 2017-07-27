@@ -112,15 +112,21 @@
 
 ## 2. 训练数据集合
 
-- [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
- -- 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
- -- Task: text location and recognition
- -- [`COCO-Text API`] (https://github.com/andreasveit/coco-text)
+#### [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
 
-- [`Synthetic Word Dataset (Oxford, VGG)`](http://www.robots.ox.ac.uk/~vgg/data/text/)   `2014`
- - 9 million images covering 90k English words
- - Task: text recognition, segmantation
- - [`下载`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
+63,686 图片, 173,589 text instances, 3 细粒度文本参数.
+
+用途: 文本感知，识别
+
+[`下载`](https://github.com/andreasveit/coco-text)
+
+#### [`Synthetic Word Dataset (Oxford, VGG)`](http://www.robots.ox.ac.uk/~vgg/data/text/)   `2014`
+
+涵括9万英语单词的的9百万张图片
+
+用途: 文本识别，分割
+
+[`下载`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
 
 - [`IIIT 5K-Words`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html)   `2012`
  - 5000 images from Scene Texts and born-digital (2k training and 3k testing images)
