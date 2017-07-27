@@ -38,7 +38,7 @@ Last update: 7/27/2017
 - [2016-arXiv][STL] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`paper`](http://arxiv.org/abs/1605.07314)
 
 #### Fudan University
-- [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`paper`](https://arxiv.org/abs/1703.01086)
+- [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086)
 
 #### Huazhong University of Science and Technology
 - [2017-AAAI][STL] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`paper`](https://arxiv.org/abs/1611.06779) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
@@ -70,6 +70,9 @@ Last update: 7/27/2017
 #### University of California, San Diego
 - [2016-CVPR][TR] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`paper`](http://arxiv.org/pdf/1603.03101v1.pdf)
 
+#### University of California, Santa Cruz
+[2017-arXiv][STL] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
+
 #### Cornell University
 - [2016-arXiv][STL][TR] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
@@ -96,6 +99,9 @@ Last update: 7/27/2017
 
 #### Microsoft Inc
 - [2010-CVPR][STL] SWT: Detecting Text in Natural Scenes with Stroke Width Transform [`paper`](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf) [`code`](https://github.com/aperrau/DetectText)
+
+#### Samsung R&D Institute China
+- [2017-arXiv][STL] R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection [`paper`](https://arxiv.org/ftp/arxiv/papers/1706/1706.09579.pdf)
 
 #### Vicarious FPC Inc
 - [2016-NIPS][TR] Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data [`paper`](https://arxiv.org/abs/1611.02788)

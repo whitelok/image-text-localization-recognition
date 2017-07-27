@@ -18,7 +18,7 @@
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`论文`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
 
 #### 牛津大学
-- [2016-IJCV][位置感知][文字识别] Reading Text in the Wild with Convolutional Neural Networks  [`论文`](http://arxiv.org/abs/1412.1842) [`样例`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`主页`](http://www.robots.ox.ac.uk/~vgg/research/text/)
+- [2016-IJCV][位置感知][文字识别] Reading Text in the Wild with Convolutional Neural Networks [`论文`](http://arxiv.org/abs/1412.1842) [`样例`](http://zeus.robots.ox.ac.uk/textsearch/#/search/) [`主页`](http://www.robots.ox.ac.uk/~vgg/research/text/)
 - [2016-CVPR][位置感知] Synthetic Data for Text Localisation in Natural Images [`论文`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`代码`](https://github.com/ankush-me/SynthText) [`数据`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 - [2015-ICLR][文字识别] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
 - [2015-PhD Thesis][位置感知] Deep Learning for Text Spotting
@@ -39,7 +39,7 @@
 - [2016-arXiv][位置感知][文字识别] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
 
 #### 复旦大学
-- [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`论文`](https://arxiv.org/abs/1703.01086)
+- [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`论文`](https://arxiv.org/abs/1703.01086)
 
 #### 华中科技大学
 - [2017-AAAI][位置感知] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`论文`](https://arxiv.org/abs/1611.06779) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github 代码`](https://github.com/bgshih/crnn)
@@ -73,6 +73,9 @@
 #### 加州大学圣地亚哥分校
 - [2016-CVPR][文字识别] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`论文`](http://arxiv.org/pdf/1603.03101v1.pdf)
 
+#### 加州大学圣克鲁兹分校
+[2017-arXiv][位置感知] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
+
 #### 康奈尔大学
 - [2016-arXiv][位置感知][文字识别] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
@@ -99,6 +102,9 @@
 
 #### 微软
 - [2010-CVPR][位置感知] SWT: Detecting Text in Natural Scenes with Stroke Width Transform [`论文`](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf) [`代码`](https://github.com/aperrau/DetectText)
+
+#### 三星中国研究院
+- [2017-arXiv][位置感知] R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection [`论文`](https://arxiv.org/ftp/arxiv/papers/1706/1706.09579.pdf)
 
 #### Vicarious FPC Inc
 - [2016-NIPS][文字识别] Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data [`论文`](https://arxiv.org/abs/1611.02788)
