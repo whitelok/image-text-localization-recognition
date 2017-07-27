@@ -26,7 +26,7 @@
 
 #### 中国科学院深圳先进技术研究院
 - [2016-ECCV][位置感知] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`论文`](https://arxiv.org/abs/1609.03605) [`代码`](https://github.com/tianzhi0549/CTPN)
-- [2016-arXiv][位置感知] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
+- [2016-CVPR][位置感知] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
  [`论文`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][位置感知] Reading Scene Text in Deep Convolutional Sequences [`论文`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][位置感知] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`论文`](http://whuang.org/papers/the2016_tip.pdf)
@@ -49,7 +49,7 @@
 
 #### 巴塞罗那自治大学
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
-- [2015 ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
+- [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
 #### 斯坦福大学
@@ -75,7 +75,13 @@
 - [2016-PhD Thesis][位置感知] Context Modeling for Semantic Text Matching and Scene Text Detection [`论文`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 
 #### 北京科技大学
-- [2016-IJCAI] Scene Text Detection in Video by Learning Locally and Globally [`论文`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
+- [2016-IJCAI][位置感知] Scene Text Detection in Video by Learning Locally and Globally [`论文`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
+
+#### 浦项工科大学
+- [2016-CVPR][位置感知] CannyText Detector: Fast and Robust Scene Text Localization Algorithm [`论文`](http://ieeexplore.ieee.org/document/7780757/)
+
+#### 法国高等信息工程师学院
+- [2016-IJDAR][位置感知] TextCatcher: a method to detect curved and challenging text in natural scenes [`论文`](https://link.springer.com/article/10.1007/s10032-016-0264-4)
 
 ## 2. 训练数据集合
 

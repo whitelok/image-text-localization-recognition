@@ -26,7 +26,7 @@
 
 #### Shenzhen Institutes of Advanced Technology
 - [2016-ECCV][STL] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`paper`](https://arxiv.org/abs/1609.03605) [`code`](https://github.com/tianzhi0549/CTPN)
-- [2016-arXiv][STL] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network [`paper`](http://arxiv.org/abs/1603.09423)
+- [2016-CVPR][STL] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network [`paper`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][STL] Reading Scene Text in Deep Convolutional Sequences [`paper`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][STL] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`paper`](http://whuang.org/papers/the2016_tip.pdf)
 - [2014-ECCV][STL] Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees [`paper`](http://www.whuang.org/papers/whuang2014_eccv.pdf)
@@ -48,7 +48,7 @@
 
 #### Universitat Autònoma de Barcelona
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
-- [2015 ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
+- [2015-ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
 - [2014-TPAMI][TR] Word Spotting and Recognition with Embedded Attributes	 [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
 
 #### Stanford University
@@ -74,7 +74,13 @@
 - [2016-PHD-Thesis][STL] Context Modeling for Semantic Text Matching and Scene Text Detection [`paper`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 
 #### University of Science and Technology Beijing
-- [2016-IJCAI] Scene Text Detection in Video by Learning Locally and Globally [`paper`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
+- [2016-IJCAI][STL] Scene Text Detection in Video by Learning Locally and Globally [`paper`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
+
+#### Pohang University of Science and Technology
+- [2016-CVPR][STL] CannyText Detector: Fast and Robust Scene Text Localization Algorithm [`paper`](http://ieeexplore.ieee.org/document/7780757/)
+
+#### École d'Ingénieurs en Informatique
+- [2016-IJDAR][STL] TextCatcher: a method to detect curved and challenging text in natural scenes [`paper`](https://link.springer.com/article/10.1007/s10032-016-0264-4)
 
 ## 2. Datasets
 
