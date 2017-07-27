@@ -74,7 +74,7 @@
 - [2016-CVPR][文字识别] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`论文`](http://arxiv.org/pdf/1603.03101v1.pdf)
 
 #### 加州大学圣克鲁兹分校
-[2017-arXiv][位置感知] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
+- [2017-arXiv][位置感知] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
 
 #### 康奈尔大学
 - [2016-arXiv][位置感知][文字识别] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
