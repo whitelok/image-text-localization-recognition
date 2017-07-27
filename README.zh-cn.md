@@ -12,18 +12,18 @@
 ## 论文和代码
 
 ### 综述型论文
-- [2016-TIP] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
+- [2016-TIP][位置感知][文字识别] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`论文`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`论文`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
 
 ### 牛津大学
 - [2016-IJCV] Reading Text in the Wild with Convolutional Neural Networks  [`论文`](http://arxiv.org/abs/1412.1842) [`样例`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/research/text/)
-- [2016-CVPR, [A Gupta](http://www.robots.ox.ac.uk/~ankush/)] Synthetic Data for Text Localisation in Natural Images [`论文`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`代码`](https://github.com/ankush-me/SynthText) [`data`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
-- [2015-ICLR, [M. Jaderberg](http://www.maxjaderberg.com)] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
-- [2015-D.Phil Thesis, [M. Jaderberg](http://www.maxjaderberg.com)] Deep Learning for Text Spotting
+- [2016-CVPR] Synthetic Data for Text Localisation in Natural Images [`论文`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`代码`](https://github.com/ankush-me/SynthText) [`data`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
+- [2015-ICLR] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
+- [2015-Thesis] Deep Learning for Text Spotting
  [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf)
-- [2014-ECCV, [M. Jaderberg](http://www.maxjaderberg.com)] Deep Features for Text Spotting [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`model`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`GitXiv`](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
-- [2014-NIPS, [M. Jaderberg](http://www.maxjaderberg.com)] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`model`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
+- [2014-ECCV] Deep Features for Text Spotting [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`模型`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`GitXiv`](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
+- [2014-NIPS] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`主页`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`模型`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
 
 ### 香港中文大学与中国科学院深圳先进技术研究院
 - [2016-arXiv] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
