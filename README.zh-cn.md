@@ -128,40 +128,51 @@
 
 [`下载`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
 
-- [`IIIT 5K-Words`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html)   `2012`
- - 5000 images from Scene Texts and born-digital (2k training and 3k testing images)
- - Each image is a cropped word image of scene text with case-insensitive labels
- - Task: text recognition
- - [`下载`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K-Word_V3.0.tar.gz)
+#### [`IIIT 5K-Words`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html)   `2012`
 
-- [`StanfordSynth(Stanford, AI Group)`](http://cs.stanford.edu/people/twangcat/#research)   `2012`
- - Small single-character images of 62 characters (0-9, a-z, A-Z)
- - Task: text recognition
- - [`下载`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/syntheticData.tar)
+5000张带文本的场景 (2000张用于训练，3000张用于测试)
 
-- [`MSRA Text Detection 500 Database (MSRA-TD500)`](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500))   `2012`
- - 500 natural images(resolutions of the images vary from 1296x864 to 1920x1280)
- - Chinese, English or mixture of both
- - Task: text detection
+文本图片都被裁剪出来并标记出相应的大小写敏感的文本
 
-- [`Street View Text (SVT)`](http://tc11.cvc.uab.es/datasets/SVT_1)   `2010`
+用途: 文本识别
+
+[`下载`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K-Word_V3.0.tar.gz)
+
+#### [`StanfordSynth(Stanford, AI Group)`](http://cs.stanford.edu/people/twangcat/#research)   `2012`
+
+包含62个字符的小尺寸图片 (0-9, a-z, A-Z) 每张图只包含少量字符
+
+用途: 文本识别
+
+[`下载`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/syntheticData.tar)
+
+#### [`MSRA Text Detection 500 Database (MSRA-TD500)`](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500))   `2012`
+
+500张自然场景图片 (图片大小从 1296x864 到 1920x1280不等)
+
+中文英文及其混合的图片
+
+用途: 文本感知
+
+#### [`Street View Text (SVT)`](http://tc11.cvc.uab.es/datasets/SVT_1)   `2010`
  - 350 high resolution images (average size 1260 × 860) (100 images for training and 250 images for testing)
  - Only word level bounding boxes are provided with case-insensitive labels
  - Task: text location
 
-- [`KAIST Scene_Text Database`](http://www.iapr-tc11.org/mediawiki/index.php/KAIST_Scene_Text_Database)   `2010`
+#### [`KAIST Scene_Text Database`](http://www.iapr-tc11.org/mediawiki/index.php/KAIST_Scene_Text_Database)   `2010`
  - 3000 images of indoor and outdoor scenes containing text
  - Korean, English (Number), and Mixed (Korean + English + Number)
  - Task: text location, segmantation and recognition
 
-- [`Chars74k`](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/)   `2009`
- - Over 74K images from natural images, as well as a set of synthetically generated characters
- - Small single-character images of 62 characters (0-9, a-z, A-Z)
- - Task: text recognition
+#### [`Chars74k`](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/)   `2009`
 
+74000张从自然场景提取出来的包含字符(0-9, a-z, A-Z)的图片, 包含通过对称生成的字符图片，每张图只包含少量字符
 
+包含62个字符的小尺寸图片 (0-9, a-z, A-Z)
 
-- `ICDAR 基准数据集`
+用途: 文本识别
+
+#### `ICDAR 基准数据集`
 
 |数据集| 描述 | 相应论文 |
 |---|---|----
@@ -187,7 +198,6 @@
 
 
 ## 4. 相关博客
-
 - [Scene Text Detection with OpenCV 3](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
 - [Handwritten numbers detection and recognition](https://medium.com/@o.kroeger/recognize-your-handwritten-numbers-3f007cbe46ff#.8hg7vl6mo)
 - [Applying OCR Technology for Receipt Recognition](http://rnd.azoft.com/applying-ocr-technology-receipt-recognition/)
@@ -196,3 +206,5 @@
 - [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/) [`github`](https://github.com/matthewearl/deep-anpr)
 - [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/) [`研究报告`](http://web.stanford.edu/~jurafsky/burszstein_2010_captcha.pdf) [`github`](https://github.com/arunpatala/captcha)
 - [Breaking reddit captcha with 96% accuracy](https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/) [`github`](https://github.com/arunpatala/reddit.captcha)
+- [文字检测与识别资源-1](http://blog.csdn.net/peaceinmind/article/details/51387367)
+- [文字的检测与识别资源-2](http://blog.csdn.net/u010183397/article/details/56497303?locationNum=12&fps=1)
