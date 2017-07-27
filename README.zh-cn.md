@@ -1,9 +1,8 @@
 # 场景文本位置感知与识别的论文资源汇总
-场景文本位置感知与识别的论文资源
 
 *其他语言版本: [English](README.md), [简体中文](README.zh-cn.md).*
 
-*标记：[位置感知]，[文字识别]*
+*标记: [位置感知], [文字识别]*
 
 *[位置感知] 从场景图片中检测出文字所在的区域*
 
@@ -12,18 +11,18 @@
 ## 论文和代码
 
 ### 综述型论文
-- [2016-TIP][位置感知][文字识别] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
+- [2016-TIP] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`论文`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`论文`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
 
 ### 牛津大学
-- [2016-IJCV] Reading Text in the Wild with Convolutional Neural Networks  [`论文`](http://arxiv.org/abs/1412.1842) [`样例`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/research/text/)
-- [2016-CVPR] Synthetic Data for Text Localisation in Natural Images [`论文`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`代码`](https://github.com/ankush-me/SynthText) [`data`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
-- [2015-ICLR] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
-- [2015-Thesis] Deep Learning for Text Spotting
+- [2016-IJCV][位置感知][文字识别] Reading Text in the Wild with Convolutional Neural Networks  [`论文`](http://arxiv.org/abs/1412.1842) [`样例`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/research/text/)
+- [2016-CVPR][位置感知] Synthetic Data for Text Localisation in Natural Images [`论文`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`代码`](https://github.com/ankush-me/SynthText) [`data`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
+- [2015-ICLR][文字识别] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
+- [2015-PhD Thesis][位置感知] Deep Learning for Text Spotting
  [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf)
-- [2014-ECCV] Deep Features for Text Spotting [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`模型`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`GitXiv`](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
-- [2014-NIPS] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`主页`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`模型`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
+- [2014-ECCV][位置感知] Deep Features for Text Spotting [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`模型`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`GitXiv`](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
+- [2014-NIPS][文字识别] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`主页`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`模型`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
 
 ### 香港中文大学与中国科学院深圳先进技术研究院
 - [2016-arXiv] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
