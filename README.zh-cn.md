@@ -33,6 +33,7 @@
 
 ### 华南理工大学
 - [2017-CVPR][位置感知] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`论文`](https://arxiv.org/abs/1703.01425)
+- [2016-arXiv][位置感知] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
 
 ### 复旦大学
 - [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`论文`](https://arxiv.org/abs/1703.01086)
@@ -45,6 +46,8 @@
 
 ### 巴塞罗那自治大学
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
+- [2015 ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
+- [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
 ### 斯坦福大学
 - [2012-ICPR][文字识别] End-to-End Text Recognition with Convolutional Neural Networks [`论文`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`代码`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN Dataset`](http://ufldl.stanford.edu/housenumbers/)
@@ -56,13 +59,14 @@
 ### 旷视科技: Face++
 - [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
 
-### 其他研究机构
-- [2017-arXiv] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`论文`](https://arxiv.org/abs/1703.08289)
-- [2016-CVPR] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`论文`](http://arxiv.org/pdf/1603.03101v1.pdf)
-- [2016-arXiv] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
-- [2016-arXiv] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
-- [2015 ICDAR] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
-- [2014-TPAMI] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
+### 中国科学院自动化研究所
+- [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`论文`](https://arxiv.org/abs/1703.08289)
+
+### 加州大学圣地亚哥分校
+- [2016-CVPR][文字识别] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`论文`](http://arxiv.org/pdf/1603.03101v1.pdf)
+
+### 康奈尔大学
+- [2016-arXiv][位置感知][文字识别] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
 ## 训练数据集合
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`

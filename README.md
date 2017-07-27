@@ -32,6 +32,7 @@
 
 ### South China University of Technology
 - [2017-CVPR][STL] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`paper`](https://arxiv.org/abs/1703.01425)
+- [2016-arXiv][STL] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`paper`](http://arxiv.org/abs/1605.07314)
 
 ### Fudan University
 - [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`paper`](https://arxiv.org/abs/1703.01086)
@@ -44,9 +45,11 @@
 
 ### Universitat Autònoma de Barcelona
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
+- [2015 ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
+- [2014-TPAMI][TR] Word Spotting and Recognition with Embedded Attributes	 [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
 
 ### Stanford University
-- [2012-ICPR][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN Dataset`](http://ufldl.stanford.edu/housenumbers/)
+- [2012-ICPR][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN 数据集`](http://ufldl.stanford.edu/housenumbers/)
 - [2012-PhD Thesis][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
 
 ### Seoul National University
@@ -55,13 +58,14 @@
 ### Megvii Technology Inc: Face++
 - [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
 
-### Others
-- [2017-arXiv] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`paper`](https://arxiv.org/abs/1703.08289)
-- [2016-CVPR] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`paper`](http://arxiv.org/pdf/1603.03101v1.pdf)
-- [2016-arXiv] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images
-- [2016-arXiv] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`paper`](http://arxiv.org/abs/1605.07314)
-- [2015 ICDAR] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals) [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
-- [2014-TPAMI] Word Spotting and Recognition with Embedded Attributes	 [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
+### Institute of Automation, Chinese Academy of Sciences
+- [2017-arXiv][STL] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`paper`](https://arxiv.org/abs/1703.08289)
+
+### University of California, San Diego
+- [2016-CVPR][TR] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`paper`](http://arxiv.org/pdf/1603.03101v1.pdf)
+
+### Cornell University
+- [2016-arXiv][STL][TR] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
 ## Datasets
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
