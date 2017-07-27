@@ -10,12 +10,12 @@
 
 ## 1. 论文和代码
 
-### 综述型论文
+#### 综述型论文
 - [2016-TIP] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`论文`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`论文`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
 
-### 牛津大学
+#### 牛津大学
 - [2016-IJCV][位置感知][文字识别] Reading Text in the Wild with Convolutional Neural Networks  [`论文`](http://arxiv.org/abs/1412.1842) [`样例`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`主页`](http://www.robots.ox.ac.uk/~vgg/research/text/)
 - [2016-CVPR][位置感知] Synthetic Data for Text Localisation in Natural Images [`论文`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`代码`](https://github.com/ankush-me/SynthText) [`数据`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 - [2015-ICLR][文字识别] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
@@ -24,48 +24,48 @@
 - [2014-ECCV][位置感知] Deep Features for Text Spotting [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`模型`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`GitXiv`](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
 - [2014-NIPS][文字识别] Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`主页`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`模型`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
 
-### 中国科学院深圳先进技术研究院
+#### 中国科学院深圳先进技术研究院
 - [2016-arXiv][位置感知] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
  [`论文`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][位置感知] Reading Scene Text in Deep Convolutional Sequences [`论文`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][位置感知] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`论文`](http://whuang.org/papers/the2016_tip.pdf)
 - [2014-ECCV][位置感知] Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees [`论文`](http://www.whuang.org/papers/whuang2014_eccv.pdf)
 
-### 华南理工大学
+#### 华南理工大学
 - [2017-CVPR][位置感知] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`论文`](https://arxiv.org/abs/1703.01425)
 - [2016-arXiv][位置感知] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
 
-### 复旦大学
+#### 复旦大学
 - [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`论文`](https://arxiv.org/abs/1703.01086)
 
-### 华中科技大学
+#### 华中科技大学
 - [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2016-CVPR][文字识别] Robust scene text recognition with automatic rectification [`论文`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
 - [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github`](https://github.com/bgshih/crnn)
 
-### 巴塞罗那自治大学
+#### 巴塞罗那自治大学
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2015 ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
-### 斯坦福大学
+#### 斯坦福大学
 - [2012-ICPR][文字识别] End-to-End Text Recognition with Convolutional Neural Networks [`论文`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`代码`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN 数据集`](http://ufldl.stanford.edu/housenumbers/)
 - [2012-PhD thesis][文字识别] End-to-End Text Recognition with Convolutional Neural Networks [`论文`](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
 
-### 首尔大学
+#### 首尔大学
 [2017-AAAI][位置感知][文字识别] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`论文`](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [`代码`](https://github.com/cmkang/CTSN)
 
-### 旷视科技: Face++
+#### 旷视科技: Face++
 - [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
 
-### 中国科学院自动化研究所
+#### 中国科学院自动化研究所
 - [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`论文`](https://arxiv.org/abs/1703.08289)
 
-### 加州大学圣地亚哥分校
+#### 加州大学圣地亚哥分校
 - [2016-CVPR][文字识别] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`论文`](http://arxiv.org/pdf/1603.03101v1.pdf)
 
-### 康奈尔大学
+#### 康奈尔大学
 - [2016-arXiv][位置感知][文字识别] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
 
