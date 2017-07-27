@@ -113,9 +113,9 @@
 ## 2. 训练数据集合
 
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
- - 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
- - Task: text location and recognition
- - [`COCO-Text API`] (https://github.com/andreasveit/coco-text)
+ -- 63,686 images, 173,589 text instances, 3 fine-grained text attributes.
+ -- Task: text location and recognition
+ -- [`COCO-Text API`] (https://github.com/andreasveit/coco-text)
 
 - [`Synthetic Word Dataset (Oxford, VGG)`](http://www.robots.ox.ac.uk/~vgg/data/text/)   `2014`
  - 9 million images covering 90k English words
