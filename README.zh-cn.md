@@ -50,7 +50,7 @@
 - [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
 ### 斯坦福大学
-- [2012-ICPR][文字识别] End-to-End Text Recognition with Convolutional Neural Networks [`论文`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`代码`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN Dataset`](http://ufldl.stanford.edu/housenumbers/)
+- [2012-ICPR][文字识别] End-to-End Text Recognition with Convolutional Neural Networks [`论文`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`代码`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN 数据集`](http://ufldl.stanford.edu/housenumbers/)
 - [2012-PhD thesis][文字识别] End-to-End Text Recognition with Convolutional Neural Networks [`论文`](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
 
 ### 首尔大学
@@ -67,6 +67,9 @@
 
 ### 康奈尔大学
 - [2016-arXiv][位置感知][文字识别] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
+
+
+
 
 ## 训练数据集合
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`

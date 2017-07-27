@@ -56,7 +56,7 @@
 [2017-AAAI][STL][TR] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`paper`](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [`code`](https://github.com/cmkang/CTSN)
 
 ### Megvii Technology Inc: Face++
-- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
+- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155)
 
 ### Institute of Automation, Chinese Academy of Sciences
 - [2017-arXiv][STL] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`paper`](https://arxiv.org/abs/1703.08289)
@@ -66,6 +66,9 @@
 
 ### Cornell University
 - [2016-arXiv][STL][TR] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
+
+
+
 
 ## Datasets
 - [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
