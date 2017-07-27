@@ -28,13 +28,13 @@
 - [2016-ECCV][位置感知] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`论文`](https://arxiv.org/abs/1609.03605) [`代码`](https://github.com/tianzhi0549/CTPN)
 - [2016-CVPR][位置感知] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
  [`论文`](http://arxiv.org/abs/1603.09423)
-- [2016-AAAI][位置感知] Reading Scene Text in Deep Convolutional Sequences [`论文`](http://whuang.org/papers/phe2016_aaai.pdf)
+- [2016-AAAI][位置感知][文字识别] Reading Scene Text in Deep Convolutional Sequences [`论文`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][位置感知] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`论文`](http://whuang.org/papers/the2016_tip.pdf)
 - [2014-ECCV][位置感知] Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees [`论文`](http://www.whuang.org/papers/whuang2014_eccv.pdf)
 
 #### 华南理工大学
 - [2017-CVPR][位置感知] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`论文`](https://arxiv.org/abs/1703.01425)
-- [2016-arXiv][位置感知] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
+- [2016-arXiv][位置感知][文字识别] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
 
 #### 复旦大学
 - [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposal [`论文`](https://arxiv.org/abs/1703.01086)
@@ -46,6 +46,8 @@
 - [2016-arXiv][位置感知] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
 - [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github 代码`](https://github.com/bgshih/crnn)
+- [2015-CVPR][位置感知] Symmetry-Based Text Line Detector in Natural Scenes [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7298871) [`代码`](https://github.com/stupidZZ/Symmetry_Text_Line_Detections)
+- [2015-ICDAR][文字识别] Automatic Script Identification in the Wild [`论文`](https://arxiv.org/pdf/1505.02982.pdf)
 
 #### 巴塞罗那自治大学
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
@@ -77,6 +79,7 @@
 
 #### 北京科技大学
 - [2016-IJCAI][位置感知] Scene Text Detection in Video by Learning Locally and Globally [`论文`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
+- [2014-TPAMI][文字识别] Robust Text Detection in Natural Scene Images [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
 
 #### 浦项工科大学
 - [2016-CVPR][位置感知] CannyText Detector: Fast and Robust Scene Text Localization Algorithm [`论文`](http://ieeexplore.ieee.org/document/7780757/)
@@ -84,8 +87,28 @@
 #### 法国高等信息工程师学院
 - [2016-IJDAR][位置感知] TextCatcher: a method to detect curved and challenging text in natural scenes [`论文`](https://link.springer.com/article/10.1007/s10032-016-0264-4)
 
-#### 布拉格捷克理工大学
+#### 捷克理工大学
 - [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
+- [2015-ICCV][位置感知] FASText: Efficient unconstrained scene text detector [`论文`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`代码`](https://github.com/MichalBusta/FASText)
+- [2012-CVPR][位置感知][文字识别] Real-time scene text localization and recognition [`论文`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`代码`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
+
+#### Google
+- [2013-ICCV][位置感知][文字识别] Photo OCR:Reading Text in Uncontrolled Conditions [`论文`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
+
+#### 微软
+- [2010-CVPR][位置感知] SWT: Detecting Text in Natural Scenes with Stroke Width Transform [`论文`](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf) [`代码`](https://github.com/aperrau/DetectText)
+
+#### Vicarious FPC Inc
+- [2016-NIPS][文字识别] Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data [`论文`](https://arxiv.org/abs/1611.02788)
+
+#### 复杂系统管理与控制国家重点实验室（中国）
+- [2013-CVPR][文字识别] Scene Text Recognition using Part-based Tree-structured Character Detection [`论文`](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)
+
+#### 印度联邦理工大学
+- [2012-CVPR][文字识别] top-down and bottom-up cues for scene text recognition [`论文`](http://www.quaero.org/media/files/bibliographie/mishra_top_down_cvpr2012.pdf)
+
+#### 斯坦福大学
+- [2012-ICPR][文字识别] End-to-End Text Recognition with CNN [`论文`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`代码`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)
 
 ## 2. 训练数据集合
 

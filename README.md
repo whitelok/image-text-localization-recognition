@@ -72,10 +72,11 @@
 - [2016-arXiv][STL][TR] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
 #### Pennsylvania State University
-- [2016-PHD-Thesis][STL] Context Modeling for Semantic Text Matching and Scene Text Detection [`paper`](https://etda.libraries.psu.edu/catalog/zw12z528p)
+- [2016-PhD Thesis][STL] Context Modeling for Semantic Text Matching and Scene Text Detection [`paper`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 
 #### University of Science and Technology Beijing
 - [2016-IJCAI][STL] Scene Text Detection in Video by Learning Locally and Globally [`paper`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
+- [2014-TPAMI][TR] Robust Text Detection in Natural Scene Images [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
 
 #### Pohang University of Science and Technology
 - [2016-CVPR][STL] CannyText Detector: Fast and Robust Scene Text Localization Algorithm [`paper`](http://ieeexplore.ieee.org/document/7780757/)
@@ -85,6 +86,23 @@
 
 #### České vysoké učení technické v Praze
 - [2015-TPAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
+- [2015-ICCV][STL] FASText: Efficient unconstrained scene text detector [`paper`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`code`](https://github.com/MichalBusta/FASText)
+- [2012-CVPR][STL][TR] Real-time scene text localization and recognition [`paper`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`code`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
+
+#### Google Inc
+- [2013-ICCV][STL][TR] Photo OCR:Reading Text in Uncontrolled Conditions [`paper`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
+
+#### Microsoft Inc
+- [2010-CVPR][STL] SWT: Detecting Text in Natural Scenes with Stroke Width Transform [`paper`](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf) [`code`](https://github.com/aperrau/DetectText)
+
+#### Vicarious FPC Inc
+- [2016-NIPS][TR] Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data [`paper`](https://arxiv.org/abs/1611.02788)
+
+#### Chinese State Key Laboratory of Management and Control for Complex Systems
+- [2013-CVPR][TR] Scene Text Recognition using Part-based Tree-structured Character Detection [`paper`](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)
+
+#### Stanford University
+- [2012-ICPR][TR] End-to-End Text Recognition with CNN [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)
 
 ## 2. Datasets
 
