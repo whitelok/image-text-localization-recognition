@@ -43,6 +43,7 @@
 - [2017-AAAI][位置感知] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`论文`](https://arxiv.org/abs/1611.06779) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github 代码`](https://github.com/bgshih/crnn)
 - [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2016-CVPR][文字识别] Robust scene text recognition with automatic rectification [`论文`](http://arxiv.org/pdf/1603.03915v2.pdf)
+- [2016-arXiv][位置感知] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
 - [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github 代码`](https://github.com/bgshih/crnn)
 
@@ -70,7 +71,11 @@
 #### 康奈尔大学
 - [2016-arXiv][位置感知][文字识别] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`论文`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
+#### 宾夕法尼亚州立大学
+- [2016-PhD Thesis][位置感知] Context Modeling for Semantic Text Matching and Scene Text Detection [`论文`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 
+#### 北京科技大学
+- [2016-IJCAI] Scene Text Detection in Video by Learning Locally and Globally [`论文`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
 
 ## 2. 训练数据集合
 

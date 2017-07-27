@@ -42,6 +42,7 @@
 - [2017-AAAI][STL] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`paper`](https://arxiv.org/abs/1611.06779) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
 - [2017-CVPR][STL] Detecting Oriented Text in Natural Images by Linking Segments [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2016-CVPR][TR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
+- [2016-arXiv][STL] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][STL] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
 - [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
 
@@ -69,8 +70,11 @@
 #### Cornell University
 - [2016-arXiv][STL][TR] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
 
+#### Pennsylvania State University
+- [2016-PHD-Thesis][STL] Context Modeling for Semantic Text Matching and Scene Text Detection [`paper`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 
-
+#### University of Science and Technology Beijing
+- [2016-IJCAI] Scene Text Detection in Video by Learning Locally and Globally [`paper`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
 
 ## 2. Datasets
 
