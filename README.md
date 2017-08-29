@@ -44,7 +44,7 @@ Last update: 7/27/2017
 - [2017-AAAI][STL] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`paper`](https://arxiv.org/abs/1611.06779) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
 - [2017-CVPR][STL] Detecting Oriented Text in Natural Images by Linking Segments [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2016-CVPR][TR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
-- [2016-arXiv][STL] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
+- [2016-arXiv][STL] Scene Text Detection via Holistic, Multi-Channel Prediction [`paper`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][STL] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
 - [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
 
@@ -55,7 +55,7 @@ Last update: 7/27/2017
 - [2014-TPAMI][TR] Word Spotting and Recognition with Embedded Attributes	 [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
 
 #### Stanford University
-- [2012-ICPR][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN 数据集`](http://ufldl.stanford.edu/housenumbers/)
+- [2012-ICPR][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar) [`SVHN Dataset`](http://ufldl.stanford.edu/housenumbers/)
 - [2012-PhD Thesis][TR] End-to-End Text Recognition with Convolutional Neural Networks [`paper`](http://cs.stanford.edu/people/dwu4/HonorThesis.pdf)
 
 #### Seoul National University
