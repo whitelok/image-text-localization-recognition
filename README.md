@@ -71,7 +71,7 @@ Last update: 7/27/2017
 - [2016-CVPR][TR] Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [`paper`](http://arxiv.org/pdf/1603.03101v1.pdf)
 
 #### University of California, Santa Cruz
-- [2017-arXiv][STL] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
+- [2017-arXiv][STL] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`paper`](https://arxiv.org/abs/1704.00834)
 
 #### Cornell University
 - [2016-arXiv][STL][TR] COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [`paper`](http://vision.cornell.edu/se3/wp-content/uploads/2016/01/1601.07140v1.pdf)
