@@ -136,6 +136,9 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 #### 阿德莱德大学
 - [2017-ICCV][位置感知][文字识别] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 
+#### 纽约城市大学
+- [2017-CVPR][位置感知] Unambiguous Text Localization and Retrieval for Cluttered Scenes [`论文`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)
+
 ## 2. 训练数据集合
 
 #### [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`

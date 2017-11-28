@@ -8,7 +8,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-Last update: 11/28/2017
+Last update: Nov.28 2017
 
 ## 1. Papers & Code
 
@@ -128,6 +128,9 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### University of Adelaide
 - [2017-ICCV][STL][TR] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
+
+#### City University of New York
+- [2017-CVPR][STL] Unambiguous Text Localization and Retrieval for Cluttered Scenes [`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)
 
 ## 2. Datasets
 
