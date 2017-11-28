@@ -94,7 +94,7 @@
 
 #### 捷克理工大学
 - [2017-ICCV][位置感知][文字识别] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
-Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)
+Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) [`代码`](https://github.com/MichalBusta/DeepTextSpotter)
 - [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][位置感知] FASText: Efficient unconstrained scene text detector [`论文`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`代码`](https://github.com/MichalBusta/FASText)
 - [2012-CVPR][位置感知][文字识别] Real-time scene text localization and recognition [`论文`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`代码`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
@@ -125,7 +125,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 - [2017-ICCV][位置感知] WeText: Scene Text Detection under Weak Supervision [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)
 
 #### 弗罗里达大学
-- [2017-ICCV][位置感知] Single Shot Text Detector with Regional Attention [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf)
+- [2017-ICCV][位置感知] Single Shot Text Detector with Regional Attention [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf) [`代码`](https://github.com/BestSonny/SSTD)
 
 #### 南加州大学
 - [2017-ICCV][位置感知] Self-organized Text Detection with Minimal Post-processing via Border Learning [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)
@@ -138,9 +138,15 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 ## 2. 训练数据集合
 
+#### [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
+
+21,384 图片, 21,384+ 文本标记
+
+用途: 文本感知，识别
+
 #### [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
 
-63,686 图片, 173,589 text instances, 3 细粒度文本参数.
+63,686 图片, 173,589 文本标记, 3 细粒度文本参数.
 
 用途: 文本感知，识别
 

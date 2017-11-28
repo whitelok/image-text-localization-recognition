@@ -91,7 +91,7 @@ Last update: 11/28/2017
 
 #### České vysoké učení technické v Praze. Czech Technical University
 - [2017-ICCV][STL][TR] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
-Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)
+Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) [`code`](https://github.com/MichalBusta/DeepTextSpotter)
 - [2015-TPAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][STL] FASText: Efficient unconstrained scene text detector [`paper`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`code`](https://github.com/MichalBusta/FASText)
 - [2012-CVPR][STL][TR] Real-time scene text localization and recognition [`paper`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`code`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
@@ -118,7 +118,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 - [2017-ICCV][STL] WeText: Scene Text Detection under Weak Supervision [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)
 
 #### University of Florida
-- [2017-ICCV][STL] Single Shot Text Detector with Regional Attention [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf)
+- [2017-ICCV][STL] Single Shot Text Detector with Regional Attention [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf) [`code`](https://github.com/BestSonny/SSTD)
 
 #### University of Southern California
 - [2017-ICCV][STL] Self-organized Text Detection with Minimal Post-processing via Border Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)
@@ -130,6 +130,12 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 - [2017-ICCV][STL][TR] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 
 ## 2. Datasets
+
+#### [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
+
+21,384 images, 21,384+ text instances
+
+Task: text location and recognition
 
 #### [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
 
