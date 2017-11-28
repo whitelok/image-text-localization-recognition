@@ -137,6 +137,8 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 Task: text location and recognition
 
+[`download`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset)
+
 #### [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
 
 63,686 images, 173,589 text instances, 3 fine-grained text attributes.

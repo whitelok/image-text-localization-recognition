@@ -144,6 +144,8 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 用途: 文本感知，识别
 
+[`下载`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset)
+
 #### [`COCO-Text (Computer Vision Group, Cornell)`](http://vision.cornell.edu/se3/coco-text/)   `2016`
 
 63,686 图片, 173,589 文本标记, 3 细粒度文本参数.
