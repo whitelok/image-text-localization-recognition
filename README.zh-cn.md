@@ -8,7 +8,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-最近更新时间：2017-07-27
+最近更新时间：2017-11-28
 
 ## 1. 论文和代码
 
@@ -93,6 +93,8 @@
 - [2016-IJDAR][位置感知] TextCatcher: a method to detect curved and challenging text in natural scenes [`论文`](https://link.springer.com/article/10.1007/s10032-016-0264-4)
 
 #### 捷克理工大学
+- [2017-ICCV][位置感知][文字识别] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
+Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)
 - [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][位置感知] FASText: Efficient unconstrained scene text detector [`论文`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`代码`](https://github.com/MichalBusta/FASText)
 - [2012-CVPR][位置感知][文字识别] Real-time scene text localization and recognition [`论文`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`代码`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
@@ -101,6 +103,7 @@
 - [2013-ICCV][位置感知][文字识别] Photo OCR:Reading Text in Uncontrolled Conditions [`论文`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 
 #### 微软
+- [2017-ICCV][位置感知] WordSup: Exploiting Word Annotations for Character based Text Detection [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)
 - [2010-CVPR][位置感知] SWT: Detecting Text in Natural Scenes with Stroke Width Transform [`论文`](http://www.math.tau.ac.il/~turkel/imagepapers/text_detection.pdf) [`代码`](https://github.com/aperrau/DetectText)
 
 #### 三星中国研究院
@@ -117,6 +120,21 @@
 
 #### 斯坦福大学
 - [2012-ICPR][文字识别] End-to-End Text Recognition with CNN [`论文`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`代码`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)
+
+#### Infocomm研究所, 视觉计算组
+- [2017-ICCV][位置感知] WeText: Scene Text Detection under Weak Supervision [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)
+
+#### 弗罗里达大学
+- [2017-ICCV][位置感知] Single Shot Text Detector with Regional Attention [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf)
+
+#### 南加州大学
+- [2017-ICCV][位置感知] Self-organized Text Detection with Minimal Post-processing via Border Learning [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)
+
+#### 海康威视研究院
+- [2017-ICCV][文字识别] Focusing Attention: Towards Accurate Text Recognition in Natural Images [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)
+
+#### 阿德莱德大学
+- [2017-ICCV][位置感知][文字识别] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 
 ## 2. 训练数据集合
 

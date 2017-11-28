@@ -8,7 +8,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-Last update: 7/27/2017
+Last update: 11/28/2017
 
 ## 1. Papers & Code
 
@@ -89,7 +89,9 @@ Last update: 7/27/2017
 #### École d'Ingénieurs en Informatique
 - [2016-IJDAR][STL] TextCatcher: a method to detect curved and challenging text in natural scenes [`paper`](https://link.springer.com/article/10.1007/s10032-016-0264-4)
 
-#### České vysoké učení technické v Praze
+#### České vysoké učení technické v Praze. Czech Technical University
+- [2017-ICCV][STL][TR] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
+Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)
 - [2015-TPAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][STL] FASText: Efficient unconstrained scene text detector [`paper`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`code`](https://github.com/MichalBusta/FASText)
 - [2012-CVPR][STL][TR] Real-time scene text localization and recognition [`paper`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`code`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
@@ -111,6 +113,21 @@ Last update: 7/27/2017
 
 #### Stanford University
 - [2012-ICPR][TR] End-to-End Text Recognition with CNN [`paper`](http://www.cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf) [`code`](http://cs.stanford.edu/people/twangcat/ICPR2012_code/SceneTextCNN_demo.tar)
+
+#### Visual Computing Department, Institute for Infocomm Research
+- [2017-ICCV][STL] WeText: Scene Text Detection under Weak Supervision [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)
+
+#### University of Florida
+- [2017-ICCV][STL] Single Shot Text Detector with Regional Attention [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf)
+
+#### University of Southern California
+- [2017-ICCV][STL] Self-organized Text Detection with Minimal Post-processing via Border Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Self-Organized_Text_Detection_ICCV_2017_paper.pdf)
+
+#### Hikvision Research Institute
+- [2017-ICCV][TR] Focusing Attention: Towards Accurate Text Recognition in Natural Images [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)
+
+#### University of Adelaide
+- [2017-ICCV][STL][TR] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 
 ## 2. Datasets
 
