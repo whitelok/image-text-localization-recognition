@@ -222,6 +222,7 @@ Task: text recognition
 
 | Name | Description |
 |---|----
+|[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)| API,free |
 |[Online OCR](https://www.onlineocr.net/)| API，free |
 |[Free OCR](http://www.free-ocr.com/)| API，free |
 |[New OCR](http://www.newocr.com/)| API，free |
