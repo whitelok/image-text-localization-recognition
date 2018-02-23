@@ -231,6 +231,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 | 名称 | 描述 |
 |---|----
+|[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)| 有API，免费 |
 |[Online OCR](https://www.onlineocr.net/)| 有API，免费 |
 |[Free OCR](http://www.free-ocr.com/)| 有API，免费 |
 |[New OCR](http://www.newocr.com/)| 有API，免费 |
