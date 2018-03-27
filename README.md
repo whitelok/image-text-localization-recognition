@@ -12,6 +12,8 @@
 
 ## 1. Papers & Code
 
+*Read this year-wise: [English](README.yearwise.md)*
+
 #### Overview
 - [2016-TIP] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`paper`](http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=7452620&icp=false)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`paper`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
