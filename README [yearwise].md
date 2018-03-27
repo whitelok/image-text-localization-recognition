@@ -1,7 +1,10 @@
 # Scene Text Localization & Recognition Resources [Yearwise]
 
 *[STL] (Scene Text Localization) Detect text area from scene input image*
+
 *[TR] (Text Recognition) Recognize text content*
+
+*[Overview] Summary, overview, survey papers*
 
 **Last update: Mar.27 2018**
 
