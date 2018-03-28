@@ -2,7 +2,7 @@
 
 *Read this institute-wise: [English](README.md), [简体中文](README.zh-cn.md).*
 
-*Read this year-wise: [English](README.yearwise.md), [简体中文](README.zh-cn.zh.yearwise.md).**
+*Read this year-wise: [English](README.yearwise.md), [简体中文](README.zh-cn.yearwise.md).**
 
 *Tags: [STL] (Scene Text Localization), [TR] (Text Recognition)*
 
