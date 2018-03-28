@@ -1,4 +1,4 @@
-# Scene Text Localization & Recognition Resources [Yearwise]
+# Scene Text Localization & Recognition Resources [Year-Wise]
 
 *Read this institute-wise: [English](README.md), [简体中文](README.zh-cn.md).*
 
