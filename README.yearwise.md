@@ -1,12 +1,16 @@
 # Scene Text Localization & Recognition Resources [Yearwise]
 
+*Read this institute-wise: [English](README.md), [简体中文](README.zh-cn.md).*
+
+*Read this year-wise: [English](README.yearwise.md), [简体中文](README.zh-cn.zh.yearwise.md).**
+
 *[STL] (Scene Text Localization) Detect text area from scene input image*
 
 *[TR] (Text Recognition) Recognize text content*
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Mar.27 2018**
+**Last update: Mar.28 2018**
 
 ## 1. Papers & Code
 
@@ -15,7 +19,6 @@
 - [2018-arXiv][STL] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`paper`](https://arxiv.org/abs/1801.02765) [`code`](https://github.com/MhLiao/TextBoxes_plusplus)
 
 #### 2017
-
 
 - [2017-CVPR][STL] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`paper`](https://arxiv.org/abs/1703.01425)
 - [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086)
@@ -37,7 +40,7 @@
 
 #### 2016
 
-- [2016-TIP] [Overview] Text Detection Tracking and Recognition in Video:A Comprehensive Survey [`paper`](http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=7452620&icp=false)
+- [2016-TIP] [Overview] Text Detection Tracking and Recognition in Video: A Comprehensive Survey [`paper`](http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=7452620&icp=false)
 - [2016-IJCV][STL][TR] Reading Text in the Wild with Convolutional Neural Networks  [`paper`](http://arxiv.org/abs/1412.1842) [`demo`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/research/text/)
 - [2016-CVPR][STL] Synthetic Data for Text Localisation in Natural Images [`paper`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`code`](https://github.com/ankush-me/SynthText) [`data`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 - [2016-ECCV][STL] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`paper`](https://arxiv.org/abs/1609.03605) [`code`](https://github.com/tianzhi0549/CTPN)
@@ -62,7 +65,7 @@
 - [2015-PAMI] [Overview] Text Detection and Recognition in Imagery: A Survey [`paper`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2015-ICLR][TR] Deep structured output learning for unconstrained text recognition [`paper`](http://arxiv.org/abs/1412.5903)
 - [2015-PhD Thesis][STL] Deep Learning for Text Spotting [`paper`](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf) [`code`](https://bitbucket.org/aderberg/eccv2014_textspotting)
-- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
+- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
 - [2015-ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
 - [2015-TPAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][STL] FASText: Efficient unconstrained scene text detector [`paper`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`code`](https://github.com/MichalBusta/FASText)
@@ -78,7 +81,7 @@
 
 #### 2013
 
-- [2013-ICCV][STL][TR] Photo OCR:Reading Text in Uncontrolled Conditions [`paper`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
+- [2013-ICCV][STL][TR] Photo OCR: Reading Text in Uncontrolled Conditions [`paper`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 - [2013-CVPR][TR] Scene Text Recognition using Part-based Tree-structured Character Detection [`paper`](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Shi_Scene_Text_Recognition_2013_CVPR_paper.pdf)
 
 
