@@ -200,6 +200,14 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 [`下载`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
 
+#### [`街景数字位置定位与识别数据库 (SVHN)`](http://ufldl.stanford.edu/housenumbers)   `2012`
+
+街景数字位置定位与识别数据库。73257张训练图，26032测试图，531131额外功用图
+
+用途: 数字文本位置定为, 数字文字识别
+
+[`下载`](http://ufldl.stanford.edu/housenumbers)
+
 #### [`IIIT 5K-Words`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html)   `2012`
 
 5000张带文本的场景 (2000张用于训练，3000张用于测试)

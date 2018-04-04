@@ -192,6 +192,14 @@ Task: text recognition, segmantation
 
 [`download`](http://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz)
 
+#### [`The Street View House Number Dataset (SVHN)`](http://ufldl.stanford.edu/housenumbers)   `2012`
+
+Real-world street view number image with its position and classification tags.
+
+Task: number location detection, text recognition
+
+[`download`](http://ufldl.stanford.edu/housenumbers)
+
 #### [`IIIT 5K-Words`](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html)   `2012`
 
 5000 images from Scene Texts and born-digital (2k training and 3k testing images)
