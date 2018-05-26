@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Apr.08 2018**
+**Last update: May.26 2018**
 
 ## 1. Papers & Code
 
@@ -40,6 +40,7 @@
 
 #### South China University of Technology
 
+- [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2017-arXiv][STL] Detecting Curve Text in the Wild: New Dataset and New Solution [`paper`](https://arxiv.org/pdf/1712.02170)
 - [2017-TPAMI][TR] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`paper`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
 - [2017-CVPR][STL] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`paper`](https://arxiv.org/abs/1703.01425)
@@ -167,6 +168,23 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 #### City University of New York
 
 - [2017-CVPR][STL] Unambiguous Text Localization and Retrieval for Cluttered Scenes [`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)
+
+#### The University of Hong Kong
+
+- [2018-AAAI][TR] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`paper`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
+
+#### Zhejiang University
+
+- [2018-AAAI][STL] PixelLink: Detecting Scene Text via Instance Segmentation [`paper`](https://arxiv.org/pdf/1801.01315.pdf)
+
+#### University of Potsdam
+
+- [2018-AAAI][STL][TR] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`paper`](https://arxiv.org/pdf/1712.05404.pdf) [`code`](https://github.com/Bartzi/see)
+
+#### Arizona State Unviversity
+
+- [2018-AAAI][TR] SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional
+Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e963d9751dda18fb540ed7faeb9fb.pdf)
 
 ## 2. Datasets
 

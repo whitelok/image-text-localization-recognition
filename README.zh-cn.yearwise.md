@@ -10,12 +10,18 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-04-08**
+**最近更新时间：2018-05-26**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-AAAI][文字识别] SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional
+Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8e963d9751dda18fb540ed7faeb9fb.pdf)
+- [2018-AAAI][位置感知][文字识别] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`论文`](https://arxiv.org/pdf/1712.05404.pdf) [`代码`](https://github.com/Bartzi/see)
+- [2018-AAAI][位置感知] PixelLink: Detecting Scene Text via Instance Segmentation [`论文`](https://arxiv.org/pdf/1801.01315.pdf)
+- [2018-AAAI][位置感知] Feature Enhancement Network: A Refined Scene Text Detector [`论文`](https://arxiv.org/pdf/1711.04249.pdf)
+- [2018-AAAI][文字识别] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`论文`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
 - [2018-arXiv][位置感知] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`论文`](https://arxiv.org/abs/1801.02765) [`代码`](https://github.com/MhLiao/TextBoxes_plusplus)
 
 #### 2017

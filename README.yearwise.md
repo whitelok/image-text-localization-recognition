@@ -10,12 +10,18 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Apr.08 2018**
+**Last update: May.26 2018**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-AAAI][TR] SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional
+Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e963d9751dda18fb540ed7faeb9fb.pdf)
+- [2018-AAAI][STL][TR] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`paper`](https://arxiv.org/pdf/1712.05404.pdf) [`code`](https://github.com/Bartzi/see)
+- [2018-AAAI][STL] PixelLink: Detecting Scene Text via Instance Segmentation [`paper`](https://arxiv.org/pdf/1801.01315.pdf)
+- [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
+- [2018-AAAI][TR] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`paper`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
 - [2018-arXiv][STL] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`paper`](https://arxiv.org/abs/1801.02765) [`code`](https://github.com/MhLiao/TextBoxes_plusplus)
 
 #### 2017

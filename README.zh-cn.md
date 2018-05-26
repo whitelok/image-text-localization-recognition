@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-04-08**
+**最近更新时间：2018-05-26**
 
 ## 1. 论文和代码
 
@@ -41,6 +41,7 @@
 
 #### 华南理工大学
 
+- [2018-AAAI][位置感知] Feature Enhancement Network: A Refined Scene Text Detector [`论文`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2017-arXiv][位置感知] Detecting Curve Text in the Wild: New Dataset and New Solution [`论文`](https://arxiv.org/pdf/1712.02170)
 - [2017-TPAMI][文字识别] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`论文`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
 - [2017-CVPR][位置感知] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`论文`](https://arxiv.org/abs/1703.01425)
@@ -175,6 +176,23 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 #### 纽约城市大学
 
 - [2017-CVPR][位置感知] Unambiguous Text Localization and Retrieval for Cluttered Scenes [`论文`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rong_Unambiguous_Text_Localization_CVPR_2017_paper.pdf)
+
+#### 香港大学
+
+- [2018-AAAI][文字识别] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`论文`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
+
+#### 浙江大学
+
+- [2018-AAAI][位置感知] PixelLink: Detecting Scene Text via Instance Segmentation [`论文`](https://arxiv.org/pdf/1801.01315.pdf)
+
+#### 波茨坦大学
+
+- [2018-AAAI][位置感知][文字识别] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`论文`](https://arxiv.org/pdf/1712.05404.pdf) [`代码`](https://github.com/Bartzi/see)
+
+#### 亚利桑那州立大学
+
+- [2018-AAAI][文字识别] SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional
+Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8e963d9751dda18fb540ed7faeb9fb.pdf)
 
 ## 2. 训练数据集合
 
