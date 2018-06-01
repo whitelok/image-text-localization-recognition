@@ -22,7 +22,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 - [2018-AAAI][STL] PixelLink: Detecting Scene Text via Instance Segmentation [`paper`](https://arxiv.org/pdf/1801.01315.pdf)
 - [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2018-AAAI][TR] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`paper`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
-- [2018-arXiv][STL] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`paper`](https://arxiv.org/abs/1801.02765) [`code`](https://github.com/MhLiao/TextBoxes_plusplus)
+- [2018-TIP][STL] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`paper`](https://arxiv.org/abs/1801.02765) [`code`](https://github.com/MhLiao/TextBoxes_plusplus)
 
 #### 2017
 
