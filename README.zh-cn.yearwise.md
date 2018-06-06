@@ -10,12 +10,17 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-05-26**
+**最近更新时间：2018-06-06**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
+- [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
+- [2018-CVPR][位置感知] Geometry-Aware Scene Text Detection with Instance Transformation Network [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)
+- [2018-CVPR][位置感知] Learning Markov Clustering Networks for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
+- [2018-CVPR][位置感知] Rotation-sensitive Regression for Oriented Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 - [2018-AAAI][文字识别] SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional
 Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8e963d9751dda18fb540ed7faeb9fb.pdf)
 - [2018-AAAI][位置感知][文字识别] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`论文`](https://arxiv.org/pdf/1712.05404.pdf) [`代码`](https://github.com/Bartzi/see)
@@ -34,7 +39,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 - [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2017-AAAI][位置感知][文字识别] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`论文`](https://github.com/cmkang/CTSN/blob/master/aaai2017_cameraready.pdf)
-- [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
+- [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST)
 - [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`论文`](https://arxiv.org/abs/1703.08289)
 - [2017-arXiv][位置感知] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
 - [2017-ICCV][位置感知][文字识别] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
