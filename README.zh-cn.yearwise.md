@@ -10,12 +10,16 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-06-06**
+**最近更新时间：2018-08-12**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-ICIP][位置感知] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection
+- [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
+- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
 - [2018-CVPR][位置感知] Geometry-Aware Scene Text Detection with Instance Transformation Network [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)
@@ -81,7 +85,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 - [2015-ICLR][文字识别] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
 - [2015-PhD Thesis][位置感知] Deep Learning for Text Spotting
  [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting)
-- [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
+- [2015-TPAMI][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
 - [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][位置感知] FASText: Efficient unconstrained scene text detector [`论文`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`代码`](https://github.com/MichalBusta/FASText)

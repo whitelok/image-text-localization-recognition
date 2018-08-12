@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: June.6 2018**
+**Last update: Aug.12 2018**
 
 ## 1. Papers & Code
 
@@ -53,6 +53,7 @@
 
 #### Huazhong University of Science and Technology
 
+- [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection
 - [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][STL] Rotation-sensitive Regression for Oriented Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 - [2018-TIP][STL] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`paper`](https://arxiv.org/abs/1801.02765) [`code`](https://github.com/MhLiao/TextBoxes_plusplus)
@@ -61,7 +62,7 @@
 - [2016-CVPR][TR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-arXiv][STL] Scene Text Detection via Holistic, Multi-Channel Prediction [`paper`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][STL] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
+- [2015-TPAMI][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
 
 #### Universitat Autònoma de Barcelona
 
@@ -196,6 +197,18 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Nanyang Technological University
 
 - [2018-CVPR][STL] Learning Markov Clustering Networks for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
+
+#### Alibaba Group 
+
+- [2018-IJCAI][STL] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
+
+#### Chinese Academy of Sciences
+
+- [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition
+
+#### Unknown
+
+- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
 
 ## 2. Datasets
 

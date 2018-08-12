@@ -10,12 +10,16 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: June.6 2018**
+**Last update: Aug.12 2018**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection
+- [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition
+- [2018-IJCAI][STL] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
 - [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][TR] Edit Probability for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
 - [2018-CVPR][STL] Geometry-Aware Scene Text Detection with Instance Transformation Network [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)
@@ -78,7 +82,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 - [2015-PAMI] [Overview] Text Detection and Recognition in Imagery: A Survey [`paper`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2015-ICLR][TR] Deep structured output learning for unconstrained text recognition [`paper`](http://arxiv.org/abs/1412.5903)
 - [2015-PhD Thesis][STL] Deep Learning for Text Spotting [`paper`](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf) [`code`](https://bitbucket.org/aderberg/eccv2014_textspotting)
-- [2015-CoRR][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
+- [2015-TPAMI][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
 - [2015-ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
 - [2015-TPAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][STL] FASText: Efficient unconstrained scene text detector [`paper`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`code`](https://github.com/MichalBusta/FASText)

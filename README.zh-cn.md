@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-06-06**
+**最近更新时间：2018-08-12**
 
 ## 1. 论文和代码
 
@@ -54,6 +54,7 @@
 
 #### 华中科技大学
 
+- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][位置感知] Rotation-sensitive Regression for Oriented Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 - [2018-TIP][位置感知] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`论文`](https://arxiv.org/abs/1801.02765) [`代码`](https://github.com/MhLiao/TextBoxes_plusplus)
@@ -62,7 +63,7 @@
 - [2016-CVPR][文字识别] Robust scene text recognition with automatic rectification [`论文`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-arXiv][位置感知] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
+- [2015-TPAMI][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
 - [2015-CVPR][位置感知] Symmetry-Based Text Line Detector in Natural Scenes [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7298871) [`代码`](https://github.com/stupidZZ/Symmetry_Text_Line_Detections)
 - [2015-ICDAR][文字识别] Automatic Script Identification in the Wild [`论文`](https://arxiv.org/pdf/1505.02982.pdf)
 
@@ -204,6 +205,18 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 南洋理工大学
 
 - [2018-CVPR][位置感知] Learning Markov Clustering Networks for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
+
+#### 阿里巴巴集团
+
+- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
+
+#### 中国科学院
+
+- [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
+
+#### 未知
+
+- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
 
 ## 2. 训练数据集合
 
