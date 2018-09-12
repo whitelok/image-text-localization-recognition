@@ -54,7 +54,8 @@
 
 #### 华中科技大学
 
-- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection
+- [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
+- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][位置感知] Rotation-sensitive Regression for Oriented Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 - [2018-TIP][位置感知] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`论文`](https://arxiv.org/abs/1801.02765) [`代码`](https://github.com/MhLiao/TextBoxes_plusplus)
@@ -69,6 +70,7 @@
 
 #### 巴塞罗那自治大学
 
+- [2018-ECCV][位置感知] Single Shot Scene Text Retrieval [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][位置感知] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`论文`](https://arxiv.org/pdf/1604.02619.pdf) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
@@ -204,6 +206,9 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 南洋理工大学
 
+- [2018-ECCV][位置感知] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
+- [2018-ECCV][文字识别] Using Object Information for Spotting Text [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
 - [2018-CVPR][位置感知] Learning Markov Clustering Networks for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
 
 #### 阿里巴巴集团
@@ -212,11 +217,12 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 中国科学院
 
+- [2018-ICIP][位置感知] Focal Text: An Accurate Text Detection With Focal Loss
 - [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
 
-#### 未知
+#### 剑桥大学
 
-- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ECCV][位置感知] Synthetically Supervised Feature Learning for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
 ## 2. 训练数据集合
 

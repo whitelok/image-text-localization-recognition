@@ -10,16 +10,22 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-08-12**
+**最近更新时间：2018-09-12**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
+- [2018-ECCV][文字识别] Using Object Information for Spotting Text [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Single Shot Scene Text Retrieval [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Synthetically Supervised Feature Learning for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 - [2018-ICIP][位置感知] Focal Text: An Accurate Text Detection With Focal Loss
-- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection
+- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
-- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
+- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/pdf/1805.01167.pdf)
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
 - [2018-CVPR][位置感知] Geometry-Aware Scene Text Detection with Instance Transformation Network [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)

@@ -53,7 +53,8 @@
 
 #### Huazhong University of Science and Technology
 
-- [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection
+- [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
+- [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][STL] Rotation-sensitive Regression for Oriented Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 - [2018-TIP][STL] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`paper`](https://arxiv.org/abs/1801.02765) [`code`](https://github.com/MhLiao/TextBoxes_plusplus)
@@ -66,6 +67,7 @@
 
 #### Universitat Autònoma de Barcelona
 
+- [2018-ECCV][STL] Single Shot Scene Text Retrieval [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][STL] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`paper`](https://arxiv.org/pdf/1604.02619.pdf) [`code`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
@@ -196,6 +198,9 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Nanyang Technological University
 
+- [2018-ECCV][STL] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
+- [2018-ECCV][STL] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
+- [2018-ECCV][TR] Using Object Information for Spotting Text [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
 - [2018-CVPR][STL] Learning Markov Clustering Networks for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
 
 #### Alibaba Group 
@@ -204,11 +209,12 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Chinese Academy of Sciences
 
+- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
 - [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition
 
-#### Unknown
+#### University of Cambridge
 
-- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ECCV][STL] Synthetically Supervised Feature Learning for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
 ## 2. Datasets
 

@@ -10,7 +10,7 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Aug.12 2018**
+**Last update: Sep.12 2018**
 
 ## 1. Papers & Code
 
@@ -23,7 +23,7 @@
 - [2018-ECCV][STL] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
 - [2018-ECCV][STL] Synthetically Supervised Feature Learning for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 - [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
-- [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection
+- [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition
 - [2018-IJCAI][STL] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
 - [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
