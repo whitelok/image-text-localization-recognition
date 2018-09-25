@@ -71,7 +71,7 @@
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][STL] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`paper`](https://arxiv.org/pdf/1604.02619.pdf) [`code`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
-- [2014-TPAMI][TR] Word Spotting and Recognition with Embedded Attributes	 [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
+- [2014-TPAMI][TR] Word Spotting and Recognition with Embedded Attributes [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
 
 #### Stanford University
 
@@ -88,7 +88,7 @@
 
 #### Institute of Automation, Chinese Academy of Sciences
 
-- [2017-arXiv][STL] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`paper`](https://arxiv.org/abs/1703.08289)
+- [2017-arXiv][STL] Deep Direct Regression for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/abs/1703.08289)
 
 #### University of California, San Diego
 

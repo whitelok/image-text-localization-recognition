@@ -74,7 +74,7 @@
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][位置感知] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`论文`](https://arxiv.org/pdf/1604.02619.pdf) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
-- [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes	 [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
+- [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
 #### 斯坦福大学
 
@@ -91,7 +91,7 @@
 
 #### 中国科学院自动化研究所
 
-- [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`论文`](https://arxiv.org/abs/1703.08289)
+- [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/abs/1703.08289)
 
 #### 加州大学圣地亚哥分校
 
