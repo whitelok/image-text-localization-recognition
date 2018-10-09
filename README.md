@@ -334,3 +334,4 @@ Task: text recognition
 - [Breaking reddit captcha with 96% accuracy](https://deepmlblog.wordpress.com/2016/01/05/breaking-reddit-captcha-with-96-accuracy/) [`github`](https://github.com/arunpatala/reddit.captcha)
 - [文字检测与识别资源-1](http://blog.csdn.net/peaceinmind/article/details/51387367)
 - [文字的检测与识别资源-2](http://blog.csdn.net/u010183397/article/details/56497303?locationNum=12&fps=1)
+- Scene Text Recognition in iOS [`blog`](https://medium.com/@khurram.pak522/scene-text-recognition-in-ios-11-2d0df8412151) [`github`](https://github.com/khurram18/SceneTextRecognitioniOS)
