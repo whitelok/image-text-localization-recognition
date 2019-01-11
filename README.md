@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Aug.12 2018**
+**Last update: Jan.11 2019**
 
 ## 1. Papers & Code
 
