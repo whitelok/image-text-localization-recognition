@@ -222,6 +222,20 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 ## 2. Datasets
 
+#### [`SCUT-CTW1500`](https://github.com/Yuliang-Liu/Curve-Text-Detector) `2018`
+
+Task: text location(with different style) and recognition
+
+[`download`](https://github.com/Yuliang-Liu/Curve-Text-Detector)
+
+#### [`Total Text Dataset`](https://github.com/cs-chan/Total-Text-Dataset) `2017`
+
+1,555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind
+
+Task: text location(with different style) and recognition
+
+[`download`](https://github.com/cs-chan/Total-Text-Dataset)
+
 #### [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
 
 21,384 images, 21,384+ text instances

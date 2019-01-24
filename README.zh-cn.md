@@ -229,6 +229,20 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 ## 2. 训练数据集合
 
+#### [`SCUT-CTW1500`](https://github.com/Yuliang-Liu/Curve-Text-Detector) `2018`
+
+用途: 文本感知(不同形状的文本)，识别
+
+[`下载`](https://github.com/Yuliang-Liu/Curve-Text-Detector)
+
+#### [`Total Text Dataset`](https://github.com/cs-chan/Total-Text-Dataset) `2017`
+
+1,555 图片, 每个图片至少3个不同文本方向，以及其排布曲线
+
+用途: 文本感知(不同形状的文本)，识别
+
+[`下载`](https://github.com/cs-chan/Total-Text-Dataset)
+
 #### [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
 
 21,384 图片, 21,384+ 文本标记
