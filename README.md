@@ -49,7 +49,7 @@
 #### Fudan University
 
 - [2018-CVPR][TR] Edit Probability for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
-- [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086)
+- [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086) [`code`](https://github.com/mjq11302010044/RRPN)
 
 #### Huazhong University of Science and Technology
 
@@ -84,7 +84,7 @@
 
 #### Megvii Technology Inc: Face++
 
-- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST)
+- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST) [`code with improvement`](https://github.com/huoyijie/AdvancedEAST)
 
 #### Institute of Automation, Chinese Academy of Sciences
 
@@ -221,6 +221,20 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 - [2018-ECCV][STL] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`paper`](https://arxiv.org/pdf/1807.01544.pdf) [`code`](https://github.com/princewang1994/TextSnake.pytorch)
 
 ## 2. Datasets
+
+#### [`SCUT-CTW1500`](https://github.com/Yuliang-Liu/Curve-Text-Detector) `2018`
+
+Task: text location(with different style) and recognition
+
+[`download`](https://github.com/Yuliang-Liu/Curve-Text-Detector)
+
+#### [`Total Text Dataset`](https://github.com/cs-chan/Total-Text-Dataset) `2017`
+
+1,555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind
+
+Task: text location(with different style) and recognition
+
+[`download`](https://github.com/cs-chan/Total-Text-Dataset)
 
 #### [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
 
