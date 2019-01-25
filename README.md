@@ -49,7 +49,7 @@
 #### Fudan University
 
 - [2018-CVPR][TR] Edit Probability for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
-- [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086)
+- [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086) [`code`](https://github.com/mjq11302010044/RRPN)
 
 #### Huazhong University of Science and Technology
 
@@ -84,7 +84,7 @@
 
 #### Megvii Technology Inc: Face++
 
-- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST)
+- [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST) [`code with improvement`](https://github.com/huoyijie/AdvancedEAST)
 
 #### Institute of Automation, Chinese Academy of Sciences
 

@@ -50,7 +50,7 @@
 #### 复旦大学
 
 - [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
-- [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`论文`](https://arxiv.org/abs/1703.01086)
+- [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`论文`](https://arxiv.org/abs/1703.01086) [`代码`](https://github.com/mjq11302010044/RRPN)
 
 #### 华中科技大学
 
@@ -87,7 +87,7 @@
 
 #### 旷视科技: Face++
 
-- [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155) [`代码`](https://github.com/argman/EAST)
+- [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155) [`代码`](https://github.com/argman/EAST) [`增强版代码`](https://github.com/huoyijie/AdvancedEAST)
 
 #### 中国科学院自动化研究所
 
