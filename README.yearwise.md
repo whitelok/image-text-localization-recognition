@@ -2,7 +2,7 @@
 
 *Read this institute-wise: [English](README.md), [简体中文](README.zh-cn.md).*
 
-*Read this year-wise: [English](README.yearwise.md), [简体中文](README.zh-cn.yearwise.md).**
+*Read this year-wise: [English](README.yearwise.md), [简体中文](README.zh-cn.yearwise.md).*
 
 *[STL] (Scene Text Localization) Detect text area from scene input image*
 
@@ -10,7 +10,7 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Jan.25 2019**
+**Last update: Jan.29 2019**
 
 ## 1. Papers & Code
 

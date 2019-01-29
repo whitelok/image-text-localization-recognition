@@ -2,7 +2,7 @@
 
 *按发表机构排序: [English](README.md), [简体中文](README.zh-cn.md).*
 
-*按发表年份排序: [English](README.yearwise.md), [简体中文](README.zh-cn.yearwise.md).**
+*按发表年份排序: [English](README.yearwise.md), [简体中文](README.zh-cn.yearwise.md).*
 
 *标记: [位置感知], [文字识别]*
 
@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-01-25**
+**最近更新时间：2019-01-29**
 
 ## 1. Papers & Code
 
