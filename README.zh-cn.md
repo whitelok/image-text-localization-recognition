@@ -328,8 +328,9 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### `ICDAR 基准数据集`
 
 |数据集| 描述 | 相应论文 |
-|---|---|----
-|[ICDAR 2015](http://rrc.cvc.uab.es/)| 1000张训练图片和500测试图片|`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://rrc.cvc.uab.es/files/Robust-Reading-Competition-Karatzas.pdf)|
+|---|---|----|
+|[ICDAR 2017](http://rrc.cvc.uab.es/)| 总共63686张图173589标记 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://arxiv.org/abs/1601.07140)|
+|[ICDAR 2015](http://rrc.cvc.uab.es/)| 1000张训练图片和500测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://rrc.cvc.uab.es/files/Robust-Reading-Competition-Karatzas.pdf)|
 |[ICDAR 2013](http://dagdata.cvc.uab.es/icdar2013competition/)| 229张训练图片和233张测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://dagdata.cvc.uab.es/icdar2013competition/files/icdar2013_competition_report.pdf)|
 |[ICDAR 2011](http://robustreading.opendfki.de/trac/)| 229张训练图片和255张测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.iapr-tc11.org/archive/icdar2011/fileup/PDF/4520b491.pdf)|
 |[ICDAR 2005](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2005_Robust_Reading_Competitions)| 1001张训练图片和489张测试图片 |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://www.academia.edu/download/30700479/10.1.1.96.4332.pdf)|
