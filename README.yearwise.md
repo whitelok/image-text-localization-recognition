@@ -16,6 +16,7 @@
 
 #### 2018
 
+- [2018-arxiv][TR][STL] Scene Text Detection and Recognition: The Deep Learning Era [`paper`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-ECCV][STL] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`paper`](https://arxiv.org/pdf/1807.01544.pdf) [`code`](https://github.com/princewang1994/TextSnake.pytorch)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ECCV][TR] Using Object Information for Spotting Text [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
