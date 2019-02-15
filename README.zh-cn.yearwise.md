@@ -10,12 +10,16 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-01-29**
+*[综述] 综述以及调查统计类论文*
+
+**最近更新时间：2019-02-15**
 
 ## 1. Papers & Code
 
 #### 2018
 
+- [2018-BMVC][位置感知] Boosting up Scene Text Detectors with Guided CNN [`论文`](http://bmvc2018.org/contents/papers/0633.pdf)
+- [2018-arxiv][综述] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-ECCV][位置感知] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`论文`](https://arxiv.org/pdf/1807.01544.pdf) [`代码`](https://github.com/princewang1994/TextSnake.pytorch)
 - [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ECCV][文字识别] Using Object Information for Spotting Text [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)

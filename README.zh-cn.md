@@ -10,12 +10,13 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-01-29**
+**最近更新时间：2019-02-15**
 
 ## 1. 论文和代码
 
 #### 综述型论文
 
+- [2018-arxiv] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2016-TIP] Text Detection Tracking and Recognition in Video: A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`论文`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`论文`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)
@@ -226,6 +227,9 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 北京大学
 - [2018-ECCV][位置感知] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`论文`](https://arxiv.org/pdf/1807.01544.pdf) [`代码`](https://github.com/princewang1994/TextSnake.pytorch)
+
+#### 商汤研究院
+- [2018-BMVC][位置感知] Boosting up Scene Text Detectors with Guided CNN [`论文`](http://bmvc2018.org/contents/papers/0633.pdf)
 
 ## 2. 训练数据集合
 
