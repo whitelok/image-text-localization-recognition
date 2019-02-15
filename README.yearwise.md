@@ -20,7 +20,7 @@
 - [2018-arxiv][Overview] Scene Text Detection and Recognition: The Deep Learning Era [`paper`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-ECCV][STL] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`paper`](https://arxiv.org/pdf/1807.01544.pdf) [`code`](https://github.com/princewang1994/TextSnake.pytorch)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
-- [2018-ECCV][TR] Using Object Information for Spotting Text [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
+- [2018-ECCV][STL] Using Object Information for Spotting Text [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
 - [2018-ECCV][STL] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
 - [2018-ECCV][STL] Single Shot Scene Text Retrieval [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2018-ECCV][STL] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
