@@ -16,6 +16,7 @@
 
 #### 2018
 
+- [2018-BMVC][TR] Inductive Visual Localisation: Factorised Training for Superior Generalisation [`paper`](https://arxiv.org/abs/1807.08179)
 - [2018-BMVC][STL] Boosting up Scene Text Detectors with Guided CNN [`paper`](http://bmvc2018.org/contents/papers/0633.pdf)
 - [2018-arxiv][Overview] Scene Text Detection and Recognition: The Deep Learning Era [`paper`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-ECCV][STL] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`paper`](https://arxiv.org/pdf/1807.01544.pdf) [`code`](https://github.com/princewang1994/TextSnake.pytorch)
