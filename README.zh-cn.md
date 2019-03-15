@@ -34,6 +34,7 @@
 
 #### 中国科学院深圳先进技术研究院
 
+- [2018-arxiv][位置感知][文字识别] FOTS: Fast Oriented Text Spotting with a Unified Network [`论文`](https://arxiv.org/abs/1801.01671)
 - [2016-ECCV][位置感知] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`论文`](https://arxiv.org/abs/1609.03605) [`代码`](https://github.com/tianzhi0549/CTPN)
 - [2016-CVPR][位置感知] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network
  [`论文`](http://arxiv.org/abs/1603.09423)

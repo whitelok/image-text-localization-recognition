@@ -34,6 +34,7 @@
 
 #### Shenzhen Institutes of Advanced Technology
 
+- [2018-arxiv][STL][TR] FOTS: Fast Oriented Text Spotting with a Unified Network [`paper`](https://arxiv.org/abs/1801.01671)
 - [2016-ECCV][STL] CTPN: Detecting Text in Natural Image with Connectionist Text Proposal Network [`paper`](https://arxiv.org/abs/1609.03605) [`code`](https://github.com/tianzhi0549/CTPN)
 - [2016-CVPR][STL] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network [`paper`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][STL] Reading Scene Text in Deep Convolutional Sequences [`paper`](http://whuang.org/papers/phe2016_aaai.pdf)
