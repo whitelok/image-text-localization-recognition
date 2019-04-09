@@ -14,6 +14,10 @@
 
 ## 1. Papers & Code
 
+#### 2019
+
+- [2019-CVPR][STL][TR] Character Region Awareness for Text Detection [`paper`](https://arxiv.org/abs/1904.01941)
+
 #### 2018
 
 - [2018-BMVC][TR] Inductive Visual Localisation: Factorised Training for Superior Generalisation [`paper`](https://arxiv.org/abs/1807.08179)
