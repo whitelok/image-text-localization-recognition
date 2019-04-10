@@ -12,9 +12,13 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2019-02-15**
+**最近更新时间：2019-04-10**
 
 ## 1. Papers & Code
+
+#### 2019
+
+- [2019-CVPR][位置感知][文字识别] Character Region Awareness for Text Detection [`论文`](https://arxiv.org/abs/1904.01941)
 
 #### 2018
 

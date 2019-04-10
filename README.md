@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Feb.15 2019**
+**Last update: Apr.10 2019**
 
 ## 1. Papers & Code
 
@@ -224,7 +224,13 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 - [2018-ECCV][STL] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`paper`](https://arxiv.org/pdf/1807.01544.pdf) [`code`](https://github.com/princewang1994/TextSnake.pytorch)
 
 #### SenseTime Research
+
 - [2018-BMVC][STL] Boosting up Scene Text Detectors with Guided CNN [`paper`](http://bmvc2018.org/contents/papers/0633.pdf)
+
+#### Naver Clova AI Research
+
+- [2019-CVPR][STL][TR] Character Region Awareness for Text Detection [`paper`](https://arxiv.org/abs/1904.01941)
+
 
 ## 2. Datasets
 

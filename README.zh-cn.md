@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-02-15**
+**最近更新时间：2019-04-10**
 
 ## 1. 论文和代码
 
@@ -228,10 +228,17 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 - [2018-ECCV][位置感知] Synthetically Supervised Feature Learning for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
 #### 北京大学
+
 - [2018-ECCV][位置感知] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`论文`](https://arxiv.org/pdf/1807.01544.pdf) [`代码`](https://github.com/princewang1994/TextSnake.pytorch)
 
 #### 商汤研究院
+
 - [2018-BMVC][位置感知] Boosting up Scene Text Detectors with Guided CNN [`论文`](http://bmvc2018.org/contents/papers/0633.pdf)
+
+#### NAVER Clova 研究院
+
+- [2019-CVPR][位置感知][文字识别] Character Region Awareness for Text Detection [`论文`](https://arxiv.org/abs/1904.01941)
+
 
 ## 2. 训练数据集合
 
