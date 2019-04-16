@@ -16,6 +16,8 @@
 
 #### 2019
 
+- [2019-CVPR][STL] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
+[`paper`](https://arxiv.org/abs/1904.06535)
 - [2019-CVPR][STL][TR] Character Region Awareness for Text Detection [`paper`](https://arxiv.org/abs/1904.01941)
 
 #### 2018
