@@ -12,12 +12,14 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2019-04-10**
+**最近更新时间：2019-04-17**
 
 ## 1. Papers & Code
 
 #### 2019
 
+- [2019-CVPR][位置感知] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
+[`论文`](https://arxiv.org/abs/1904.06535)
 - [2019-CVPR][位置感知][文字识别] Character Region Awareness for Text Detection [`论文`](https://arxiv.org/abs/1904.01941)
 
 #### 2018

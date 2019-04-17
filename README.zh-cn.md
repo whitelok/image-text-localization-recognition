@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-04-10**
+**最近更新时间：2019-04-17**
 
 ## 1. 论文和代码
 
@@ -239,6 +239,10 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 - [2019-CVPR][位置感知][文字识别] Character Region Awareness for Text Detection [`论文`](https://arxiv.org/abs/1904.01941)
 
+#### 百度
+
+- [2019-CVPR][位置感知] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
+[`论文`](https://arxiv.org/abs/1904.06535)
 
 ## 2. 训练数据集合
 

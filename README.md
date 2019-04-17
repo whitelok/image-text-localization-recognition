@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Apr.10 2019**
+**Last update: Apr.17 2019**
 
 ## 1. Papers & Code
 
@@ -231,6 +231,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 - [2019-CVPR][STL][TR] Character Region Awareness for Text Detection [`paper`](https://arxiv.org/abs/1904.01941)
 
+#### Baidu
+
+- [2019-CVPR][STL] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
+[`paper`](https://arxiv.org/abs/1904.06535)
 
 ## 2. Datasets
 
