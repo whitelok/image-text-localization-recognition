@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Apr.17 2019**
+**Last update: May.03 2019**
 
 ## 1. Papers & Code
 
@@ -235,6 +235,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 - [2019-CVPR][STL] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`paper`](https://arxiv.org/abs/1904.06535)
+
+#### University of Adelaide
+
+- [2018-CVPR][STL][TR] An End-to-End TextSpotter with Explicit Alignment and Attention [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf) [`code`](https://github.com/tonghe90/textspotter)
 
 ## 2. Datasets
 

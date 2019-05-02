@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-04-17**
+**最近更新时间：2019-05-03**
 
 ## 1. 论文和代码
 
@@ -243,6 +243,11 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 - [2019-CVPR][位置感知] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`论文`](https://arxiv.org/abs/1904.06535)
+
+#### 阿德莱德大学
+
+- [2018-CVPR][位置感知][文字识别] An End-to-End TextSpotter with Explicit Alignment and Attention [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf) [`代码`](https://github.com/tonghe90/textspotter)
+
 
 ## 2. 训练数据集合
 

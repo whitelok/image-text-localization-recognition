@@ -12,7 +12,7 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2019-04-17**
+**最近更新时间：2019-05-03**
 
 ## 1. Papers & Code
 
@@ -39,6 +39,7 @@
 - [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
 - [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/pdf/1805.01167.pdf)
+- [2018-CVPR][位置感知][文字识别] An End-to-End TextSpotter with Explicit Alignment and Attention [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf) [`代码`](https://github.com/tonghe90/textspotter)
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
 - [2018-CVPR][位置感知] Geometry-Aware Scene Text Detection with Instance Transformation Network [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)
