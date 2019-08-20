@@ -18,6 +18,12 @@
 
 #### 2019
 
+- [2019-CVPR][位置感知] Towards Robust Curve Text Detection With Conditional Spatial Expansion [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
+- [2019-CVPR][位置感知] Shape Robust Text Detection With Progressive Scale Expansion Network [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.html)
+- [2019-CVPR][位置感知] Tightness-Aware Evaluation Protocol for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Tightness-Aware_Evaluation_Protocol_for_Scene_Text_Detection_CVPR_2019_paper.html)
+- [2019-CVPR][位置感知] Arbitrary Shape Scene Text Detection With Adaptive Text Region Representation [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Arbitrary_Shape_Scene_Text_Detection_With_Adaptive_Text_Region_Representation_CVPR_2019_paper.html)
+- [2019-CVPR][位置感知] Learning Shape-Aware Embedding for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Tian_Learning_Shape-Aware_Embedding_for_Scene_Text_Detection_CVPR_2019_paper.html)
+- [2019-CVPR][位置感知] ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 - [2019-CVPR][位置感知] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`论文`](https://arxiv.org/abs/1904.06535)
 - [2019-CVPR][位置感知][文字识别] Character Region Awareness for Text Detection [`论文`](https://arxiv.org/abs/1904.01941)
