@@ -16,6 +16,17 @@
 
 #### 2019
 
+- [2019-ICCV][STL][Overview] What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) [`code`](https://github.com/clovaai/deep-text-recognition-benchmark)
+- [2019-ICCV][STL] Towards Unconstrained End-to-End Text Spotting [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.html)
+- [2019-ICCV][STL] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html)
+- [2019-ICCV][STL] TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.html)
+- [2019-ICCV][STL] Chinese Street View Text: Large-Scale Chinese Text Reading With Partially Supervised Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Chinese_Street_View_Text_Large-Scale_Chinese_Text_Reading_With_Partially_ICCV_2019_paper.html)
+- [2019-ICCV][STL] Geometry Normalization Networks for Accurate Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Geometry_Normalization_Networks_for_Accurate_Scene_Text_Detection_ICCV_2019_paper.html)
+- [2019-ICCV][STL][TR] Scene Text Visual Question Answering [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Biten_Scene_Text_Visual_Question_Answering_ICCV_2019_paper.html)
+- [2019-ICCV][STL][TR] GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
+- [2019-ICCV][STL][TR] Convolutional Character Networks [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xing_Convolutional_Character_Networks_ICCV_2019_paper.html) [`code`](https://github.com/MalongTech/research-charnet)
+- [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
+- [2019-ICCV][TR] Large-Scale Tag-Based Font Retrieval With Generative Feature Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Large-Scale_Tag-Based_Font_Retrieval_With_Generative_Feature_Learning_ICCV_2019_paper.html)
 - [2019-CVPR][STL] Towards Robust Curve Text Detection With Conditional Spatial Expansion [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
 - [2019-CVPR][STL] Shape Robust Text Detection With Progressive Scale Expansion Network [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.html)
 - [2019-CVPR][STL] Tightness-Aware Evaluation Protocol for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Tightness-Aware_Evaluation_Protocol_for_Scene_Text_Detection_CVPR_2019_paper.html)
