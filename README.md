@@ -253,7 +253,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Nanjing University
 
-- [2019-ICCV][STL] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html)
+- [2019-ICCV][STL] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html) [`code`](https://github.com/WenmuZhou/PAN.pytorch)
 - [2019-CVPR][STL] Shape Robust Text Detection With Progressive Scale Expansion Network [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.html)
 
 #### The Chinese University of Hong Kong
