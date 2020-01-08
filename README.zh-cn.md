@@ -10,12 +10,13 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2019-05-03**
+**最近更新时间：2020-01-08**
 
 ## 1. 论文和代码
 
 #### 综述型论文
 
+- [2019-ICCV] What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) [`代码`](https://github.com/clovaai/deep-text-recognition-benchmark)
 - [2018-arxiv] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2016-TIP] Text Detection Tracking and Recognition in Video: A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`论文`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
@@ -58,6 +59,7 @@
 
 #### 华中科技大学
 
+- [2019-ICCV][文字识别] Symmetry-Constrained Rectification Network for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
@@ -74,6 +76,7 @@
 
 #### 巴塞罗那自治大学
 
+- [2019-ICCV][位置感知][文字识别] Scene Text Visual Question Answering [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Biten_Scene_Text_Visual_Question_Answering_ICCV_2019_paper.html)
 - [2018-ECCV][位置感知] Single Shot Scene Text Retrieval [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][位置感知] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`论文`](https://arxiv.org/pdf/1604.02619.pdf) [`代码`](https://github.com/lluisgomez/TextProposals)
@@ -95,6 +98,7 @@
 
 #### 中国科学院自动化研究所
 
+- [2019-ICCV][位置感知][文字识别] TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.html)
 - [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/abs/1703.08289)
 
 #### 加州大学圣地亚哥分校
@@ -136,6 +140,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 #### Google
 
+- [2019-ICCV][位置感知][文字识别] Towards Unconstrained End-to-End Text Spotting [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.html)
 - [2013-ICCV][位置感知][文字识别] Photo OCR: Reading Text in Uncontrolled Conditions [`论文`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 
 #### 微软
@@ -211,6 +216,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 南洋理工大学
 
+- [2019-ICCV][位置感知][文字识别] GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 - [2019-CVPR][STL] ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 - [2019-CVPR][位置感知] Towards Robust Curve Text Detection With Conditional Spatial Expansion [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
 - [2018-ECCV][位置感知] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
@@ -237,6 +243,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 商汤研究院
 
+- [2019-ICCV][位置感知] Geometry Normalization Networks for Accurate Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Geometry_Normalization_Networks_for_Accurate_Scene_Text_Detection_ICCV_2019_paper.html)
 - [2018-BMVC][位置感知] Boosting up Scene Text Detectors with Guided CNN [`论文`](http://bmvc2018.org/contents/papers/0633.pdf)
 
 #### NAVER Clova 研究院
@@ -245,6 +252,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 百度
 
+- [2019-ICCV][位置感知][文字识别] Chinese Street View Text: Large-Scale Chinese Text Reading With Partially Supervised Learning [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Chinese_Street_View_Text_Large-Scale_Chinese_Text_Reading_With_Partially_ICCV_2019_paper.html)
 - [2019-CVPR][位置感知] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`论文`](https://arxiv.org/abs/1904.06535)
 
@@ -254,11 +262,20 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 南京大学
 
+- [2019-ICCV][位置感知] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html)
 - [2019-CVPR][位置感知] Shape Robust Text Detection With Progressive Scale Expansion Network [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.html)
 
 #### 香港中文大学
 
 - [2019-CVPR][位置感知] Learning Shape-Aware Embedding for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Tian_Learning_Shape-Aware_Embedding_for_Scene_Text_Detection_CVPR_2019_paper.html)
+
+#### 码隆科技
+
+- [2019-ICCV][位置感知][文字识别] Convolutional Character Networks [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xing_Convolutional_Character_Networks_ICCV_2019_paper.html) [`代码`](https://github.com/MalongTech/research-charnet)
+
+#### 罗切斯特大学
+
+- [2019-ICCV][文字识别] Large-Scale Tag-Based Font Retrieval With Generative Feature Learning [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Large-Scale_Tag-Based_Font_Retrieval_With_Generative_Feature_Learning_ICCV_2019_paper.html)
 
 ## 2. 训练数据集合
 

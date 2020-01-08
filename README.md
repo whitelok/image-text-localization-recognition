@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: May.03 2019**
+**Last update: Jan.08 2020**
 
 ## 1. Papers & Code
 
@@ -57,6 +57,7 @@
 
 #### Huazhong University of Science and Technology
 
+- [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
 - [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
@@ -71,6 +72,7 @@
 
 #### Universitat Autònoma de Barcelona
 
+- [2019-ICCV][STL][TR] Scene Text Visual Question Answering [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Biten_Scene_Text_Visual_Question_Answering_ICCV_2019_paper.html)
 - [2018-ECCV][STL] Single Shot Scene Text Retrieval [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][STL] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`paper`](https://arxiv.org/pdf/1604.02619.pdf) [`code`](https://github.com/lluisgomez/TextProposals)
@@ -92,6 +94,7 @@
 
 #### Institute of Automation, Chinese Academy of Sciences
 
+- [2019-ICCV][STL][TR] TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.html)
 - [2017-arXiv][STL] Deep Direct Regression for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/abs/1703.08289)
 
 #### University of California, San Diego
@@ -133,6 +136,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### Google Inc
 
+- [2019-ICCV][STL] Towards Unconstrained End-to-End Text Spotting [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.html)
 - [2013-ICCV][STL][TR] Photo OCR: Reading Text in Uncontrolled Conditions [`paper`](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 
 #### Microsoft Inc
@@ -203,6 +207,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Nanyang Technological University
 
+- [2019-ICCV][STL][TR] GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 - [2019-CVPR][STL] ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 - [2019-CVPR][STL] Towards Robust Curve Text Detection With Conditional Spatial Expansion [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/)Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
 - [2018-ECCV][STL] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
@@ -229,6 +234,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### SenseTime Research
 
+- [2019-ICCV][STL] Geometry Normalization Networks for Accurate Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Geometry_Normalization_Networks_for_Accurate_Scene_Text_Detection_ICCV_2019_paper.html)
 - [2018-BMVC][STL] Boosting up Scene Text Detectors with Guided CNN [`paper`](http://bmvc2018.org/contents/papers/0633.pdf)
 
 #### Naver Clova AI Research
@@ -237,6 +243,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Baidu
 
+- [2019-ICCV][STL][TR] Chinese Street View Text: Large-Scale Chinese Text Reading With Partially Supervised Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_Chinese_Street_View_Text_Large-Scale_Chinese_Text_Reading_With_Partially_ICCV_2019_paper.html)
 - [2019-CVPR][STL] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`paper`](https://arxiv.org/abs/1904.06535)
 
@@ -246,11 +253,20 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Nanjing University
 
+- [2019-ICCV][STL] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html)
 - [2019-CVPR][STL] Shape Robust Text Detection With Progressive Scale Expansion Network [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.html)
 
 #### The Chinese University of Hong Kong
 
 - [2019-CVPR][STL] Learning Shape-Aware Embedding for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Tian_Learning_Shape-Aware_Embedding_for_Scene_Text_Detection_CVPR_2019_paper.html)
+
+#### Malong Technologies
+
+- [2019-ICCV][STL][TR] Convolutional Character Networks [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xing_Convolutional_Character_Networks_ICCV_2019_paper.html) [`code`](https://github.com/MalongTech/research-charnet)
+
+#### University of Rochester
+
+- [2019-ICCV][TR] Large-Scale Tag-Based Font Retrieval With Generative Feature Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Large-Scale_Tag-Based_Font_Retrieval_With_Generative_Feature_Learning_ICCV_2019_paper.html)
 
 ## 2. Datasets
 
