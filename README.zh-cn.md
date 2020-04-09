@@ -400,15 +400,6 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 |[ICDAR 2003](http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2003_Robust_Reading_Competitions)| 181张训练图片和251张测试图片(包含词以及字符层级标记) |`论文`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3461&rep=rep1&type=pdf)|
 
 
-#### [`Total Text Dataset`](https://github.com/cs-chan/Total-Text-Dataset)   `2020`
-
-1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.
-
-English (Number)
-
-Task: text location
-
-
 ## 3. 竞赛
 
 - [ICDAR - Robust Reading Competitions](http://rrc.cvc.uab.es/?com=introduction)
