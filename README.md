@@ -273,6 +273,14 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 - [2020-CVPR][STL][TR] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`paper`](https://arxiv.org/pdf/1911.06258.pdf)
 
+#### University of Marlyand
+
+- [2020-WACV][TR] Adapting Style and Content for Attended Text Sequence Recognition [`paper`](http://openaccess.thecvf.com/content_WACV_2020/papers/Schwarcz_Adapting_Style_and_Content_for_Attended_Text_Sequence_Recognition_WACV_2020_paper.pdf)
+
+#### Penta-AI
+
+- [2020-WACV][STL] It’s All About The Scale - Efficient Text Detection Using Adaptive Scaling [`paper`](http://openaccess.thecvf.com/content_WACV_2020/papers/Richardson_Its_All_About_The_Scale_-_Efficient_Text_Detection_Using_WACV_2020_paper.pdf)
+
 ## 2. Datasets
 
 #### [`SCUT-CTW1500`](https://github.com/Yuliang-Liu/Curve-Text-Detector) `2018`
