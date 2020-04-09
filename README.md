@@ -43,6 +43,7 @@
 
 #### South China University of Technology
 
+- [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2019-CVPR][STL] Tightness-Aware Evaluation Protocol for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Tightness-Aware_Evaluation_Protocol_for_Scene_Text_Detection_CVPR_2019_paper.html)
 - [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2017-arXiv][STL] Detecting Curve Text in the Wild: New Dataset and New Solution [`paper`](https://arxiv.org/pdf/1712.02170)
@@ -247,7 +248,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 - [2019-CVPR][STL] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`paper`](https://arxiv.org/abs/1904.06535)
 
-#### University of Adelaide
+#### University of Adelaide 
 
 - [2018-CVPR][STL][TR] An End-to-End TextSpotter with Explicit Alignment and Attention [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf) [`code`](https://github.com/tonghe90/textspotter)
 
@@ -267,6 +268,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### University of Rochester
 
 - [2019-ICCV][TR] Large-Scale Tag-Based Font Retrieval With Generative Feature Learning [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Large-Scale_Tag-Based_Font_Retrieval_With_Generative_Feature_Learning_ICCV_2019_paper.html)
+
+#### Facebook AI Research
+
+- [2020-CVPR][STL][TR] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`paper`](https://arxiv.org/pdf/1911.06258.pdf)
 
 ## 2. Datasets
 
