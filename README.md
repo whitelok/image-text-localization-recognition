@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Jan.08 2020**
+**Last update: Jul.16 2020**
 
 ## 1. Papers & Code
 
@@ -58,6 +58,7 @@
 
 #### Huazhong University of Science and Technology
 
+- [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
 - [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
@@ -187,6 +188,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### The University of Hong Kong
 
+- [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
 - [2018-AAAI][TR] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`paper`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
 
 #### Zhejiang University
@@ -280,6 +282,14 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Penta-AI
 
 - [2020-WACV][STL] It’s All About The Scale - Efficient Text Detection Using Adaptive Scaling [`paper`](http://openaccess.thecvf.com/content_WACV_2020/papers/Richardson_Its_All_About_The_Scale_-_Efficient_Text_Detection_Using_WACV_2020_paper.pdf)
+
+#### Central China Normal University
+
+- [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
+
+#### Unknown
+
+- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching
 
 ## 2. Datasets
 

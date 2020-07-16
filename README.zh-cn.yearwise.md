@@ -12,12 +12,16 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2020-01-08**
+**最近更新时间：2020-07-16**
 
 ## 1. Papers & Code
 
 #### 2020
 
+- [2020-ECCV][文字识别][位置感知] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
+- [2020-ECCV][文字识别][位置感知] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
+- [2020-ECCV][文字识别][位置感知] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
+- [2020-ECCV][文字识别][位置感知] Adaptive Text Recognition through Visual Matching
 - [2020-CVPR][位置感知][文字识别] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`论文`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2020-CVPR][位置感知][文字识别] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`论文`](https://arxiv.org/pdf/2002.10200.pdf) [`代码`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2020-WACV][文字识别] Adapting Style and Content for Attended Text Sequence Recognition [`论文`](http://openaccess.thecvf.com/content_WACV_2020/papers/Schwarcz_Adapting_Style_and_Content_for_Attended_Text_Sequence_Recognition_WACV_2020_paper.pdf)

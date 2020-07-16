@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2020-01-08**
+**最近更新时间：2020-07-16**
 
 ## 1. 论文和代码
 
@@ -60,6 +60,7 @@
 
 #### 华中科技大学
 
+- [2020-ECCV][文字识别][位置感知] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
 - [2019-ICCV][文字识别] Symmetry-Constrained Rectification Network for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
@@ -196,6 +197,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 #### 香港大学
 
+- [2020-ECCV][文字识别][位置感知] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
 - [2018-AAAI][文字识别] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`论文`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
 
 #### 浙江大学
@@ -289,6 +291,14 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### Penta-AI
 
 - [2020-WACV][位置感知] It’s All About The Scale - Efficient Text Detection Using Adaptive Scaling [`论文`](http://openaccess.thecvf.com/content_WACV_2020/papers/Richardson_Its_All_About_The_Scale_-_Efficient_Text_Detection_Using_WACV_2020_paper.pdf)
+
+#### 华中师范大学
+
+- [2020-ECCV][文字识别][位置感知] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
+
+#### 未知
+
+- [2020-ECCV][文字识别][位置感知] Adaptive Text Recognition through Visual Matching
 
 ## 2. 训练数据集合
 
