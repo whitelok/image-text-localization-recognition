@@ -18,6 +18,13 @@
 
 #### 2020
 
+- [2020-AAAI][文字识别][位置感知] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
+- [2020-AAAI][文字识别][位置感知] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`论文`](https://arxiv.org/pdf/2002.01276.pdf)
+- [2020-AAAI][文字识别][位置感知] Decoupled Attention Network for Text Recognition [`论文`](https://arxiv.org/pdf/1912.10205.pdf)
+- [2020-AAAI][文字识别][位置感知] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`论文`](https://arxiv.org/pdf/1912.12422.pdf)
+- [2020-AAAI][文字识别][位置感知] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/2002.06820.pdf)
+- [2020-AAAI][位置感知] Real-time Scene Text Detection with Differentiable Binarization [`论文`](https://arxiv.org/pdf/1911.08947.pdf) [`代码`](https://github.com/MhLiao/DB)
+- [2020-AAAI][文字识别][位置感知] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
 - [2020-ECCV][文字识别][位置感知] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
 - [2020-ECCV][文字识别][位置感知] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
 - [2020-ECCV][文字识别][位置感知] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit

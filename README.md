@@ -43,6 +43,7 @@
 
 #### South China University of Technology
 
+- [2020-AAAI][STL][TR] Decoupled Attention Network for Text Recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf)
 - [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2019-CVPR][STL] Tightness-Aware Evaluation Protocol for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Tightness-Aware_Evaluation_Protocol_for_Scene_Text_Detection_CVPR_2019_paper.html)
 - [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
@@ -58,6 +59,8 @@
 
 #### Huazhong University of Science and Technology
 
+- [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
+- [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
 - [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
 - [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
@@ -92,6 +95,7 @@
 
 #### Megvii Technology Inc: Face++
 
+- [2020-AAAI][STL][TR] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`paper`](https://arxiv.org/pdf/1912.12422.pdf)
 - [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST) [`code with improvement`](https://github.com/huoyijie/AdvancedEAST)
 
 #### Institute of Automation, Chinese Academy of Sciences
@@ -176,6 +180,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### Hikvision Research Institute
 
+- [2020-AAAI][STL][TR] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/2002.06820.pdf)
 - [2017-ICCV][TR] Focusing Attention: Towards Accurate Text Recognition in Natural Images [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)
 
 #### University of Adelaide
@@ -210,6 +215,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Nanyang Technological University
 
+- [2020-AAAI][STL][TR] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`paper`](https://arxiv.org/pdf/2002.01276.pdf)
 - [2019-ICCV][STL][TR] GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 - [2019-CVPR][STL] ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 - [2019-CVPR][STL] Towards Robust Curve Text Detection With Conditional Spatial Expansion [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/)Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
@@ -286,6 +292,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Central China Normal University
 
 - [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
+
+#### Tencent
+
+- [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
 
 #### Unknown
 

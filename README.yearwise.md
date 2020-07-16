@@ -16,6 +16,13 @@
 
 #### 2020
 
+- [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
+- [2020-AAAI][STL][TR] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`paper`](https://arxiv.org/pdf/2002.01276.pdf)
+- [2020-AAAI][STL][TR] Decoupled Attention Network for Text Recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf)
+- [2020-AAAI][STL][TR] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`paper`](https://arxiv.org/pdf/1912.12422.pdf)
+- [2020-AAAI][STL][TR] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/2002.06820.pdf)
+- [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
+- [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
 - [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
 - [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
 - [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
