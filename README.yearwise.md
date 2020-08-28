@@ -16,6 +16,7 @@
 
 #### 2020
 
+- [2020-BMVC][TR] Robust Scene Text Recognition Through Adaptive Image Enhancement 
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][STL][TR] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`paper`](https://arxiv.org/pdf/2002.01276.pdf)
 - [2020-AAAI][STL][TR] Decoupled Attention Network for Text Recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf)
@@ -23,10 +24,25 @@
 - [2020-AAAI][STL][TR] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/2002.06820.pdf)
 - [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
 - [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
-- [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
-- [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
-- [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
-- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching
+- [2020-ECCV][TR] Scene Text Image Super-resolution in the wild [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)
+- [2020-ECCV][TR] RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3160_ECCV_2020_paper.php)
+- [2020-ECCV][TR] AutoSTR: Efficient Backbone Search for Scene Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4796_ECCV_2020_paper.php)
+- [2020-ECCV][STL] Sequential Deformation for Accurate Scene Text Detection [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6576_ECCV_2020_paper.php)
+- [2020-ECCV][STL] Character Region Attention For Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6775_ECCV_2020_paper.php)
+- [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php)
+- [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2183_ECCV_2020_paper.php)
+- [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2318_ECCV_2020_paper.php)
+- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2492_ECCV_2020_paper.php)
+- [2020-CVPR][TR] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html)
+- [2020-CVPR][STL] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html)
+- [2020-CVPR][TR] What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial Text Images [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.html)
+- [2020-CVPR][TR] On Vocabulary Reliance in Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wan_On_Vocabulary_Reliance_in_Scene_Text_Recognition_CVPR_2020_paper.html)
+- [2020-CVPR][STL][TR] STEFANN: Scene Text Editor Using Font Adaptive Neural Network [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.html)
+- [2020-CVPR][TR] SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.html)
+- [2020-CVPR][STL][TR] Towards Accurate Scene Text Recognition With Semantic Reasoning Networks [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Towards_Accurate_Scene_Text_Recognition_With_Semantic_Reasoning_Networks_CVPR_2020_paper.html)
+- [2020-CVPR][STL] Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Relational_Reasoning_Graph_Network_for_Arbitrary_Shape_Text_Detection_CVPR_2020_paper.html)
+- [2020-CVPR][STL] SCATTER: Selective Context Attentional Scene Text Recognizer [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
+- [2020-CVPR][STL][TR] Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Multi-Modal_Graph_Neural_Network_for_Joint_Reasoning_on_Vision_and_CVPR_2020_paper.html)
 - [2020-CVPR][STL][TR] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`paper`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2020-WACV][TR] Adapting Style and Content for Attended Text Sequence Recognition [`paper`](http://openaccess.thecvf.com/content_WACV_2020/papers/Schwarcz_Adapting_Style_and_Content_for_Attended_Text_Sequence_Recognition_WACV_2020_paper.pdf)
