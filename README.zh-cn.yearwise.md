@@ -12,23 +12,39 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2020-07-16**
+**最近更新时间：2020-08-29**
 
 ## 1. Papers & Code
 
 #### 2020
 
-- [2020-AAAI][文字识别][位置感知] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
-- [2020-AAAI][文字识别][位置感知] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`论文`](https://arxiv.org/pdf/2002.01276.pdf)
-- [2020-AAAI][文字识别][位置感知] Decoupled Attention Network for Text Recognition [`论文`](https://arxiv.org/pdf/1912.10205.pdf)
-- [2020-AAAI][文字识别][位置感知] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`论文`](https://arxiv.org/pdf/1912.12422.pdf)
-- [2020-AAAI][文字识别][位置感知] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/2002.06820.pdf)
+- [2020-BMVC][文字识别] Robust Scene Text Recognition Through Adaptive Image Enhancement 
+- [2020-AAAI][位置感知][文字识别] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
+- [2020-AAAI][位置感知][文字识别] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`论文`](https://arxiv.org/pdf/2002.01276.pdf)
+- [2020-AAAI][位置感知][文字识别] Decoupled Attention Network for Text Recognition [`论文`](https://arxiv.org/pdf/1912.10205.pdf)
+- [2020-AAAI][位置感知][文字识别] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`论文`](https://arxiv.org/pdf/1912.12422.pdf)
+- [2020-AAAI][位置感知][文字识别] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/2002.06820.pdf)
 - [2020-AAAI][位置感知] Real-time Scene Text Detection with Differentiable Binarization [`论文`](https://arxiv.org/pdf/1911.08947.pdf) [`代码`](https://github.com/MhLiao/DB)
-- [2020-AAAI][文字识别][位置感知] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
-- [2020-ECCV][文字识别][位置感知] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
-- [2020-ECCV][文字识别][位置感知] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
-- [2020-ECCV][文字识别][位置感知] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
-- [2020-ECCV][文字识别][位置感知] Adaptive Text Recognition through Visual Matching
+- [2020-AAAI][位置感知][文字识别] Accurate Structured-Text Spotting for Arithmetical Exercise Correction [`论文`](https://www.researchgate.net/publication/341891992_Accurate_Structured-Text_Spotting_for_Arithmetical_Exercise_Correction)
+- [2020-ECCV][文字识别] Scene Text Image Super-resolution in the wild [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)
+- [2020-ECCV][文字识别] RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3160_ECCV_2020_paper.php)
+- [2020-ECCV][文字识别] AutoSTR: Efficient Backbone Search for Scene Text Recognition [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4796_ECCV_2020_paper.php)
+- [2020-ECCV][位置感知] Sequential Deformation for Accurate Scene Text Detection [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6576_ECCV_2020_paper.php)
+- [2020-ECCV][位置感知] Character Region Attention For Text Spotting [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6775_ECCV_2020_paper.php)
+- [2020-ECCV][位置感知][文字识别] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php)
+- [2020-ECCV][位置感知][文字识别] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting [`论文`](https://arxiv.org/pdf/2008.00714.pdf)
+- [2020-ECCV][位置感知][文字识别] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2318_ECCV_2020_paper.php)
+- [2020-ECCV][位置感知][文字识别] Adaptive Text Recognition through Visual Matching [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2492_ECCV_2020_paper.php) [`代码`](https://github.com/Chuhanxx/FontAdaptor)
+- [2020-CVPR][文字识别] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html)
+- [2020-CVPR][位置感知] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html)
+- [2020-CVPR][文字识别] What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial Text Images [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.html)
+- [2020-CVPR][文字识别] On Vocabulary Reliance in Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wan_On_Vocabulary_Reliance_in_Scene_Text_Recognition_CVPR_2020_paper.html)
+- [2020-CVPR][位置感知][文字识别] STEFANN: Scene Text Editor Using Font Adaptive Neural Network [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.html)
+- [2020-CVPR][文字识别] SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.html)
+- [2020-CVPR][位置感知][文字识别] Towards Accurate Scene Text Recognition With Semantic Reasoning Networks [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Towards_Accurate_Scene_Text_Recognition_With_Semantic_Reasoning_Networks_CVPR_2020_paper.html)
+- [2020-CVPR][位置感知] Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Relational_Reasoning_Graph_Network_for_Arbitrary_Shape_Text_Detection_CVPR_2020_paper.html)
+- [2020-CVPR][位置感知] SCATTER: Selective Context Attentional Scene Text Recognizer [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
+- [2020-CVPR][位置感知][文字识别] Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Multi-Modal_Graph_Neural_Network_for_Joint_Reasoning_on_Vision_and_CVPR_2020_paper.html)
 - [2020-CVPR][位置感知][文字识别] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`论文`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2020-CVPR][位置感知][文字识别] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`论文`](https://arxiv.org/pdf/2002.10200.pdf) [`代码`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2020-WACV][文字识别] Adapting Style and Content for Attended Text Sequence Recognition [`论文`](http://openaccess.thecvf.com/content_WACV_2020/papers/Schwarcz_Adapting_Style_and_Content_for_Attended_Text_Sequence_Recognition_WACV_2020_paper.pdf)
@@ -64,15 +80,15 @@
 - [2018-arxiv][综述] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-arxiv][位置感知][文字识别] FOTS: Fast Oriented Text Spotting with a Unified Network [`论文`](https://arxiv.org/abs/1801.01671)
 - [2018-ECCV][位置感知] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`论文`](https://arxiv.org/pdf/1807.01544.pdf) [`代码`](https://github.com/princewang1994/TextSnake.pytorch)
-- [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知][文字识别] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ECCV][位置感知] Using Object Information for Spotting Text [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
 - [2018-ECCV][位置感知] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
 - [2018-ECCV][位置感知] Single Shot Scene Text Retrieval [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2018-ECCV][位置感知] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
 - [2018-ECCV][位置感知] Synthetically Supervised Feature Learning for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
-- [2018-ICIP][位置感知] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ICIP][位置感知] Focal Text: An Accurate Text Detection With Focal Loss [`论文`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451241)
 - [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
-- [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
+- [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition [`论文`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451273)
 - [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/pdf/1805.01167.pdf)
 - [2018-CVPR][位置感知][文字识别] An End-to-End TextSpotter with Explicit Alignment and Attention [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf) [`代码`](https://github.com/tonghe90/textspotter)
 - [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)

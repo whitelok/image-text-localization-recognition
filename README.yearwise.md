@@ -10,7 +10,7 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Aug.28 2020**
+**Last update: Aug.29 2020**
 
 ## 1. Papers & Code
 
@@ -23,7 +23,7 @@
 - [2020-AAAI][STL][TR] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`paper`](https://arxiv.org/pdf/1912.12422.pdf)
 - [2020-AAAI][STL][TR] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/2002.06820.pdf)
 - [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
-- [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
+- [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction [`paper`](https://www.researchgate.net/publication/341891992_Accurate_Structured-Text_Spotting_for_Arithmetical_Exercise_Correction)
 - [2020-ECCV][TR] Scene Text Image Super-resolution in the wild [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)
 - [2020-ECCV][TR] RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3160_ECCV_2020_paper.php)
 - [2020-ECCV][TR] AutoSTR: Efficient Backbone Search for Scene Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4796_ECCV_2020_paper.php)
@@ -32,7 +32,7 @@
 - [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php)
 - [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2183_ECCV_2020_paper.php)
 - [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2318_ECCV_2020_paper.php)
-- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2492_ECCV_2020_paper.php)
+- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2492_ECCV_2020_paper.php) [`code`](https://github.com/Chuhanxx/FontAdaptor)
 - [2020-CVPR][TR] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html)
 - [2020-CVPR][STL] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html)
 - [2020-CVPR][TR] What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial Text Images [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.html)
@@ -84,9 +84,9 @@
 - [2018-ECCV][STL] Single Shot Scene Text Retrieval [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
 - [2018-ECCV][STL] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
 - [2018-ECCV][STL] Synthetically Supervised Feature Learning for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
-- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451241)
 - [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
-- [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition
+- [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451273)
 - [2018-IJCAI][STL] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
 - [2018-CVPR][STL][TR] An End-to-End TextSpotter with Explicit Alignment and Attention [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_An_End-to-End_TextSpotter_CVPR_2018_paper.pdf) [`code`](https://github.com/tonghe90/textspotter)
 - [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)

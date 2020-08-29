@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Jul.16 2020**
+**Last update: Aug.29 2020**
 
 ## 1. Papers & Code
 
@@ -23,6 +23,7 @@
 
 #### University of Oxford
 
+- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2492_ECCV_2020_paper.php) [`code`](https://github.com/Chuhanxx/FontAdaptor)
 - [2018-BMVC][TR] Inductive Visual Localisation: Factorised Training for Superior Generalisation [`paper`](https://arxiv.org/abs/1807.08179)
 - [2016-IJCV][STL][TR] Reading Text in the Wild with Convolutional Neural Networks  [`paper`](http://arxiv.org/abs/1412.1842) [`demo`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/research/text/)
 - [2016-CVPR][STL] Synthetic Data for Text Localisation in Natural Images [`paper`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/gupta16.pdf) [`code`](https://github.com/ankush-me/SynthText) [`data`](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
@@ -43,6 +44,7 @@
 
 #### South China University of Technology
 
+- [2020-CVPR][TR] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html)
 - [2020-AAAI][STL][TR] Decoupled Attention Network for Text Recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf)
 - [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2019-CVPR][STL] Tightness-Aware Evaluation Protocol for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Tightness-Aware_Evaluation_Protocol_for_Scene_Text_Detection_CVPR_2019_paper.html)
@@ -59,9 +61,10 @@
 
 #### Huazhong University of Science and Technology
 
+- [2020-ECCV][TR] AutoSTR: Efficient Backbone Search for Scene Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4796_ECCV_2020_paper.php)
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
-- [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting
+- [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php)
 - [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
@@ -95,6 +98,7 @@
 
 #### Megvii Technology Inc: Face++
 
+- [2020-CVPR][TR] On Vocabulary Reliance in Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wan_On_Vocabulary_Reliance_in_Scene_Text_Recognition_CVPR_2020_paper.html)
 - [2020-AAAI][STL][TR] TextScanner: Reading Characters in Order for Robust Scene Text Recognition [`paper`](https://arxiv.org/pdf/1912.12422.pdf)
 - [2017-CVPR][STL] EAST: An Efficient and Accurate Scene Text Detector [`paper`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST) [`code with improvement`](https://github.com/huoyijie/AdvancedEAST)
 
@@ -121,6 +125,7 @@
 
 #### University of Science and Technology Beijing
 
+- [2020-CVPR][STL] Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Relational_Reasoning_Graph_Network_for_Arbitrary_Shape_Text_Detection_CVPR_2020_paper.html)
 - [2016-IJCAI][STL] Scene Text Detection in Video by Learning Locally and Globally [`paper`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
 - [2014-TPAMI][TR] Robust Text Detection in Natural Scene Images [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
 
@@ -193,7 +198,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### The University of Hong Kong
 
-- [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting
+- [2020-ECCV][STL][TR] AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2183_ECCV_2020_paper.php)
 - [2018-AAAI][TR] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`paper`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
 
 #### Zhejiang University
@@ -230,8 +235,9 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Chinese Academy of Sciences
 
-- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss
-- [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition
+- [2020-CVPR][STL][TR] Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Multi-Modal_Graph_Neural_Network_for_Joint_Reasoning_on_Vision_and_CVPR_2020_paper.html)
+- [2018-ICIP][STL] Focal Text: An Accurate Text Detection With Focal Loss [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451241)
+- [2018-ICIP][STL] Dense Chained Attention Network for Scene Text Recognition [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451273)
 
 #### University of Cambridge
 
@@ -243,11 +249,14 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### SenseTime Research
 
+- [2020-ECCV][TR] RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3160_ECCV_2020_paper.php)
+- [2020-ECCV][TR] Scene Text Image Super-resolution in the wild [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)
 - [2019-ICCV][STL] Geometry Normalization Networks for Accurate Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Geometry_Normalization_Networks_for_Accurate_Scene_Text_Detection_ICCV_2019_paper.html)
 - [2018-BMVC][STL] Boosting up Scene Text Detectors with Guided CNN [`paper`](http://bmvc2018.org/contents/papers/0633.pdf)
 
 #### Naver Clova AI Research
 
+- [2020-ECCV][STL] Character Region Attention For Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6775_ECCV_2020_paper.php)
 - [2019-CVPR][STL][TR] Character Region Awareness for Text Detection [`paper`](https://arxiv.org/abs/1904.01941)
 
 #### Baidu
@@ -291,15 +300,43 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Central China Normal University
 
-- [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit
+- [2020-ECCV][STL][TR] PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2318_ECCV_2020_paper.php)
 
 #### Tencent
 
-- [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction 
+- [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction [`paper`](https://www.researchgate.net/publication/341891992_Accurate_Structured-Text_Spotting_for_Arithmetical_Exercise_Correction)
+
+#### Tsinghua University
+
+- [2020-ECCV][STL] Sequential Deformation for Accurate Scene Text Detection [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6576_ECCV_2020_paper.php)
+
+#### University of Science and Technology of China
+
+- [2020-CVPR][STL] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html)
+
+#### University of Electronic Science and Technology of China
+
+- [2020-CVPR][TR] What Machines See Is Not What They Get: Fooling Scene Text Recognition Models With Adversarial Text Images [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.html)
+
+#### Indian Statistical Institute
+
+- [2020-CVPR][STL][TR] STEFANN: Scene Text Editor Using Font Adaptive Neural Network [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.html)
+
+#### Institute of Information Engineering, Chinese Academy of Sciences
+
+- [2020-CVPR][TR] SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.html)
+
+#### University of Chinese Academy of Sciences
+
+- [2020-CVPR][STL][TR] Towards Accurate Scene Text Recognition With Semantic Reasoning Networks [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Towards_Accurate_Scene_Text_Recognition_With_Semantic_Reasoning_Networks_CVPR_2020_paper.html)
+
+#### Amazon
+
+- [2020-CVPR][STL] SCATTER: Selective Context Attentional Scene Text Recognizer [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
 
 #### Unknown
 
-- [2020-ECCV][STL][TR] Adaptive Text Recognition through Visual Matching
+- [2020-BMVC][TR] Robust Scene Text Recognition Through Adaptive Image Enhancement 
 
 ## 2. Datasets
 
