@@ -10,7 +10,7 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Dec.03 2020**
+**Last update: Dec.15 2020**
 
 ## 1. Papers & Code
 
@@ -48,11 +48,20 @@
 - [2020-CVPR][STL][TR] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`paper`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2020-ICASSP][STL] All you need is a second look: Towards Tighter Arbitrary shape text detection [`paper`](https://arxiv.org/pdf/2004.12436.pdf)
+- [2020-ICASSP][STL] Efficient Scene Text Detection with Textual Attention Tower [`paper`](https://arxiv.org/pdf/2002.03741.pdf)
 - [2020-WACV][TR] Adapting Style and Content for Attended Text Sequence Recognition [`paper`](http://openaccess.thecvf.com/content_WACV_2020/papers/Schwarcz_Adapting_Style_and_Content_for_Attended_Text_Sequence_Recognition_WACV_2020_paper.pdf)
 - [2020-WACV][STL] It’s All About The Scale - Efficient Text Detection Using Adaptive Scaling [`paper`](http://openaccess.thecvf.com/content_WACV_2020/papers/Richardson_Its_All_About_The_Scale_-_Efficient_Text_Detection_Using_WACV_2020_paper.pdf)
+- [2020-arxiv][STL] NENET: An Edge Learnable Network for Link Prediction in Scene Text [`paper`](https://arxiv.org/pdf/2005.12147.pdf)
+- [2020-arxiv][STL] Self-Training for Domain Adaptive Scene Text Detection [`paper`](https://arxiv.org/pdf/2005.11487.pdf)
+- [2020-arxiv][STL] PuzzleNet: Scene Text Detection by Segment Context Graph Learning [`paper`](https://arxiv.org/pdf/2002.11371.pdf)
+- [2020-arxiv][TR] Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units [`paper`](https://arxiv.org/pdf/2002.11338.pdf)
 
 #### 2019
 
+- [2019-ICDAR][STL] Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning [`paper`](https://arxiv.org/pdf/1908.09990.pdf)
+- [2019-ACM-MM][STL] A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning [`paper`](https://arxiv.org/pdf/1908.05498.pdf)
+- [2019-arxiv][STL] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`paper`](https://arxiv.org/pdf/1912.09629.pdf) [`code`](https://github.com/Yuliang-Liu/Box_Discretization_Network) [`code`](https://git.io/TextDet)
+- [2019-TPAMI][STL] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`paper`](https://arxiv.org/pdf/1911.09358.pdf) [`code`](https://github.com/MingtaoFu/gliding_vertex)
 - [2019-ICCV][STL][Overview] What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) [`code`](https://github.com/clovaai/deep-text-recognition-benchmark)
 - [2019-ICCV][STL] Towards Unconstrained End-to-End Text Spotting [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.html)
 - [2019-ICCV][STL] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html) [`code`](https://github.com/WenmuZhou/PAN.pytorch)
@@ -119,6 +128,7 @@
 - [2017-ICCV][STL][TR] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 - [2017-AAAI][STL] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`paper`](https://arxiv.org/abs/1611.06779) [`code`](https://github.com/MhLiao/TextBoxes)
 - [2017-AAAI][STL][TR] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`paper`](https://github.com/cmkang/CTSN/blob/master/aaai2017_cameraready.pdf)
+- [2017-WACV][STL] TextContourNet: A Flexible and Effective Framework for Improving Scene Text Detection Architecture With a Multi-Task Cascade [`paper`](https://arxiv.org/pdf/1809.03050.pdf)
 - [2017-arXiv][STL] Detecting Curve Text in the Wild: New Dataset and New Solution [`paper`](https://arxiv.org/pdf/1712.02170)
 - [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086) [`code`](https://github.com/mjq11302010044/RRPN)
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)

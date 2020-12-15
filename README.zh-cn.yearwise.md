@@ -12,7 +12,7 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2020-12-03**
+**最近更新时间：2020-12-15**
 
 ## 1. Papers & Code
 
@@ -50,11 +50,20 @@
 - [2020-CVPR][位置感知][文字识别] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`论文`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2020-CVPR][位置感知][文字识别] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`论文`](https://arxiv.org/pdf/2002.10200.pdf) [`代码`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
 - [2020-ICASSP][位置感知] All you need is a second look: Towards Tighter Arbitrary shape text detection [`论文`](https://arxiv.org/pdf/2004.12436.pdf)
+- [2020-ICASSP][位置感知] Efficient Scene Text Detection with Textual Attention Tower [`论文`](https://arxiv.org/pdf/2002.03741.pdf)
 - [2020-WACV][文字识别] Adapting Style and Content for Attended Text Sequence Recognition [`论文`](http://openaccess.thecvf.com/content_WACV_2020/papers/Schwarcz_Adapting_Style_and_Content_for_Attended_Text_Sequence_Recognition_WACV_2020_paper.pdf)
 - [2020-WACV][位置感知] It’s All About The Scale - Efficient Text Detection Using Adaptive Scaling [`论文`](http://openaccess.thecvf.com/content_WACV_2020/papers/Richardson_Its_All_About_The_Scale_-_Efficient_Text_Detection_Using_WACV_2020_paper.pdf)
+- [2020-arxiv][位置感知] NENET: An Edge Learnable Network for Link Prediction in Scene Text [`论文`](https://arxiv.org/pdf/2005.12147.pdf)
+- [2020-arxiv][位置感知] Self-Training for Domain Adaptive Scene Text Detection [`论文`](https://arxiv.org/pdf/2005.11487.pdf)
+- [2020-arxiv][位置感知] PuzzleNet: Scene Text Detection by Segment Context Graph Learning [`论文`](https://arxiv.org/pdf/2002.11371.pdf)
+- [2020-arxiv][文字识别] Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units [`论文`](https://arxiv.org/pdf/2002.11338.pdf)
+- [2019-TPAMI][位置感知] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`论文`](https://arxiv.org/pdf/1911.09358.pdf) [`代码`](https://github.com/MingtaoFu/gliding_vertex)
 
 #### 2019
 
+- [2019-ICDAR][位置感知] Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning [`论文`](https://arxiv.org/pdf/1908.09990.pdf)
+- [2019-ACM-MM][位置感知] A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning [`论文`](https://arxiv.org/pdf/1908.05498.pdf)
+- [2019-arxiv][位置感知] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`论文`](https://arxiv.org/pdf/1912.09629.pdf) [`代码`](https://github.com/Yuliang-Liu/Box_Discretization_Network) [`代码`](https://git.io/TextDet)
 - [2019-ICCV][位置感知][综述] What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) [`代码`](https://github.com/clovaai/deep-text-recognition-benchmark)
 - [2019-ICCV][位置感知][文字识别] Towards Unconstrained End-to-End Text Spotting [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.html)
 - [2019-ICCV][位置感知] Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.html) [`代码`](https://github.com/WenmuZhou/PAN.pytorch)
@@ -121,6 +130,7 @@
 - [2017-ICCV][位置感知][文字识别] Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 - [2017-AAAI][位置感知] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`论文`](https://arxiv.org/abs/1611.06779) [`代码`](https://github.com/MhLiao/TextBoxes)
 - [2017-AAAI][位置感知][文字识别] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`论文`](https://github.com/cmkang/CTSN/blob/master/aaai2017_cameraready.pdf)
+- [2017-WACV][位置感知] TextContourNet: A Flexible and Effective Framework for Improving Scene Text Detection Architecture With a Multi-Task Cascade [`论文`](https://arxiv.org/pdf/1809.03050.pdf)
 - [2017-arXiv][位置感知] Detecting Curve Text in the Wild: New Dataset and New Solution [`论文`](https://arxiv.org/pdf/1712.02170)
 - [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`论文`](https://arxiv.org/abs/1703.01086) [`代码`](https://github.com/mjq11302010044/RRPN)
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)

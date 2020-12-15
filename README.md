@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Dec.03 2020**
+**Last update: Dec.15 2020**
 
 ## 1. Papers & Code
 
@@ -47,6 +47,7 @@
 - [2020-CVPR][TR] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html) [`code`](https://github.com/Canjie-Luo/Text-Image-Augmentation)
 - [2020-AAAI][STL][TR] Decoupled Attention Network for Text Recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf)
 - [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
+- [2019-arxiv][STL] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`paper`](https://arxiv.org/pdf/1912.09629.pdf) [`code`](https://github.com/Yuliang-Liu/Box_Discretization_Network) [`code`](https://git.io/TextDet)
 - [2019-CVPR][STL] Tightness-Aware Evaluation Protocol for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Tightness-Aware_Evaluation_Protocol_for_Scene_Text_Detection_CVPR_2019_paper.html)
 - [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2017-arXiv][STL] Detecting Curve Text in the Wild: New Dataset and New Solution [`paper`](https://arxiv.org/pdf/1712.02170)
@@ -65,6 +66,7 @@
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
 - [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php) [`code`](https://github.com/MhLiao/MaskTextSpotterV3)
+- [2019-TPAMI][STL] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`paper`](https://arxiv.org/pdf/1911.09358.pdf) [`code`](https://github.com/MingtaoFu/gliding_vertex)
 - [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 - [2018-ICIP][STL] Feature Fusion Network for Scene Text Detection [`paper`](https://ieeexplore.ieee.org/document/8395194/)
@@ -121,6 +123,7 @@
 
 #### Pennsylvania State University
 
+- [2017-WACV][STL] TextContourNet: A Flexible and Effective Framework for Improving Scene Text Detection Architecture With a Multi-Task Cascade [`paper`](https://arxiv.org/pdf/1809.03050.pdf)
 - [2016-PhD Thesis][STL] Context Modeling for Semantic Text Matching and Scene Text Detection [`paper`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 
 #### University of Science and Technology Beijing
@@ -203,6 +206,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### Zhejiang University
 
+- [2020-arxiv][TR] Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units [`paper`](https://arxiv.org/pdf/2002.11338.pdf)
 - [2018-AAAI][STL] PixelLink: Detecting Scene Text via Instance Segmentation [`paper`](https://arxiv.org/pdf/1801.01315.pdf)
 
 #### University of Potsdam
@@ -307,6 +311,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Tencent
 
+- [2020-arxiv][STL] PuzzleNet: Scene Text Detection by Segment Context Graph Learning [`paper`](https://arxiv.org/pdf/2002.11371.pdf)
 - [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction [`paper`](https://www.researchgate.net/publication/341891992_Accurate_Structured-Text_Spotting_for_Arithmetical_Exercise_Correction)
 
 #### Tsinghua University
@@ -328,6 +333,8 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Institute of Information Engineering, Chinese Academy of Sciences
 
 - [2020-CVPR][TR] SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.html)
+- [2020-arxiv][STL] Self-Training for Domain Adaptive Scene Text Detection [`paper`](https://arxiv.org/pdf/2005.11487.pdf)
+- [2019-ICDAR][STL] Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning [`paper`](https://arxiv.org/pdf/1908.09990.pdf)
 
 #### University of Chinese Academy of Sciences
 
@@ -340,6 +347,15 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Heritage Institute of Technology
 
 - [2020-ICIP][STL] Scale-invariant Multi-oriented Text Detection in Wild Scene Images [`paper`](https://arxiv.org/pdf/2002.06423.pdf)
+
+#### Indian Institute of Technology
+
+- [2020-arxiv][STL] NENET: An Edge Learnable Network for Link Prediction in Scene Text [`paper`](https://arxiv.org/pdf/2005.12147.pdf)
+
+#### Xidian University
+
+- [2020-ICASSP][STL] Efficient Scene Text Detection with Textual Attention Tower [`paper`](https://arxiv.org/pdf/2002.03741.pdf)
+- [2019-ACM-MM][STL] A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning [`paper`](https://arxiv.org/pdf/1908.05498.pdf)
 
 ## 2. Datasets
 
