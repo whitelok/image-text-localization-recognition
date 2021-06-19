@@ -10,11 +10,12 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Dec.15 2020**
+**Last update: June.19 2021**
 
 ## 1. Papers & Code
 
 #### 2021
+
 - [2021-CVPR][STL] MOST: A Multi-Oriented Scene Text Detector With Localization Refinement [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/He_MOST_A_Multi-Oriented_Scene_Text_Detector_With_Localization_Refinement_CVPR_2021_paper.pdf)
 - [2021-CVPR][STL] Progressive Contour Regression for Arbitrary-Shape Scene Text Detection [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf) [`code`](https://github.com/dpengwen/PCR)
 - [2021-CVPR][STL][TR] Scene Text Retrieval via Joint Text Detection and Similarity Learning [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf) [`code`](https://github.com/lanfeng4659/STR-TDSL)

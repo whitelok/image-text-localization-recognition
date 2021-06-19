@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Dec.15 2020**
+**Last update: June.19 2021**
 
 ## 1. Papers & Code
 
@@ -47,6 +47,8 @@
 
 #### South China University of Technology
 
+- [2021-CVPR][STL] Fourier Contour Embedding for Arbitrary-Shaped Text Detection [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Fourier_Contour_Embedding_for_Arbitrary-Shaped_Text_Detection_CVPR_2021_paper.pdf)
+- [2021-CVPR][TR][STL] Implicit Feature Alignment: Learn To Convert Text Recognizer to Text Spotter [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) [`code`](https://github.com/Wang-Tianwei/Implicit-feature-alignment)
 - [2020-CVPR][TR] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html) [`code`](https://github.com/Canjie-Luo/Text-Image-Augmentation)
 - [2020-AAAI][STL][TR] Decoupled Attention Network for Text Recognition [`paper`](https://arxiv.org/pdf/1912.10205.pdf)
 - [2020-CVPR][STL][TR] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`paper`](https://arxiv.org/pdf/2002.10200.pdf) [`code`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
@@ -65,12 +67,15 @@
 
 #### Fudan University
 
+- [2021-CVPR][TR] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [2020-arxiv][TR] Text Recognition in Real Scenarios with a Few Labeled Samples [`paper`](https://arxiv.org/pdf/2006.12209.pdf)
 - [2018-CVPR][TR] Edit Probability for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
 - [2017-arXiv][STL] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`paper`](https://arxiv.org/abs/1703.01086) [`code`](https://github.com/mjq11302010044/RRPN)
 
 #### Huazhong University of Science and Technology
 
+- [2021-CVPR][STL][TR] Scene Text Retrieval via Joint Text Detection and Similarity Learning [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf) [`code`](https://github.com/lanfeng4659/STR-TDSL)
+- [2021-CVPR][STL] MOST: A Multi-Oriented Scene Text Detector With Localization Refinement [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/He_MOST_A_Multi-Oriented_Scene_Text_Detector_With_Localization_Refinement_CVPR_2021_paper.pdf)
 - [2020-ECCV][TR] AutoSTR: Efficient Backbone Search for Scene Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4796_ECCV_2020_paper.php)
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
@@ -326,6 +331,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Facebook AI Research
 
+- [2021-CVPR][STL][TR] TextOCR: Towards Large-Scale End-to-End Reasoning for Arbitrary-Shaped Scene Text [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Singh_TextOCR_Towards_Large-Scale_End-to-End_Reasoning_for_Arbitrary-Shaped_Scene_Text_CVPR_2021_paper.pdf) [`code`](https://textvqa.org/textocr/code)
 - [2020-CVPR][STL][TR] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`paper`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2018-arxiv][STL] Improving Rotated Text Detection with Rotation Region Proposal Networks [`paper`](https://arxiv.org/pdf/1811.07031.pdf) 
 
@@ -349,10 +355,12 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Tsinghua University
 
+- [2021-CVPR][STL] Primitive Representation Learning for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf)
 - [2020-ECCV][STL] Sequential Deformation for Accurate Scene Text Detection [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6576_ECCV_2020_paper.php)
 
 #### University of Science and Technology of China
 
+- [2021-CVPR][STL] Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Read_Like_Humans_Autonomous_Bidirectional_and_Iterative_Language_Modeling_for_CVPR_2021_paper.pdf) [`code`](https://github.com/FangShancheng/ABINet)
 - [2020-CVPR][STL] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html) [`code`](https://github.com/wangyuxin87/ContourNet)
 - [2020-arxiv][TR] Focus-Enhanced Scene Text Recognition with Deformable Convolutions [`paper`](https://arxiv.org/pdf/1908.10998.pdf) [`code`](https://github.com/Alpaca07/dtr)
 - [2018-Pattern Recognition][STL] TextMountain: Accurate Scene Text Detection via Instance Segmentation [`paper`](https://arxiv.org/pdf/1811.12786.pdf)
@@ -367,6 +375,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Institute of Information Engineering, Chinese Academy of Sciences
 
+- [2021-CVPR][STL] Progressive Contour Regression for Arbitrary-Shape Scene Text Detection [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf) [`code`](https://github.com/dpengwen/PCR)
 - [2020-CVPR][TR] SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.html)
 - [2020-ICPR][TR] Gaussian Constrained Attention Network for Scene Text Recognition [`paper`](https://arxiv.org/pdf/2010.09169.pdf)
 - [2020-arxiv][STL] Self-Training for Domain Adaptive Scene Text Detection [`paper`](https://arxiv.org/pdf/2005.11487.pdf)
@@ -429,6 +438,34 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Northwestern Polytechnical University
 
 - [2019-CVPR][STL][TR] Towards End-to-End Text Spotting in Natural Scenes [`paper`](https://arxiv.org/pdf/1906.06013.pdf)
+
+#### VinAI Research
+
+- [2021-CVPR][STL] Dictionary-Guided Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.pdf) [`code`](https://github.com/VinAIResearch/dict-guided)
+
+#### University of Tokyo
+
+- [2021-CVPR][TR] What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf) [`code`](https://github.com/ku21fan/STR-Fewer-Labels)
+
+#### University of Surrey
+
+- [2021-CVPR][TR] MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_MetaHTR_Towards_Writer-Adaptive_Handwritten_Text_Recognition_CVPR_2021_paper.pdf)
+
+#### The Technion – Israel Institute of Technology
+
+- [2021-CVPR][TR] Sequence-to-Sequence Contrastive Learning for Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Aberdam_Sequence-to-Sequence_Contrastive_Learning_for_Text_Recognition_CVPR_2021_paper.pdf)
+
+#### University of Illinois at Urbana-Champaign
+
+- [2021-CVPR][TR] Rethinking Text Segmentation: A Novel Dataset and a Text-Specific Refinement Approach [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Rethinking_Text_Segmentation_A_Novel_Dataset_and_a_Text-Specific_Refinement_CVPR_2021_paper.pdf) [`code`](https://github.com/SHI-Labs/Rethinking-Text-Segmentation)
+
+#### National Laboratory of Pattern Recognition
+
+- [2021-CVPR][STL] Semantic-Aware Video Text Detection [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf)
+
+#### Shenzhen University
+
+- [2021-CVPR][STL][TR] Self-Attention Based Text Knowledge Mining for Text Detection [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf) [`code`](https://github.com/CVI-SZU/STKM)
 
 ## 2. Datasets
 

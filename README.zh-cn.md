@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2020-12-15**
+**最近更新时间：2021-06-19**
 
 ## 1. 论文和代码
 
@@ -49,6 +49,8 @@
 
 #### 华南理工大学
 
+- [2021-CVPR][位置感知] Fourier Contour Embedding for Arbitrary-Shaped Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Fourier_Contour_Embedding_for_Arbitrary-Shaped_Text_Detection_CVPR_2021_paper.pdf)
+- [2021-CVPR][文字识别][位置感知] Implicit Feature Alignment: Learn To Convert Text Recognizer to Text Spotter [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) [`代码`](https://github.com/Wang-Tianwei/Implicit-feature-alignment)
 - [2020-CVPR][文字识别] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html) [`代码`](https://github.com/Canjie-Luo/Text-Image-Augmentation)
 - [2020-AAAI][文字识别][位置感知] Decoupled Attention Network for Text Recognition [`论文`](https://arxiv.org/pdf/1912.10205.pdf)
 - [2020-CVPR][位置感知][文字识别] ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [`论文`](https://arxiv.org/pdf/2002.10200.pdf) [`代码`](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)
@@ -67,12 +69,15 @@
 
 #### 复旦大学
 
+- [2021-CVPR][文字识别] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [2020-arxiv][文字识别] Text Recognition in Real Scenarios with a Few Labeled Samples [`论文`](https://arxiv.org/pdf/2006.12209.pdf)
 - [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
 - [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`论文`](https://arxiv.org/abs/1703.01086) [`代码`](https://github.com/mjq11302010044/RRPN)
 
 #### 华中科技大学
 
+- [2021-CVPR][位置感知][文字识别] Scene Text Retrieval via Joint Text Detection and Similarity Learning [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf) [`代码`](https://github.com/lanfeng4659/STR-TDSL)
+- [2021-CVPR][位置感知] MOST: A Multi-Oriented Scene Text Detector With Localization Refinement [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/He_MOST_A_Multi-Oriented_Scene_Text_Detector_With_Localization_Refinement_CVPR_2021_paper.pdf)
 - [2020-ECCV][文字识别] AutoSTR: Efficient Backbone Search for Scene Text Recognition [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4796_ECCV_2020_paper.php)
 - [2020-AAAI][文字识别][位置感知] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][文字识别][位置感知] Real-time Scene Text Detection with Differentiable Binarization [`论文`](https://arxiv.org/pdf/1911.08947.pdf) [`代码`](https://github.com/MhLiao/DB)
@@ -88,7 +93,7 @@
 - [2018-CVPR][位置感知] Rotation-sensitive Regression for Oriented Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 - [2018-TIP][位置感知] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`论文`](https://arxiv.org/abs/1801.02765) [`代码`](https://github.com/MhLiao/TextBoxes_plusplus)
 - [2017-AAAI][位置感知] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`论文`](https://arxiv.org/abs/1611.06779) [`代码`](https://github.com/MhLiao/TextBoxes)
-- [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf) [`code`](https://github.com/bgshih/seglink)
+- [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf) [`代码`](https://github.com/bgshih/seglink)
 - [2016-CVPR][文字识别] Robust scene text recognition with automatic rectification [`论文`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-arXiv][位置感知] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
@@ -260,7 +265,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 - [2020-IJCV][位置感知] Bottom-Up Scene Text Detection with Markov Clustering Networks [`论文`](https://link.springer.com/article/10.1007/s11263-020-01298-y)
 - [2020-AAAI][文字识别][位置感知] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`论文`](https://arxiv.org/pdf/2002.01276.pdf)
 - [2019-ICCV][位置感知][文字识别] GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
-- [2019-CVPR][STL] ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
+- [2019-CVPR][位置感知] ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 - [2019-CVPR][位置感知] Towards Robust Curve Text Detection With Conditional Spatial Expansion [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Towards_Robust_Curve_Text_Detection_With_Conditional_Spatial_Expansion_CVPR_2019_paper.html)
 - [2018-ECCV][位置感知] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
 - [2018-ECCV][位置感知] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
@@ -270,7 +275,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 阿里巴巴集团
 
 - [2018-ICPR][位置感知][文字识别] A Novel Integrated Framework for Learning both Text Detection and Recognition [`论文`](https://arxiv.org/pdf/1811.08611.pdf)
-- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`paper`](https://arxiv.org/pdf/1805.01167.pdf)
+- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/pdf/1805.01167.pdf)
 
 #### 中国科学院
 
@@ -335,6 +340,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### Facebook AI Research
 
+- [2021-CVPR][位置感知][文字识别] TextOCR: Towards Large-Scale End-to-End Reasoning for Arbitrary-Shaped Scene Text [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Singh_TextOCR_Towards_Large-Scale_End-to-End_Reasoning_for_Arbitrary-Shaped_Scene_Text_CVPR_2021_paper.pdf) [`代码`](https://textvqa.org/textocr/code)
 - [2020-CVPR][位置感知][文字识别] Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA [`论文`](https://arxiv.org/pdf/1911.06258.pdf)
 - [2018-arxiv][位置感知] Improving Rotated Text Detection with Rotation Region Proposal Networks [`论文`](https://arxiv.org/pdf/1811.07031.pdf) 
 
@@ -358,6 +364,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 清华大学
 
+- [2021-CVPR][位置感知] Primitive Representation Learning for Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf)
 - [2020-ECCV][位置感知] Sequential Deformation for Accurate Scene Text Detection [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6576_ECCV_2020_paper.php)
 
 #### 中国科技大学
@@ -377,8 +384,9 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 中国科学院信息工程研究所
 
+- [2021-CVPR][位置感知] Progressive Contour Regression for Arbitrary-Shape Scene Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf) [`代码`](https://github.com/dpengwen/PCR)
 - [2020-CVPR][文字识别] SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.html)
-- [2020-ICPR][文字识别] Gaussian Constrained Attention Network for Scene Text Recognition [`paper`](https://arxiv.org/pdf/2010.09169.pdf)
+- [2020-ICPR][文字识别] Gaussian Constrained Attention Network for Scene Text Recognition [`论文`](https://arxiv.org/pdf/2010.09169.pdf)
 - [2020-arxiv][位置感知] Self-Training for Domain Adaptive Scene Text Detection [`论文`](https://arxiv.org/pdf/2005.11487.pdf)
 - [2019-ICDAR][位置感知] Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning [`论文`](https://arxiv.org/pdf/1908.09990.pdf)
 
@@ -439,6 +447,34 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 西北工业大学
 
 - [2019-CVPR][位置感知][文字识别] Towards End-to-End Text Spotting in Natural Scenes [`论文`](https://arxiv.org/pdf/1906.06013.pdf)
+
+#### VinAI 研究院
+
+- [2021-CVPR][位置感知] Dictionary-Guided Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.pdf) [`代码`](https://github.com/VinAIResearch/dict-guided)
+
+#### 东京大学
+
+- [2021-CVPR][文字识别] What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf) [`代码`](https://github.com/ku21fan/STR-Fewer-Labels)
+
+#### 萨里大学
+
+- [2021-CVPR][文字识别] MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_MetaHTR_Towards_Writer-Adaptive_Handwritten_Text_Recognition_CVPR_2021_paper.pdf)
+
+#### Technion-以色列理工学院
+
+- [2021-CVPR][文字识别] Sequence-to-Sequence Contrastive Learning for Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Aberdam_Sequence-to-Sequence_Contrastive_Learning_for_Text_Recognition_CVPR_2021_paper.pdf)
+
+#### 伊利诺伊大学厄巴纳-香槟分校
+
+- [2021-CVPR][文字识别] Rethinking Text Segmentation: A Novel Dataset and a Text-Specific Refinement Approach [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Rethinking_Text_Segmentation_A_Novel_Dataset_and_a_Text-Specific_Refinement_CVPR_2021_paper.pdf) [`代码`](https://github.com/SHI-Labs/Rethinking-Text-Segmentation)
+
+#### 中国科学院大学-模式识别国家重点实验室
+
+- [2021-CVPR][位置感知] Semantic-Aware Video Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf)
+
+#### 深圳大学
+
+- [2021-CVPR][位置感知][文字识别] Self-Attention Based Text Knowledge Mining for Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf) [`代码`](https://github.com/CVI-SZU/STKM)
 
 ## 2. 训练数据集合
 

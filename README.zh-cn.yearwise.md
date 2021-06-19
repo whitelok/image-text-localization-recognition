@@ -12,9 +12,28 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2020-12-15**
+**最近更新时间：2021-06-19**
 
 ## 1. Papers & Code
+
+#### 2021
+
+- [2021-CVPR][位置感知] MOST: A Multi-Oriented Scene Text Detector With Localization Refinement [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/He_MOST_A_Multi-Oriented_Scene_Text_Detector_With_Localization_Refinement_CVPR_2021_paper.pdf)
+- [2021-CVPR][位置感知] Progressive Contour Regression for Arbitrary-Shape Scene Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf) [`代码`](https://github.com/dpengwen/PCR)
+- [2021-CVPR][位置感知][文字识别] Scene Text Retrieval via Joint Text Detection and Similarity Learning [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf) [`代码`](https://github.com/lanfeng4659/STR-TDSL)
+- [2021-CVPR][位置感知][文字识别] TextOCR: Towards Large-Scale End-to-End Reasoning for Arbitrary-Shaped Scene Text [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Singh_TextOCR_Towards_Large-Scale_End-to-End_Reasoning_for_Arbitrary-Shaped_Scene_Text_CVPR_2021_paper.pdf) [`代码`](https://textvqa.org/textocr/code)
+- [2021-CVPR][位置感知] Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Read_Like_Humans_Autonomous_Bidirectional_and_Iterative_Language_Modeling_for_CVPR_2021_paper.pdf) [`代码`](https://github.com/FangShancheng/ABINet)
+- [2021-CVPR][位置感知] Dictionary-Guided Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.pdf) [`代码`](https://github.com/VinAIResearch/dict-guided)
+- [2021-CVPR][位置感知] Primitive Representation Learning for Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf)
+- [2021-CVPR][文字识别] What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf) [`代码`](https://github.com/ku21fan/STR-Fewer-Labels)
+- [2021-CVPR][文字识别] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
+- [2021-CVPR][文字识别] MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_MetaHTR_Towards_Writer-Adaptive_Handwritten_Text_Recognition_CVPR_2021_paper.pdf)
+- [2021-CVPR][文字识别] Sequence-to-Sequence Contrastive Learning for Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Aberdam_Sequence-to-Sequence_Contrastive_Learning_for_Text_Recognition_CVPR_2021_paper.pdf)
+- [2021-CVPR][文字识别][位置感知] Implicit Feature Alignment: Learn To Convert Text Recognizer to Text Spotter [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) [`代码`](https://github.com/Wang-Tianwei/Implicit-feature-alignment)
+- [2021-CVPR][位置感知] Fourier Contour Embedding for Arbitrary-Shaped Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Fourier_Contour_Embedding_for_Arbitrary-Shaped_Text_Detection_CVPR_2021_paper.pdf)
+- [2021-CVPR][文字识别] Rethinking Text Segmentation: A Novel Dataset and a Text-Specific Refinement Approach [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Rethinking_Text_Segmentation_A_Novel_Dataset_and_a_Text-Specific_Refinement_CVPR_2021_paper.pdf) [`代码`](https://github.com/SHI-Labs/Rethinking-Text-Segmentation)
+- [2021-CVPR][位置感知] Semantic-Aware Video Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf)
+- [2021-CVPR][位置感知][文字识别] Self-Attention Based Text Knowledge Mining for Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf) [`代码`](https://github.com/CVI-SZU/STKM)
 
 #### 2020
 
