@@ -389,6 +389,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 - [2020-ICPR][文字识别] Gaussian Constrained Attention Network for Scene Text Recognition [`论文`](https://arxiv.org/pdf/2010.09169.pdf)
 - [2020-arxiv][位置感知] Self-Training for Domain Adaptive Scene Text Detection [`论文`](https://arxiv.org/pdf/2005.11487.pdf)
 - [2019-ICDAR][位置感知] Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning [`论文`](https://arxiv.org/pdf/1908.09990.pdf)
+- [2019-BMVC][文字识别] Text Recognition using local correlation[`论文`](https://bmvc2019.org/wp-content/uploads/papers/0469-paper.pdf)
 
 #### 中国科学院大学
 

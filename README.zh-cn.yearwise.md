@@ -129,6 +129,7 @@
 - [2019-CVPR][位置感知] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`论文`](https://arxiv.org/abs/1904.06535)
 - [2019-CVPR][位置感知][文字识别] Character Region Awareness for Text Detection [`论文`](https://arxiv.org/abs/1904.01941) [`代码`](https://github.com/clovaai/CRAFT-pytorch)
+- [2019-BMVC][文字识别] Text Recognition using local correlation[`论文`](https://bmvc2019.org/wp-content/uploads/papers/0469-paper.pdf)
 
 #### 2018
 

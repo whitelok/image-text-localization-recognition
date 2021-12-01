@@ -127,6 +127,7 @@
 - [2019-CVPR][STL] Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes
 [`paper`](https://arxiv.org/abs/1904.06535)
 - [2019-CVPR][STL][TR] Character Region Awareness for Text Detection [`paper`](https://arxiv.org/abs/1904.01941) [`code`](https://github.com/clovaai/CRAFT-pytorch)
+- [2019-BMVC][TR] Text Recognition using local correlation[`paper`](https://bmvc2019.org/wp-content/uploads/papers/0469-paper.pdf)
 
 #### 2018
 
