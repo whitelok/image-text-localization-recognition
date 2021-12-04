@@ -236,6 +236,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### Zhejiang University
 
+- [2021-TIP][STL][TR] FREE: A Fast and Robust End-to-End Video Text Spotter [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)
 - [2020-arxiv][TR] Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units [`paper`](https://arxiv.org/pdf/2002.11338.pdf)
 - [2018-AAAI][STL] PixelLink: Detecting Scene Text via Instance Segmentation [`paper`](https://arxiv.org/pdf/1801.01315.pdf)
 

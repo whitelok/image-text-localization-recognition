@@ -18,6 +18,7 @@
 
 #### 2021
 
+- [2021-TIP][位置感知][文字识别] FREE: A Fast and Robust End-to-End Video Text Spotter [`论文`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)
 - [2021-ICCV][文字识别] From Two to One: A New Scene Text Recognizer With Visual Language Modeling Network [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.pdf)
 - [2021-ICCV][位置感知] Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Adaptive_Boundary_Proposal_Network_for_Arbitrary_Shape_Text_Detection_ICCV_2021_paper.pdf) [`代码`](https://github.com/GXYM/TextBPN)
 - [2021-ICCV][文字识别] Towards the Unseen: Iterative Text Recognition by Distilling from Errors [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhunia_Towards_the_Unseen_Iterative_Text_Recognition_by_Distilling_From_Errors_ICCV_2021_paper.pdf)

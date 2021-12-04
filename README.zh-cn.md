@@ -245,6 +245,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 
 #### 浙江大学
 
+- [2021-TIP][位置感知][文字识别] FREE: A Fast and Robust End-to-End Video Text Spotter [`论文`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)
 - [2020-arxiv][文字识别] Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units [`论文`](https://arxiv.org/pdf/2002.11338.pdf)
 - [2018-AAAI][位置感知] PixelLink: Detecting Scene Text via Instance Segmentation [`论文`](https://arxiv.org/pdf/1801.01315.pdf)
 
