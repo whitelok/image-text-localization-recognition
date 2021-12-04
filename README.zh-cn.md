@@ -156,6 +156,7 @@
 
 #### 北京科技大学
 
+- [2021-ICCV][位置感知] Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Adaptive_Boundary_Proposal_Network_for_Arbitrary_Shape_Text_Detection_ICCV_2021_paper.pdf) [`代码`](https://github.com/GXYM/TextBPN)
 - [2020-CVPR][位置感知] Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Relational_Reasoning_Graph_Network_for_Arbitrary_Shape_Text_Detection_CVPR_2020_paper.html)
 - [2017-arxiv][文字识别] AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition [`论文`](https://arxiv.org/pdf/1710.03425.pdf)
 - [2016-IJCAI][位置感知] Scene Text Detection in Video by Learning Locally and Globally [`论文`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
@@ -369,6 +370,8 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 中国科技大学
 
+- [2021-ICCV][文字识别] From Two to One: A New Scene Text Recognizer With Visual Language Modeling Network [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.pdf)
+- [2021-CVPR][位置感知] Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Read_Like_Humans_Autonomous_Bidirectional_and_Iterative_Language_Modeling_for_CVPR_2021_paper.pdf) [`代码`](https://github.com/FangShancheng/ABINet)
 - [2020-CVPR][位置感知] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html) [`代码`](https://github.com/wangyuxin87/ContourNet)
 - [2018-Pattern Recognition][位置感知] TextMountain: Accurate Scene Text Detection via Instance Segmentation [`论文`](https://arxiv.org/pdf/1811.12786.pdf)
 
@@ -459,6 +462,8 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 萨里大学
 
+- [2021-ICCV][文字识别] Towards the Unseen: Iterative Text Recognition by Distilling from Errors [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhunia_Towards_the_Unseen_Iterative_Text_Recognition_by_Distilling_From_Errors_ICCV_2021_paper.pdf)
+- [2021-ICCV][文字识别] Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhunia_Joint_Visual_Semantic_Reasoning_Multi-Stage_Decoder_for_Text_Recognition_ICCV_2021_paper.pdf)
 - [2021-CVPR][文字识别] MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_MetaHTR_Towards_Writer-Adaptive_Handwritten_Text_Recognition_CVPR_2021_paper.pdf)
 
 #### Technion-以色列理工学院

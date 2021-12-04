@@ -16,6 +16,10 @@
 
 #### 2021
 
+- [2021-ICCV][TR] From Two to One: A New Scene Text Recognizer With Visual Language Modeling Network [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.pdf)
+- [2021-ICCV][STL] Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Adaptive_Boundary_Proposal_Network_for_Arbitrary_Shape_Text_Detection_ICCV_2021_paper.pdf) [`code`](https://github.com/GXYM/TextBPN)
+- [2021-ICCV][TR] Towards the Unseen: Iterative Text Recognition by Distilling from Errors [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhunia_Towards_the_Unseen_Iterative_Text_Recognition_by_Distilling_From_Errors_ICCV_2021_paper.pdf)
+- [2021-ICCV][TR] Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhunia_Joint_Visual_Semantic_Reasoning_Multi-Stage_Decoder_for_Text_Recognition_ICCV_2021_paper.pdf)
 - [2021-CVPR][STL] MOST: A Multi-Oriented Scene Text Detector With Localization Refinement [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/He_MOST_A_Multi-Oriented_Scene_Text_Detector_With_Localization_Refinement_CVPR_2021_paper.pdf)
 - [2021-CVPR][STL] Progressive Contour Regression for Arbitrary-Shape Scene Text Detection [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf) [`code`](https://github.com/dpengwen/PCR)
 - [2021-CVPR][STL][TR] Scene Text Retrieval via Joint Text Detection and Similarity Learning [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene_Text_Retrieval_via_Joint_Text_Detection_and_Similarity_Learning_CVPR_2021_paper.pdf) [`code`](https://github.com/lanfeng4659/STR-TDSL)
