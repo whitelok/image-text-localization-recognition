@@ -44,7 +44,7 @@
  [`论文`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][位置感知][文字识别] Reading Scene Text in Deep Convolutional Sequences [`论文`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][位置感知] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`论文`](http://whuang.org/papers/the2016_tip.pdf)
-- [2016-IEEE Transactions on Image Processing][位置感知] Text-Attentional Convolutional Neural Network for Scene Text Detection [`论文`](https://arxiv.org/pdf/1510.03283.pdf)
+- [2016-TIP][位置感知] Text-Attentional Convolutional Neural Network for Scene Text Detection [`论文`](https://arxiv.org/pdf/1510.03283.pdf)
 - [2014-ECCV][位置感知] Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees [`论文`](http://www.whuang.org/papers/whuang2014_eccv.pdf)
 
 #### 华南理工大学

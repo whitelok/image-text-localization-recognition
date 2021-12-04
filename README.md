@@ -42,7 +42,7 @@
 - [2016-CVPR][STL] Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network [`paper`](http://arxiv.org/abs/1603.09423)
 - [2016-AAAI][STL] Reading Scene Text in Deep Convolutional Sequences [`paper`](http://whuang.org/papers/phe2016_aaai.pdf)
 - [2016-TIP][STL] Text-Attentional Convolutional Neural Networks for Scene Text Detection [`paper`](http://whuang.org/papers/the2016_tip.pdf)
-- [2016-IEEE Transactions on Image Processing][STL] Text-Attentional Convolutional Neural Network for Scene Text Detection [`paper`](https://arxiv.org/pdf/1510.03283.pdf)
+- [2016-TIP][STL] Text-Attentional Convolutional Neural Network for Scene Text Detection [`paper`](https://arxiv.org/pdf/1510.03283.pdf)
 - [2014-ECCV][STL] Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees [`paper`](http://www.whuang.org/papers/whuang2014_eccv.pdf)
 
 #### South China University of Technology

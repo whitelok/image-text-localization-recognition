@@ -206,7 +206,7 @@
 
 #### 2016
 
-- [2016-IEEE Transactions on Image Processing][位置感知] Text-Attentional Convolutional Neural Network for Scene Text Detection [`论文`](https://arxiv.org/pdf/1510.03283.pdf)
+- [2016-TIP][位置感知] Text-Attentional Convolutional Neural Network for Scene Text Detection [`论文`](https://arxiv.org/pdf/1510.03283.pdf)
 - [2016-IEEE Transactions on Multimedia][位置感知] A Convolutional Neural Network Based Chinese Text Detection Algorithm Via Text Structure Modeling [`论文`](http://www2.egr.uh.edu/~zhan2/ECE6111_spring2017/A%20Convolutional%20Neural%20Network%20%20Based%20Chinese%20Text%20Detection%20Algorithm%20Via%20Text%20Structure%20Modeling.pdf)
 - [2016-PhD Thesis][位置感知] Context Modeling for Semantic Text Matching and Scene Text Detection [`论文`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 - [2016-TIP][综述] Text Detection Tracking and Recognition in Video: A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=7452620&icp=false)

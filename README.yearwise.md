@@ -205,7 +205,7 @@
 
 #### 2016
 
-- [2016-IEEE Transactions on Image Processing][STL] Text-Attentional Convolutional Neural Network for Scene Text Detection [`paper`](https://arxiv.org/pdf/1510.03283.pdf)
+- [2016-TIP][STL] Text-Attentional Convolutional Neural Network for Scene Text Detection [`paper`](https://arxiv.org/pdf/1510.03283.pdf)
 - [2016-IEEE Transactions on Multimedia][STL] A Convolutional Neural Network Based Chinese Text Detection Algorithm Via Text Structure Modeling [`paper`](http://www2.egr.uh.edu/~zhan2/ECE6111_spring2017/A%20Convolutional%20Neural%20Network%20%20Based%20Chinese%20Text%20Detection%20Algorithm%20Via%20Text%20Structure%20Modeling.pdf)
 - [2016-PhD Thesis][STL] Context Modeling for Semantic Text Matching and Scene Text Detection [`paper`](https://etda.libraries.psu.edu/catalog/zw12z528p)
 - [2016-TIP][Overview] Text Detection Tracking and Recognition in Video: A Comprehensive Survey [`paper`](http://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=7452620&icp=false)
