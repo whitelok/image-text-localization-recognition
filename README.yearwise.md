@@ -16,6 +16,9 @@
 
 #### 2021
 
+- [2021-AAAI][STL][TR] PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network [`paper`](https://arxiv.org/pdf/2104.05458.pdf) [`code`](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.1/doc/doc_en/pgnet_en.md)
+- [2021-AAAI][STL][TR] MANGO: A Mask Attention Guided One-Stage Scene Text Spotter [`paper`](https://arxiv.org/pdf/2012.04350.pdf)
+- [2021-NIPS][TR] CentripetalText: An Efficient Text Instance Representation for Scene Text Detection [`paper`](https://arxiv.org/pdf/2107.05945.pdf) [`code`](https://github.com/shengtao96/CentripetalText)
 - [2021-ICDAR][TR] Vision Transformer for Fast and Efficient Scene Text Recognition [`paper`](https://arxiv.org/pdf/2105.08582.pdf) ['code'](https://github.com/roatienza/deep-text-recognition-benchmark)
 - [2021-IJCV][STL] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`paper`](https://arxiv.org/pdf/1912.09629.pdf) [`code`](https://github.com/Yuliang-Liu/Box_Discretization_Network)
 - [2021-TIP][STL][TR] FREE: A Fast and Robust End-to-End Video Text Spotter [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)

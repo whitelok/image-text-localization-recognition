@@ -18,6 +18,9 @@
 
 #### 2021
 
+- [2021-AAAI][位置感知][文字识别] PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network [`论文`](https://arxiv.org/pdf/2104.05458.pdf) [`代码`](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.1/doc/doc_en/pgnet_en.md)
+- [2021-AAAI][位置感知][文字识别] MANGO: A Mask Attention Guided One-Stage Scene Text Spotter [`论文`](https://arxiv.org/pdf/2012.04350.pdf)
+- [2021-NIPS][位置感知] CentripetalText: An Efficient Text Instance Representation for Scene Text Detection [`论文`](https://arxiv.org/pdf/2107.05945.pdf) [`代码`](https://github.com/shengtao96/CentripetalText)
 - [2021-ICDAR][文字识别] Vision Transformer for Fast and Efficient Scene Text Recognition [`论文`](https://arxiv.org/pdf/2105.08582.pdf) [`代码`](https://github.com/roatienza/deep-text-recognition-benchmark)
 - [2021-IJCV][位置感知] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`论文`](https://arxiv.org/pdf/1912.09629.pdf) [`代码`](https://github.com/Yuliang-Liu/Box_Discretization_Network)
 - [2021-TIP][位置感知][文字识别] FREE: A Fast and Robust End-to-End Video Text Spotter [`论文`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)

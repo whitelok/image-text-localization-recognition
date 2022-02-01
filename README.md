@@ -219,6 +219,7 @@ Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/p
 
 #### Hikvision Research Institute
 
+- [2021-AAAI][STL][TR] MANGO: A Mask Attention Guided One-Stage Scene Text Spotter [`paper`](https://arxiv.org/pdf/2012.04350.pdf)
 - [2020-AAAI][STL][TR] Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/2002.06820.pdf)
 - [2018-CVPR][TR] AON: Towards Arbitrarily-Oriented Text Recognition [`paper`](https://arxiv.org/pdf/1711.04226.pdf) [`code`](https://github.com/huizhang0110/AON)
 - [2017-ICCV][TR] Focusing Attention: Towards Accurate Text Recognition in Natural Images [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)
@@ -285,6 +286,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Peking University
 
+- [2021-NIPS][TR] CentripetalText: An Efficient Text Instance Representation for Scene Text Detection [`paper`](https://arxiv.org/pdf/2107.05945.pdf) [`code`](https://github.com/shengtao96/CentripetalText)
 - [2020-ICASSP][TR] A New Perspective for Flexible Feature Gathering in Scene Text Recognition Via Character Anchor Pooling [`paper`](https://arxiv.org/pdf/2002.03509.pdf)
 - [2020-ICASSP][STL] All you need is a second look: Towards Tighter Arbitrary shape text detection [`paper`](https://arxiv.org/pdf/2004.12436.pdf)
 - [2019-WACV][STL] Mask R-CNN with Pyramid Attention Network for Scene Text Detection [`paper`](https://arxiv.org/pdf/1811.09058.pdf)
@@ -406,6 +408,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Xidian University
 
+- [2021-AAAI][STL][TR] PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network [`paper`](https://arxiv.org/pdf/2104.05458.pdf) [`code`](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.1/doc/doc_en/pgnet_en.md)
 - [2020-ICASSP][STL] Efficient Scene Text Detection with Textual Attention Tower [`paper`](https://arxiv.org/pdf/2002.03741.pdf)
 - [2019-ACM-MM][STL] A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning [`paper`](https://arxiv.org/pdf/1908.05498.pdf)
 
