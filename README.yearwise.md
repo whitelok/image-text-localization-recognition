@@ -42,6 +42,7 @@
 
 #### 2020
 
+- [2020-IJCV][Overview] Scene Text Detection and Recognition: The Deep Learning Era [`paper`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2020-IJCV][STL][TR] Residual Dual Scale Scene Text Spotting by Fusing Bottom-Up and Top-Down Processing [`paper`](https://link.springer.com/article/10.1007/s11263-020-01388-x)
 - [2020-BMVC][TR] Robust Scene Text Recognition Through Adaptive Image Enhancement [`paper`](https://www.bmvc2020-conference.com/assets/papers/0257.pdf)
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
@@ -152,7 +153,6 @@
 - [2018-arxiv][STL] TextField: Learning A Deep Direction Field for Irregular Scene Text Detection [`paper`](https://arxiv.org/pdf/1812.01393.pdf) [`code`](https://github.com/YukangWang/TextField)
 - [2018-arxiv][STL] Detecting Text in the Wild with Deep Character Embedding Network [`paper`](https://arxiv.org/abs/1801.01671)
 - [2018-arxiv][STL][TR] FOTS: Fast Oriented Text Spotting with a Unified Network [`paper`](https://arxiv.org/abs/1801.01671)
-- [2018-arxiv][Overview] Scene Text Detection and Recognition: The Deep Learning Era [`paper`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-BMVC][TR] Inductive Visual Localisation: Factorised Training for Superior Generalisation [`paper`](https://arxiv.org/abs/1807.08179)
 - [2018-BMVC][STL] Boosting up Scene Text Detectors with Guided CNN [`paper`](http://bmvc2018.org/contents/papers/0633.pdf)
 - [2018-ECCV][STL] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`paper`](https://arxiv.org/pdf/1807.01544.pdf) [`code`](https://github.com/princewang1994/TextSnake.pytorch)

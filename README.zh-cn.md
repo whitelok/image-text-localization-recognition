@@ -18,8 +18,8 @@
 
 - [2020-arxiv] Text Detection and Recognition in the Wild: A Review [`论文`](https://arxiv.org/pdf/2006.04305.pdf)
 - [2020-arxiv] Text Recognition in the Wild: A Survey [`论文`](https://arxiv.org/pdf/2005.03492.pdf)
+- [2020-IJCV] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2019-ICCV] What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) [`代码`](https://github.com/clovaai/deep-text-recognition-benchmark)
-- [2018-arxiv] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2016-TIP] Text Detection Tracking and Recognition in Video: A Comprehensive Survey [`论文`](http://ieeexplore.ieee.org/abstract/document/7452620/)
 - [2015-PAMI] Text Detection and Recognition in Imagery: A Survey [`论文`](http://lampsrv02.umiacs.umd.edu/pubs/Papers/qixiangye-14/qixiangye-14.pdf)
 - [2014-Front.Comput.Sci] Scene Text Detection and Recognition: Recent Advances and Future Trends [`论文`](http://mc.eistar.net/uploadfiles/Papers/FCS_TextSurvey_2015.pdf)

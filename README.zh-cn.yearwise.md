@@ -44,6 +44,7 @@
 
 #### 2020
 
+- [2020-IJCV][综述] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2020-IJCV][位置感知][文字识别] Residual Dual Scale Scene Text Spotting by Fusing Bottom-Up and Top-Down Processing [`论文`](https://link.springer.com/article/10.1007/s11263-020-01388-x)
 - [2020-BMVC][文字识别] Robust Scene Text Recognition Through Adaptive Image Enhancement [`论文`](https://www.bmvc2020-conference.com/assets/papers/0257.pdf)
 - [2020-AAAI][位置感知][文字识别] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
@@ -154,7 +155,6 @@
 - [2018-arxiv][位置感知] Detecting Text in the Wild with Deep Character Embedding Network [`论文`](https://arxiv.org/abs/1801.01671) [`代码`](https://github.com/YukangWang/TextField)
 - [2018-BMVC][文字识别] Inductive Visual Localisation: Factorised Training for Superior Generalisation [`论文`](https://arxiv.org/abs/1807.08179)
 - [2018-BMVC][位置感知] Boosting up Scene Text Detectors with Guided CNN [`论文`](http://bmvc2018.org/contents/papers/0633.pdf)
-- [2018-arxiv][综述] Scene Text Detection and Recognition: The Deep Learning Era [`论文`](https://arxiv.org/pdf/1811.04256.pdf)
 - [2018-arxiv][位置感知][文字识别] FOTS: Fast Oriented Text Spotting with a Unified Network [`论文`](https://arxiv.org/abs/1801.01671)
 - [2018-ECCV][位置感知] TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [`论文`](https://arxiv.org/pdf/1807.01544.pdf) [`代码`](https://github.com/princewang1994/TextSnake.pytorch)
 - [2018-ECCV][位置感知][文字识别] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
