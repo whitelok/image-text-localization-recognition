@@ -302,6 +302,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 商汤研究院
 
+- [2021-WACV][位置感知] Disentangled Contour Learning for Quadrilateral Text Detection [`论文`](https://openaccess.thecvf.com/content/WACV2021/papers/Bi_Disentangled_Contour_Learning_for_Quadrilateral_Text_Detection_WACV_2021_paper.pdf) [`代码`](https://github.com/SakuraRiven/DCLNet)
 - [2020-ECCV][文字识别] RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3160_ECCV_2020_paper.php)
 - [2020-ECCV][文字识别] Scene Text Image Super-resolution in the wild [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)
 - [2019-arxiv][位置感知] Pyramid Mask Text Detector [`论文`](https://arxiv.org/pdf/1903.11800.pdf)

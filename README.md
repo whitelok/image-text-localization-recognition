@@ -294,6 +294,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### SenseTime Research
 
+- [2021-WACV][STL] Disentangled Contour Learning for Quadrilateral Text Detection [`paper`](https://openaccess.thecvf.com/content/WACV2021/papers/Bi_Disentangled_Contour_Learning_for_Quadrilateral_Text_Detection_WACV_2021_paper.pdf) [`code`](https://github.com/SakuraRiven/DCLNet)
 - [2020-ECCV][TR] RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3160_ECCV_2020_paper.php)
 - [2020-ECCV][TR] Scene Text Image Super-resolution in the wild [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1186_ECCV_2020_paper.php)
 - [2019-arxiv][STL] Pyramid Mask Text Detector [`paper`](https://arxiv.org/pdf/1903.11800.pdf)

@@ -16,6 +16,7 @@
 
 #### 2021
 
+- [2021-WACV][STL] Disentangled Contour Learning for Quadrilateral Text Detection [`paper`](https://openaccess.thecvf.com/content/WACV2021/papers/Bi_Disentangled_Contour_Learning_for_Quadrilateral_Text_Detection_WACV_2021_paper.pdf) [`code`](https://github.com/SakuraRiven/DCLNet)
 - [2021-AAAI][STL][TR] PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network [`paper`](https://arxiv.org/pdf/2104.05458.pdf) [`code`](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.1/doc/doc_en/pgnet_en.md)
 - [2021-AAAI][STL][TR] MANGO: A Mask Attention Guided One-Stage Scene Text Spotter [`paper`](https://arxiv.org/pdf/2012.04350.pdf)
 - [2021-NIPS][TR] CentripetalText: An Efficient Text Instance Representation for Scene Text Detection [`paper`](https://arxiv.org/pdf/2107.05945.pdf) [`code`](https://github.com/shengtao96/CentripetalText)
