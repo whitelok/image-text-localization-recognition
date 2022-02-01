@@ -63,7 +63,7 @@
 - [2018-AAAI][位置感知] Feature Enhancement Network: A Refined Scene Text Detector [`论文`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2017-arXiv][位置感知] Detecting Curve Text in the Wild: New Dataset and New Solution [`论文`](https://arxiv.org/pdf/1712.02170)
 - [2020-arxiv][文字识别] Adaptive Embedding Gate for Attention-Based Scene Text Recognition [`论文`](https://arxiv.org/pdf/1908.09475.pdf)
-- [2017-TPAMI][文字识别] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`论文`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
+- [2017-PAMI][文字识别] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`论文`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
 - [2017-CVPR][位置感知] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`论文`](https://arxiv.org/abs/1703.01425)
 - [2016-arXiv][位置感知][文字识别] DeepText: A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`论文`](http://arxiv.org/abs/1605.07314)
 - [2016-IEEE Transactions on Multimedia][位置感知] A Convolutional Neural Network Based Chinese Text Detection Algorithm Via Text Structure Modeling [`论文`](http://www2.egr.uh.edu/~zhan2/ECE6111_spring2017/A%20Convolutional%20Neural%20Network%20%20Based%20Chinese%20Text%20Detection%20Algorithm%20Via%20Text%20Structure%20Modeling.pdf)
@@ -83,9 +83,9 @@
 - [2020-AAAI][文字识别][位置感知] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][文字识别][位置感知] Real-time Scene Text Detection with Differentiable Binarization [`论文`](https://arxiv.org/pdf/1911.08947.pdf) [`代码`](https://github.com/MhLiao/DB)
 - [2020-ECCV][位置感知][文字识别] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`论文`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php) [`代码`](https://github.com/MhLiao/MaskTextSpotterV3)
-- [2019-TPAMI][文字识别] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification [`论文`](https://ieeexplore.ieee.org/document/8395027) [`代码`](https://github.com/ayumiymk/aster.pytorch)
+- [2019-PAMI][文字识别] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification [`论文`](https://ieeexplore.ieee.org/document/8395027) [`代码`](https://github.com/ayumiymk/aster.pytorch)
 - [2019-AAAI][文字识别] Scene Text Recognition from Two-Dimensional Perspective [`论文`](https://arxiv.org/pdf/1809.06508.pdf)
-- [2019-TPAMI][位置感知] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`论文`](https://arxiv.org/pdf/1911.09358.pdf) [`代码`](https://github.com/MingtaoFu/gliding_vertex)
+- [2019-PAMI][位置感知] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`论文`](https://arxiv.org/pdf/1911.09358.pdf) [`代码`](https://github.com/MingtaoFu/gliding_vertex)
 - [2019-ICCV][文字识别] Symmetry-Constrained Rectification Network for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-arxiv][位置感知] Detecting Text in the Wild with Deep Character Embedding Network [`论文`](https://arxiv.org/abs/1801.01671) [`代码`](https://github.com/YukangWang/TextField)
 - [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
@@ -98,7 +98,7 @@
 - [2016-CVPR][文字识别] Robust scene text recognition with automatic rectification [`论文`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-arXiv][位置感知] Scene Text Detection via Holistic, Multi-Channel Prediction [`论文`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][位置感知] Multi-oriented text detection with fully convolutional networks    [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-TPAMI][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
+- [2015-PAMI][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
 - [2015-CVPR][位置感知] Symmetry-Based Text Line Detector in Natural Scenes [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7298871) [`代码`](https://github.com/stupidZZ/Symmetry_Text_Line_Detections)
 - [2015-ICDAR][文字识别] Automatic Script Identification in the Wild [`论文`](https://arxiv.org/pdf/1505.02982.pdf)
 - [2014-CVPR][文字识别] Strokelets: A Learned Multi-Scale Representation for Scene Text Recognition [`论文`](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Yao_Strokelets_A_Learned_2014_CVPR_paper.pdf)
@@ -110,7 +110,7 @@
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][位置感知] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`论文`](https://arxiv.org/pdf/1604.02619.pdf) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
-- [2014-TPAMI][文字识别] Word Spotting and Recognition with Embedded Attributes [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
+- [2014-PAMI][文字识别] Word Spotting and Recognition with Embedded Attributes [`论文`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`主页`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`代码`](https://github.com/almazan/watts)
 
 #### 斯坦福大学
 
@@ -162,7 +162,7 @@
 - [2020-CVPR][位置感知] Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Relational_Reasoning_Graph_Network_for_Arbitrary_Shape_Text_Detection_CVPR_2020_paper.html)
 - [2017-arxiv][文字识别] AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition [`论文`](https://arxiv.org/pdf/1710.03425.pdf)
 - [2016-IJCAI][位置感知] Scene Text Detection in Video by Learning Locally and Globally [`论文`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
-- [2014-TPAMI][文字识别] Robust Text Detection in Natural Scene Images [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
+- [2014-PAMI][文字识别] Robust Text Detection in Natural Scene Images [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
 
 #### 浦项工科大学
 
@@ -177,7 +177,7 @@
 - [2018-ACCV][位置感知][文字识别] E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text [`论文`](https://arxiv.org/pdf/1801.09919.pdf) [`代码`](https://github.com/MichalBusta/E2E-MLT)
 - [2017-ICCV][位置感知][文字识别] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
 Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) [`代码`](https://github.com/MichalBusta/DeepTextSpotter)
-- [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
+- [2015-PAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][位置感知] FASText: Efficient unconstrained scene text detector [`论文`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`代码`](https://github.com/MichalBusta/FASText)
 - [2012-CVPR][位置感知][文字识别] Real-time scene text localization and recognition [`论文`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`代码`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
 

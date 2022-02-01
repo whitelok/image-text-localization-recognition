@@ -62,7 +62,7 @@
 - [2018-AAAI][STL] Feature Enhancement Network: A Refined Scene Text Detector [`paper`](https://arxiv.org/pdf/1711.04249.pdf)
 - [2017-arXiv][STL] Detecting Curve Text in the Wild: New Dataset and New Solution [`paper`](https://arxiv.org/pdf/1712.02170)
 - [2020-arxiv][TR] Adaptive Embedding Gate for Attention-Based Scene Text Recognition [`paper`](https://arxiv.org/pdf/1908.09475.pdf)
-- [2017-TPAMI][TR] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`paper`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
+- [2017-PAMI][TR] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`paper`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
 - [2017-CVPR][STL] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`paper`](https://arxiv.org/abs/1703.01425)
 - [2016-arXiv][STL] DeepText:A Unified Framework for Text Proposal Generation and Text Detection in Natural Images [`paper`](http://arxiv.org/abs/1605.07314)
 - [2016-IEEE Transactions on Multimedia][STL] A Convolutional Neural Network Based Chinese Text Detection Algorithm Via Text Structure Modeling [`paper`](http://www2.egr.uh.edu/~zhan2/ECE6111_spring2017/A%20Convolutional%20Neural%20Network%20%20Based%20Chinese%20Text%20Detection%20Algorithm%20Via%20Text%20Structure%20Modeling.pdf)
@@ -82,9 +82,9 @@
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][STL] Real-time Scene Text Detection with Differentiable Binarization [`paper`](https://arxiv.org/pdf/1911.08947.pdf) [`code`](https://github.com/MhLiao/DB)
 - [2020-ECCV][STL][TR] Mask TextSpotter V3: Segmentation Proposal Network for Robust Scene Text Spotting [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1436_ECCV_2020_paper.php) [`code`](https://github.com/MhLiao/MaskTextSpotterV3)
-- [2019-TPAMI][TR] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification [`paper`](https://ieeexplore.ieee.org/document/8395027) [`code`](https://github.com/ayumiymk/aster.pytorch)
+- [2019-PAMI][TR] ASTER: An Attentional Scene Text Recognizer with Flexible Rectification [`paper`](https://ieeexplore.ieee.org/document/8395027) [`code`](https://github.com/ayumiymk/aster.pytorch)
 - [2019-AAAI][TR] Scene Text Recognition from Two-Dimensional Perspective [`paper`](https://arxiv.org/pdf/1809.06508.pdf)
-- [2019-TPAMI][STL] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`paper`](https://arxiv.org/pdf/1911.09358.pdf) [`code`](https://github.com/MingtaoFu/gliding_vertex)
+- [2019-PAMI][STL] Gliding vertex on the horizontal bounding box for multi-oriented object detection [`paper`](https://arxiv.org/pdf/1911.09358.pdf) [`code`](https://github.com/MingtaoFu/gliding_vertex)
 - [2019-ICCV][TR] Symmetry-Constrained Rectification Network for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 - [2018-arxiv][STL] TextField: Learning A Deep Direction Field for Irregular Scene Text Detection [`paper`](https://arxiv.org/pdf/1812.01393.pdf) [`code`](https://github.com/YukangWang/TextField)
 - [2018-ECCV][TR][STL] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
@@ -97,7 +97,7 @@
 - [2016-CVPR][TR] Robust scene text recognition with automatic rectification [`paper`](http://arxiv.org/pdf/1603.03915v2.pdf)
 - [2016-arXiv][STL] Scene Text Detection via Holistic, Multi-Channel Prediction [`paper`](https://arxiv.org/abs/1606.09002)
 - [2016-CVPR][STL] Multi-oriented text detection with fully convolutional networks    [`paper`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/TextDectionFCN_CVPR16.pdf)
-- [2015-TPAMI][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
+- [2015-PAMI][TR] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`code`](https://github.com/bgshih/crnn)
 - [2014-CVPR][TR] Strokelets: A Learned Multi-Scale Representation for Scene Text Recognition [`paper`](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Yao_Strokelets_A_Learned_2014_CVPR_paper.pdf)
 
 #### Universitat Autònoma de Barcelona
@@ -107,7 +107,7 @@
 - [2017-arXiv][STL] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`paper`](https://arxiv.org/abs/1702.05089)
 - [2016-arXiv][STL] TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild [`paper`](https://arxiv.org/pdf/1604.02619.pdf) [`code`](https://github.com/lluisgomez/TextProposals)
 - [2015-ICDAR][STL] Object Proposals for Text Extraction in the Wild [`paper`](http://arxiv.org/abs/1509.02317) [`code`](https://github.com/lluisgomez/TextProposals)
-- [2014-TPAMI][TR] Word Spotting and Recognition with Embedded Attributes [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
+- [2014-PAMI][TR] Word Spotting and Recognition with Embedded Attributes [`paper`](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf) [`homepage`](http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html) [`code`](https://github.com/almazan/watts)
 
 #### Stanford University
 
@@ -159,7 +159,7 @@
 - [2020-CVPR][STL] Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Relational_Reasoning_Graph_Network_for_Arbitrary_Shape_Text_Detection_CVPR_2020_paper.html)
 - [2017-arxiv][TR] AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition [`paper`](https://arxiv.org/pdf/1710.03425.pdf)
 - [2016-IJCAI][STL] Scene Text Detection in Video by Learning Locally and Globally [`paper`](https://www.ijcai.org/Proceedings/16/Papers/376.pdf)
-- [2014-TPAMI][TR] Robust Text Detection in Natural Scene Images [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
+- [2014-PAMI][TR] Robust Text Detection in Natural Scene Images [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6613482)
 
 #### Pohang University of Science and Technology
 
@@ -174,7 +174,7 @@
 - [2018-ACCV][STL][TR] E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text [`paper`](https://arxiv.org/pdf/1801.09919.pdf) [`code`](https://github.com/MichalBusta/E2E-MLT)
 - [2017-ICCV][STL][TR] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
 Recognition Framework [`peper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) [`code`](https://github.com/MichalBusta/DeepTextSpotter)
-- [2015-TPAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
+- [2015-PAMI][STL][TR] Real-time Lexicon-free Scene Text Localization and Recognition [`paper`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][STL] FASText: Efficient unconstrained scene text detector [`paper`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`code`](https://github.com/MichalBusta/FASText)
 - [2012-CVPR][STL][TR] Real-time scene text localization and recognition [`paper`](http://cmp.felk.cvut.cz/~matas/papers/neumann-2012-rt_text-cvpr.pdf) [`code`](http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html)
 
