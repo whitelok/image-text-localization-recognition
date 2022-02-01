@@ -49,6 +49,7 @@
 
 #### 华南理工大学
 
+- [2021-IJCV][位置感知] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`论文`](https://arxiv.org/pdf/1912.09629.pdf) [`代码`](https://github.com/Yuliang-Liu/Box_Discretization_Network)
 - [2021-CVPR][位置感知] Fourier Contour Embedding for Arbitrary-Shaped Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Fourier_Contour_Embedding_for_Arbitrary-Shaped_Text_Detection_CVPR_2021_paper.pdf)
 - [2021-CVPR][文字识别][位置感知] Implicit Feature Alignment: Learn To Convert Text Recognizer to Text Spotter [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) [`代码`](https://github.com/Wang-Tianwei/Implicit-feature-alignment)
 - [2020-CVPR][文字识别] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition [`论文`](https://openaccess.thecvf.com/content_CVPR_2020/html/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.html) [`代码`](https://github.com/Canjie-Luo/Text-Image-Augmentation)
@@ -128,6 +129,7 @@
 
 #### 中国科学院自动化研究所
 
+- [2020-IJCV][位置感知][文字识别] Residual Dual Scale Scene Text Spotting by Fusing Bottom-Up and Top-Down Processing [`论文`](https://link.springer.com/article/10.1007/s11263-020-01388-x)
 - [2019-CVPR][文字识别] Sequence-to-Sequence Domain Adaptation Networkfor Robust Text Image Recognition [`论文`](https://ieeexplore.ieee.org/abstract/document/8953495)
 - [2019-ICCV][位置感知][文字识别] TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting [`论文`](http://openaccess.thecvf.com/content_ICCV_2019/html/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.html)
 - [2018-arxiv][文字识别] NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition [`论文`](https://arxiv.org/pdf/1806.00926.pdf) [`代码`](https://github.com/Belval/NRTR)
@@ -482,6 +484,10 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 深圳大学
 
 - [2021-CVPR][位置感知][文字识别] Self-Attention Based Text Knowledge Mining for Text Detection [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf) [`代码`](https://github.com/CVI-SZU/STKM)
+
+#### 菲律宾大学
+
+- [2021-ICDAR][文字识别] Vision Transformer for Fast and Efficient Scene Text Recognition [`论文`](https://arxiv.org/pdf/2105.08582.pdf) [`代码`](https://github.com/roatienza/deep-text-recognition-benchmark)
 
 ## 2. 训练数据集合
 

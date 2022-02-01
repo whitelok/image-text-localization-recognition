@@ -16,6 +16,8 @@
 
 #### 2021
 
+- [2021-ICDAR][TR] Vision Transformer for Fast and Efficient Scene Text Recognition [`paper`](https://arxiv.org/pdf/2105.08582.pdf) ['code'](https://github.com/roatienza/deep-text-recognition-benchmark)
+- [2021-IJCV][STL] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`paper`](https://arxiv.org/pdf/1912.09629.pdf) [`code`](https://github.com/Yuliang-Liu/Box_Discretization_Network)
 - [2021-TIP][STL][TR] FREE: A Fast and Robust End-to-End Video Text Spotter [`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)
 - [2021-ICCV][TR] From Two to One: A New Scene Text Recognizer With Visual Language Modeling Network [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.pdf)
 - [2021-ICCV][STL] Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Adaptive_Boundary_Proposal_Network_for_Arbitrary_Shape_Text_Detection_ICCV_2021_paper.pdf) [`code`](https://github.com/GXYM/TextBPN)
@@ -40,6 +42,7 @@
 
 #### 2020
 
+- [2020-IJCV][STL][TR] Residual Dual Scale Scene Text Spotting by Fusing Bottom-Up and Top-Down Processing [`paper`](https://link.springer.com/article/10.1007/s11263-020-01388-x)
 - [2020-BMVC][TR] Robust Scene Text Recognition Through Adaptive Image Enhancement [`paper`](https://www.bmvc2020-conference.com/assets/papers/0257.pdf)
 - [2020-AAAI][STL][TR] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`paper`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][STL][TR] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`paper`](https://arxiv.org/pdf/2002.01276.pdf)

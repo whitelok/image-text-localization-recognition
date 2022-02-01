@@ -18,6 +18,8 @@
 
 #### 2021
 
+- [2021-ICDAR][文字识别] Vision Transformer for Fast and Efficient Scene Text Recognition [`论文`](https://arxiv.org/pdf/2105.08582.pdf) [`代码`](https://github.com/roatienza/deep-text-recognition-benchmark)
+- [2021-IJCV][位置感知] Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection [`论文`](https://arxiv.org/pdf/1912.09629.pdf) [`代码`](https://github.com/Yuliang-Liu/Box_Discretization_Network)
 - [2021-TIP][位置感知][文字识别] FREE: A Fast and Robust End-to-End Video Text Spotter [`论文`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9266586)
 - [2021-ICCV][文字识别] From Two to One: A New Scene Text Recognizer With Visual Language Modeling Network [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.pdf)
 - [2021-ICCV][位置感知] Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection [`论文`](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Adaptive_Boundary_Proposal_Network_for_Arbitrary_Shape_Text_Detection_ICCV_2021_paper.pdf) [`代码`](https://github.com/GXYM/TextBPN)
@@ -42,6 +44,7 @@
 
 #### 2020
 
+- [2020-IJCV][位置感知][文字识别] Residual Dual Scale Scene Text Spotting by Fusing Bottom-Up and Top-Down Processing [`论文`](https://link.springer.com/article/10.1007/s11263-020-01388-x)
 - [2020-BMVC][文字识别] Robust Scene Text Recognition Through Adaptive Image Enhancement [`论文`](https://www.bmvc2020-conference.com/assets/papers/0257.pdf)
 - [2020-AAAI][位置感知][文字识别] All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting [`论文`](https://arxiv.org/pdf/1911.09550.pdf)
 - [2020-AAAI][位置感知][文字识别] GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition [`论文`](https://arxiv.org/pdf/2002.01276.pdf)
