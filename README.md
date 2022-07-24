@@ -69,6 +69,7 @@
 
 #### Fudan University
 
+- [2022-IJCAI][TR] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`paper`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`code`][https://github.com/zhaominyiz/C3-STISR]
 - [2021-CVPR][TR] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [2020-arxiv][TR] Text Recognition in Real Scenarios with a Few Labeled Samples [`paper`](https://arxiv.org/pdf/2006.12209.pdf)
 - [2018-CVPR][TR] Edit Probability for Scene Text Recognition [`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
@@ -483,6 +484,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### University of the Philippines
 
 - [2021-ICDAR][TR] Vision Transformer for Fast and Efficient Scene Text Recognition [`paper`](https://arxiv.org/pdf/2105.08582.pdf) ['code'](https://github.com/roatienza/deep-text-recognition-benchmark)
+
+#### Beijing Jiaotong University
+
+- [2022-IJCAI][TR] SVTR: Scene Text Recognition with a Single Visual Model [`paper`](https://arxiv.org/pdf/2205.00159.pdf) [`code`](https://github.com/PaddlePaddle/PaddleOCR)
 
 ## 2. Datasets
 

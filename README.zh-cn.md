@@ -70,6 +70,7 @@
 
 #### 复旦大学
 
+- [2022-IJCAI][文字识别] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`论文`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`代码`][https://github.com/zhaominyiz/C3-STISR]
 - [2021-CVPR][文字识别] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [2020-arxiv][文字识别] Text Recognition in Real Scenarios with a Few Labeled Samples [`论文`](https://arxiv.org/pdf/2006.12209.pdf)
 - [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
@@ -492,6 +493,10 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 菲律宾大学
 
 - [2021-ICDAR][文字识别] Vision Transformer for Fast and Efficient Scene Text Recognition [`论文`](https://arxiv.org/pdf/2105.08582.pdf) [`代码`](https://github.com/roatienza/deep-text-recognition-benchmark)
+
+#### 北京交通大学
+
+- [2022-IJCAI][文字识别] SVTR: Scene Text Recognition with a Single Visual Model [`论文`](https://arxiv.org/pdf/2205.00159.pdf) [`代码`](https://github.com/PaddlePaddle/PaddleOCR)
 
 ## 2. 训练数据集合
 

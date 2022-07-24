@@ -16,6 +16,11 @@
 
 ## 1. Papers & Code
 
+#### 2022
+
+- [2022-IJCAI][文字识别] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`论文`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`代码`][https://github.com/zhaominyiz/C3-STISR]
+- [2022-IJCAI][文字识别] SVTR: Scene Text Recognition with a Single Visual Model [`论文`](https://arxiv.org/pdf/2205.00159.pdf) [`代码`](https://github.com/PaddlePaddle/PaddleOCR)
+
 #### 2021
 
 - [2021-WACV][位置感知] Disentangled Contour Learning for Quadrilateral Text Detection [`论文`](https://openaccess.thecvf.com/content/WACV2021/papers/Bi_Disentangled_Contour_Learning_for_Quadrilateral_Text_Detection_WACV_2021_paper.pdf) [`代码`](https://github.com/SakuraRiven/DCLNet)
