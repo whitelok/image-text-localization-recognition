@@ -10,7 +10,7 @@
 
 *[TR] (Text Recognition) Recognize text content*
 
-**Last update: Feb.01 2022**
+**Last update: Jul.24 2022**
 
 ## 1. Papers & Code
 
@@ -328,6 +328,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### The Chinese University of Hong Kong
 
+- [2022-AAAI][TR] Context-based Contrastive Learning for Scene Text Recognition [`paper`](https://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
 - [2019-CVPR][STL] Learning Shape-Aware Embedding for Scene Text Detection [`paper`](http://openaccess.thecvf.com/content_CVPR_2019/html/Tian_Learning_Shape-Aware_Embedding_for_Scene_Text_Detection_CVPR_2019_paper.html)
 
 #### Malong Technologies
@@ -358,6 +359,7 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Tencent
 
+- [2022-AAAI][TR] Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition [`paper`](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
 - [2020-arxiv][STL] PuzzleNet: Scene Text Detection by Segment Context Graph Learning [`paper`](https://arxiv.org/pdf/2002.11371.pdf)
 - [2020-AAAI][STL][TR] Accurate Structured-Text Spotting for Arithmetical Exercise Correction [`paper`](https://www.researchgate.net/publication/341891992_Accurate_Structured-Text_Spotting_for_Arithmetical_Exercise_Correction)
 - [2019-arxiv][TR] 2D Attentional Irregular Scene Text Recognizer [`paper`](https://arxiv.org/pdf/1906.05708.pdf) [`code`](https://github.com/chenjun2hao/Bert_OCR.pytorch)
@@ -488,6 +490,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Beijing Jiaotong University
 
 - [2022-IJCAI][TR] SVTR: Scene Text Recognition with a Single Visual Model [`paper`](https://arxiv.org/pdf/2205.00159.pdf) [`code`](https://github.com/PaddlePaddle/PaddleOCR)
+
+#### Wuhan University
+
+- [2022-AAAI][TR] Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition [`paper`](https://arxiv.org/pdf/2112.12916.pdf) [`code`](https://github.com/adeline-cs/GTR)
 
 ## 2. Datasets
 

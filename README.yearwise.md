@@ -10,12 +10,15 @@
 
 *[Overview] Summary, overview, survey papers*
 
-**Last update: Feb.01 2022**
+**Last update: Jul.24 2022**
 
 ## 1. Papers & Code
 
 #### 2022
 
+- [2022-AAAI][TR] Context-based Contrastive Learning for Scene Text Recognition [`paper`](https://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
+- [2022-AAAI][TR] Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition [`paper`](https://arxiv.org/pdf/2112.12916.pdf) [`code`](https://github.com/adeline-cs/GTR)
+- [2022-AAAI][TR] Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition [`paper`](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
 - [2022-IJCAI][TR] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`paper`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`code`][https://github.com/zhaominyiz/C3-STISR]
 - [2022-IJCAI][TR] SVTR: Scene Text Recognition with a Single Visual Model [`paper`](https://arxiv.org/pdf/2205.00159.pdf) [`code`](https://github.com/PaddlePaddle/PaddleOCR)
 

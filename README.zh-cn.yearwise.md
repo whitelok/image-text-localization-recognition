@@ -12,12 +12,15 @@
 
 *[综述] 综述以及调查统计类论文*
 
-**最近更新时间：2022-02-01**
+**最近更新时间：2022-07-24**
 
 ## 1. Papers & Code
 
 #### 2022
 
+- [2022-AAAI][文字识别] Context-based Contrastive Learning for Scene Text Recognition [`论文`](https://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
+- [2022-AAAI][文字识别] Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition [`论文`](https://arxiv.org/pdf/2112.12916.pdf) [`代码`](https://github.com/adeline-cs/GTR)
+- [2022-AAAI][文字识别] Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition [`论文`](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
 - [2022-IJCAI][文字识别] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`论文`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`代码`][https://github.com/zhaominyiz/C3-STISR]
 - [2022-IJCAI][文字识别] SVTR: Scene Text Recognition with a Single Visual Model [`论文`](https://arxiv.org/pdf/2205.00159.pdf) [`代码`](https://github.com/PaddlePaddle/PaddleOCR)
 

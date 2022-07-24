@@ -10,7 +10,7 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2022-02-01**
+**最近更新时间：2022-07-24**
 
 ## 1. 论文和代码
 
@@ -336,6 +336,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 香港中文大学
 
+- [2022-AAAI][文字识别] Context-based Contrastive Learning for Scene Text Recognition [`论文`](https://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
 - [2019-CVPR][位置感知] Learning Shape-Aware Embedding for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_CVPR_2019/html/Tian_Learning_Shape-Aware_Embedding_for_Scene_Text_Detection_CVPR_2019_paper.html)
 
 #### 码隆科技
@@ -366,6 +367,7 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 
 #### 腾讯
 
+- [2022-AAAI][文字识别] Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition [`论文`](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
 - [2020-arxiv][位置感知] PuzzleNet: Scene Text Detection by Segment Context Graph Learning [`论文`](https://arxiv.org/pdf/2002.11371.pdf)
 - [2020-AAAI][文字识别][位置感知] Accurate Structured-Text Spotting for Arithmetical Exercise Correction [`论文`](https://www.researchgate.net/publication/341891992_Accurate_Structured-Text_Spotting_for_Arithmetical_Exercise_Correction)
 - [2019-arxiv][文字识别] 2D Attentional Irregular Scene Text Recognizer [`论文`](https://arxiv.org/pdf/1906.05708.pdf) [`代码`](https://github.com/chenjun2hao/Bert_OCR.pytorch)
@@ -497,6 +499,10 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 北京交通大学
 
 - [2022-IJCAI][文字识别] SVTR: Scene Text Recognition with a Single Visual Model [`论文`](https://arxiv.org/pdf/2205.00159.pdf) [`代码`](https://github.com/PaddlePaddle/PaddleOCR)
+
+#### 武汉大学
+
+- [2022-AAAI][文字识别] Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition [`论文`](https://arxiv.org/pdf/2112.12916.pdf) [`代码`](https://github.com/adeline-cs/GTR)
 
 ## 2. 训练数据集合
 
