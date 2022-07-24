@@ -70,6 +70,7 @@
 
 #### 复旦大学
 
+- [2022-WACV][文字识别] Robustly Recognizing Irregular Scene Text by Rectifying Principle Irregularities [`论文`](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_Robustly_Recognizing_Irregular_Scene_Text_by_Rectifying_Principle_Irregularities_WACV_2022_paper.pdf)
 - [2022-IJCAI][文字识别] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`论文`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`代码`][https://github.com/zhaominyiz/C3-STISR]
 - [2021-CVPR][文字识别] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`论文`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [2020-arxiv][文字识别] Text Recognition in Real Scenarios with a Few Labeled Samples [`论文`](https://arxiv.org/pdf/2006.12209.pdf)
@@ -503,6 +504,10 @@ Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8
 #### 武汉大学
 
 - [2022-AAAI][文字识别] Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition [`论文`](https://arxiv.org/pdf/2112.12916.pdf) [`代码`](https://github.com/adeline-cs/GTR)
+
+#### Helsing AI
+
+- [2022-WACV][文字识别] One-shot Compositional Data Generation for Low Resource Handwritten Text Recognition [`论文`](https://openaccess.thecvf.com/content/WACV2022/papers/Souibgui_One-Shot_Compositional_Data_Generation_for_Low_Resource_Handwritten_Text_Recognition_WACV_2022_paper.pdf)
 
 ## 2. 训练数据集合
 

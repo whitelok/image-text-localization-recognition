@@ -16,6 +16,8 @@
 
 #### 2022
 
+- [2022-WACV][TR] One-shot Compositional Data Generation for Low Resource Handwritten Text Recognition [`paper`](https://openaccess.thecvf.com/content/WACV2022/papers/Souibgui_One-Shot_Compositional_Data_Generation_for_Low_Resource_Handwritten_Text_Recognition_WACV_2022_paper.pdf)
+- [2022-WACV][TR] Robustly Recognizing Irregular Scene Text by Rectifying Principle Irregularities [`paper`](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_Robustly_Recognizing_Irregular_Scene_Text_by_Rectifying_Principle_Irregularities_WACV_2022_paper.pdf)
 - [2022-AAAI][TR] Context-based Contrastive Learning for Scene Text Recognition [`paper`](https://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
 - [2022-AAAI][TR] Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition [`paper`](https://arxiv.org/pdf/2112.12916.pdf) [`code`](https://github.com/adeline-cs/GTR)
 - [2022-AAAI][TR] Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition [`paper`](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
