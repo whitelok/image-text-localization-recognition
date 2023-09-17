@@ -69,7 +69,16 @@
 
 #### Fudan University
 
+- [2022-AAAI][TR] Text Gestalt: Stroke-Aware Scene Text Image Super-resolution [`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/19904) [`code`](https://github.com/FudanVI/FudanOCR)
+- [2023-MM][TR] Chinese Character Recognition with Augmented Character Profile Matching [`paper`](https://dl.acm.org/doi/abs/10.1145/3503161.3547827) [`code`](https://github.com/FudanVI/FudanOCR)
+- [2023-ICCV][TR] Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning [`paper`](https://arxiv.org/abs/2309.01083) [`code`](https://github.com/FudanVI/FudanOCR)
+- [2023-arxiv][STL][TR] Weakly-Supervised Text Instance Segmentation [`paper`](https://arxiv.org/abs/2303.10848) [`code`](https://github.com/FudanVI/FudanOCR)
+- [2023-IJCAI][TR] Orientation-Independent Chinese Text Recognition in Scene Images [`paper`](https://www.ijcai.org/proceedings/2023/0185.pdf)
+- [2023-IJCAI][TR] TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition [`paper`](https://www.ijcai.org/proceedings/2023/0197.pdf) [`code`](https://github.com/simplify23/TPS_PP)
+- [2023-IJCAI][STL][TR] Towards Accurate Video Text Spotting with Text-wise Semantic Reasoning [`paper`](https://www.ijcai.org/proceedings/2023/0206.pdf) [`code`](https://github.com/FudanVI/FudanOCR)
+- [2022-MM][TR] Chinese Character Recognition with Augmented Character Profile Matching [`paper`](https://dl.acm.org/doi/abs/10.1145/3503161.3547827) [`code`](https://github.com/FudanVI/FudanOCR)
 - [2022-WACV][TR] Robustly Recognizing Irregular Scene Text by Rectifying Principle Irregularities [`paper`](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_Robustly_Recognizing_Irregular_Scene_Text_by_Rectifying_Principle_Irregularities_WACV_2022_paper.pdf)
+- [2021-IJCAI][TR] Zero-Shot Chinese Character Recognition with Stroke-Level Decomposition [`paper`](https://www.ijcai.org/proceedings/2021/0085.pdf) [`code`](https://github.com/FudanVI/FudanOCR)
 - [2022-IJCAI][TR] C3-STISR: Scene Text Image Super-resolution with Triple Clues [`paper`](https://www.ijcai.org/proceedings/2022/0238.pdf) [`code`][https://github.com/zhaominyiz/C3-STISR]
 - [2021-CVPR][TR] Scene Text Telescope: Text-Focused Scene Image Super-Resolution [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [2020-arxiv][TR] Text Recognition in Real Scenarios with a Few Labeled Samples [`paper`](https://arxiv.org/pdf/2006.12209.pdf)
@@ -367,11 +376,13 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 
 #### Tsinghua University
 
+- [2023-IJCAI][TR] Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement [`paper`](https://www.ijcai.org/proceedings/2023/0087.pdf) [`code`](https://github.com/csguoh/LEMMA)
 - [2021-CVPR][STL] Primitive Representation Learning for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf)
 - [2020-ECCV][STL] Sequential Deformation for Accurate Scene Text Detection [`paper`](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6576_ECCV_2020_paper.php)
 
 #### University of Science and Technology of China
 
+- [2023-IJCAI][TR] Linguistic More: Taking a Further Step toward Effcient and Accurate Scene Text Recognition [`paper`](https://www.ijcai.org/proceedings/2023/0189.pdf) [`code`](https://github.com/CyrilSterling/LPV)
 - [2021-ICCV][TR] From Two to One: A New Scene Text Recognizer With Visual Language Modeling Network [`paper`](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.pdf)
 - [2021-CVPR][STL] Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Read_Like_Humans_Autonomous_Bidirectional_and_Iterative_Language_Modeling_for_CVPR_2021_paper.pdf) [`code`](https://github.com/FangShancheng/ABINet)
 - [2020-CVPR][STL] ContourNet: Taking a Further Step Toward Accurate Arbitrary-Shaped Scene Text Detection [`paper`](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_ContourNet_Taking_a_Further_Step_Toward_Accurate_Arbitrary-Shaped_Scene_Text_CVPR_2020_paper.html) [`code`](https://github.com/wangyuxin87/ContourNet)
@@ -499,6 +510,10 @@ Encoder-decoder Network [`paper`](https://pdfs.semanticscholar.org/9061/47e6eb8e
 #### Helsing AI
 
 - [2022-WACV][TR] One-shot Compositional Data Generation for Low Resource Handwritten Text Recognition [`paper`](https://openaccess.thecvf.com/content/WACV2022/papers/Souibgui_One-Shot_Compositional_Data_Generation_for_Low_Resource_Handwritten_Text_Recognition_WACV_2022_paper.pdf)
+
+#### Purdue University
+
+- [2023-WACV][TR] Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition [`paper`](https://openaccess.thecvf.com/content/WACV2023/papers/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.pdf)
 
 ## 2. Datasets
 

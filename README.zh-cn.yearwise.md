@@ -16,8 +16,22 @@
 
 ## 1. Papers & Code
 
+#### 2023
+
+- [2023-MM][文字识别] Chinese Character Recognition with Augmented Character Profile Matching [`论文`](https://dl.acm.org/doi/abs/10.1145/3503161.3547827) [`代码`](https://github.com/FudanVI/FudanOCR)
+- [2023-ICCV][文字识别] Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning [`论文`](https://arxiv.org/abs/2309.01083) [`代码`](https://github.com/FudanVI/FudanOCR)
+- [2023-arxiv][位置感知][文字识别] Weakly-Supervised Text Instance Segmentation [`论文`](https://arxiv.org/abs/2303.10848) [`代码`](https://github.com/FudanVI/FudanOCR)
+- [2023-IJCAI][文字识别] Linguistic More: Taking a Further Step toward Effcient and Accurate Scene Text Recognition [`论文`](https://www.ijcai.org/proceedings/2023/0189.pdf) [`代码`](https://github.com/CyrilSterling/LPV)
+- [2023-IJCAI][文字识别] Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement [`论文`](https://www.ijcai.org/proceedings/2023/0087.pdf) [`代码`](https://github.com/csguoh/LEMMA)
+- [2023-IJCAI][文字识别] Orientation-Independent Chinese Text Recognition in Scene Images [`论文`](https://www.ijcai.org/proceedings/2023/0185.pdf) [`代码`](https://github.com/FudanVI/FudanOCR)
+- [2023-IJCAI][文字识别] TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition [`论文`](https://www.ijcai.org/proceedings/2023/0197.pdf) [`代码`](https://github.com/simplify23/TPS_PP)
+- [2023-IJCAI][位置感知][文字识别] Towards Accurate Video Text Spotting with Text-wise Semantic Reasoning [`论文`](https://www.ijcai.org/proceedings/2023/0206.pdf) [`代码`](https://github.com/FudanVI/FudanOCR)
+- [2023-WACV][文字识别] Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition [`论文`](https://openaccess.thecvf.com/content/WACV2023/papers/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.pdf)
+
 #### 2022
 
+- [2022-AAAI][文字识别] Text Gestalt: Stroke-Aware Scene Text Image Super-resolution [`论文`](https://ojs.aaai.org/index.php/AAAI/article/view/19904) [`代码`](https://github.com/FudanVI/FudanOCR)
+- [2022-MM][文字识别] Chinese Character Recognition with Augmented Character Profile Matching [`论文`](https://dl.acm.org/doi/abs/10.1145/3503161.3547827) [`代码`](https://github.com/FudanVI/FudanOCR)
 - [2022-WACV][文字识别] One-shot Compositional Data Generation for Low Resource Handwritten Text Recognition [`论文`](https://openaccess.thecvf.com/content/WACV2022/papers/Souibgui_One-Shot_Compositional_Data_Generation_for_Low_Resource_Handwritten_Text_Recognition_WACV_2022_paper.pdf)
 - [2022-WACV][文字识别] Robustly Recognizing Irregular Scene Text by Rectifying Principle Irregularities [`论文`](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_Robustly_Recognizing_Irregular_Scene_Text_by_Rectifying_Principle_Irregularities_WACV_2022_paper.pdf)
 - [2022-AAAI][文字识别] Context-based Contrastive Learning for Scene Text Recognition [`论文`](https://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
@@ -28,6 +42,7 @@
 
 #### 2021
 
+- [2021-IJCAI][文字识别] Zero-Shot Chinese Character Recognition with Stroke-Level Decomposition [`论文`](https://www.ijcai.org/proceedings/2021/0085.pdf) [`代码`](https://github.com/FudanVI/FudanOCR)
 - [2021-WACV][位置感知] Disentangled Contour Learning for Quadrilateral Text Detection [`论文`](https://openaccess.thecvf.com/content/WACV2021/papers/Bi_Disentangled_Contour_Learning_for_Quadrilateral_Text_Detection_WACV_2021_paper.pdf) [`代码`](https://github.com/SakuraRiven/DCLNet)
 - [2021-AAAI][位置感知][文字识别] PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network [`论文`](https://arxiv.org/pdf/2104.05458.pdf) [`代码`](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.1/doc/doc_en/pgnet_en.md)
 - [2021-AAAI][位置感知][文字识别] MANGO: A Mask Attention Guided One-Stage Scene Text Spotter [`论文`](https://arxiv.org/pdf/2012.04350.pdf)
